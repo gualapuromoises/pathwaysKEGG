@@ -8,9 +8,13 @@ Input files contain interaction information in three columns:
 3. #.#.#.#: EC number, enzyme nomenclature number
 ### Source of data
 Information source are from: 
-. Tissue: Breast, Lung, Kidney or Renal, and Urothelial
-. Condition: Cancer, Healthy
-. Set: MDS, nonMDS, where MDS means Minimum Dominanting Set
+
+Tissue: Breast, Lung, Kidney or Renal, and Urothelial
+
+Condition: Cancer, Healthy
+
+Set: MDS, nonMDS, where MDS means Minimum Dominanting Set
+
 Example of file name: EC_BreastCancer_MDS, EC_UrothelialHealthy_nonDMS
 ## Script Function
 
