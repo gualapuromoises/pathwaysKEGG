@@ -6,6 +6,6 @@ Files containing information on:
 Files information are from: 
 Tissue: Breast, Lung, Kidney or Renal, and Urothelial
 Condition: Cancer, Healthy
-Set: MDS, nonMDS, where MDS means Minimum Dominanting Set
+Set: MDS, nonMDS, where MDS means Minimum Dominating Set
 
 Example of file name: EC_BreastCancer_MDS, EC_UrothelialHealthy_nonDMS
