@@ -17,9 +17,9 @@ Set: MDS, nonMDS, where MDS means Minimum Dominanting Set
 
 Example of file name: 
 
-EC_BreastCancer_MDS, 
+*EC_BreastCancer_MDS*, 
 
-EC_UrothelialHealthy_nonDMS
+*EC_UrothelialHealthy_nonDMS*
 
 ## Script Function
 
