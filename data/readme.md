@@ -2,6 +2,7 @@
 1. R_HMR_#### : reaction name
 2. v#### : edge name
 3. #.#.#.#: EC number, enzyme nomenclature number
+
 Example of a row: 
 
 R_HMR_4377	v2113	3.1.3.11
