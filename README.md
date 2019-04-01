@@ -13,3 +13,7 @@ Condition: Cancer, Healthy
 Set: MDS, nonMDS, where MDS means Minimum Dominanting Set
 
 Example of file name: EC_BreastCancer_MDS, EC_UrothelialHealthy_nonDMS
+
+# Running Time
+1. MDS files: aproximately 10 minutes (08-12) by file
+2. nonMDS files: aproximately 42 minutes (38-55) by file
