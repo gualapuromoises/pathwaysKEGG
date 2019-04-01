@@ -1,0 +1,3 @@
+Script for: 
+1. Extract pathways from KEGG database using KEGGREST package and EC_number enzymes.
+2. Statistical tests: prop.test() and fisher.test()
