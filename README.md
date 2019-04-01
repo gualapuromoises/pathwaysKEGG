@@ -15,7 +15,12 @@ Condition: Cancer, Healthy
 
 Set: MDS, nonMDS, where MDS means Minimum Dominanting Set
 
-Example of file name: EC_BreastCancer_MDS, EC_UrothelialHealthy_nonDMS
+Example of file name: 
+
+EC_BreastCancer_MDS, 
+
+EC_UrothelialHealthy_nonDMS
+
 ## Script Function
 
 
