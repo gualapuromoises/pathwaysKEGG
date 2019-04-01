@@ -15,7 +15,8 @@ R_HMR_4391	v2121	5.3.1.1
 2. Condition: Cancer, Healthy
 3. Set: MDS, nonMDS, where MDS means Minimum Dominating Set
 
-Example of file name: 
-EC_BreastCancer_MDS,
+Example of file name:
 
-EC_UrothelialHealthy_nonDMS
+- EC_BreastCancer_MDS,
+
+- EC_UrothelialHealthy_nonDMS
