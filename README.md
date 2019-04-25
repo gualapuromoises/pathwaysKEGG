@@ -22,7 +22,17 @@ Example of file name:
 *EC_UrothelialHealthy_nonDMS*
 
 ## Script Function
+### First_KEGGPathways.R
 
+In this script you have three functions: 
+
+#### function Pathways
+This function is for extracting the list of pathways set by set and save two results: 
+- List of raw pathways
+- List of pathways with the number of counts of that pathway. 
+* Two options are available, run for all datasets or run files one by one 
+
+#### function 
 
 #### Running Time
 1. MDS files: aproximately 10 minutes (08'-15') by file
