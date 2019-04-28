@@ -1,0 +1,1878 @@
+tissue,health_state,set,network_name,network_code,pathway,count
+Breast,Cancer,MDS,Breast_Cancer_MDS,BCM,Aflatoxin biosynthesis,1
+Breast,Cancer,MDS,Breast_Cancer_MDS,BCM,"Alanine, aspartate and glutamate metabolism",16
+Breast,Cancer,MDS,Breast_Cancer_MDS,BCM,alpha-Linolenic acid metabolism,14
+Breast,Cancer,MDS,Breast_Cancer_MDS,BCM,Aminoacyl-tRNA biosynthesis,1
+Breast,Cancer,MDS,Breast_Cancer_MDS,BCM,Aminobenzoate degradation,6
+Breast,Cancer,MDS,Breast_Cancer_MDS,BCM,Amino sugar and nucleotide sugar metabolism,26
+Breast,Cancer,MDS,Breast_Cancer_MDS,BCM,Arachidonic acid metabolism,16
+Breast,Cancer,MDS,Breast_Cancer_MDS,BCM,Arginine and proline metabolism,21
+Breast,Cancer,MDS,Breast_Cancer_MDS,BCM,Arginine biosynthesis,8
+Breast,Cancer,MDS,Breast_Cancer_MDS,BCM,Ascorbate and aldarate metabolism,7
+Breast,Cancer,MDS,Breast_Cancer_MDS,BCM,Benzoate degradation,9
+Breast,Cancer,MDS,Breast_Cancer_MDS,BCM,beta-Alanine metabolism,24
+Breast,Cancer,MDS,Breast_Cancer_MDS,BCM,Betalain biosynthesis,6
+Breast,Cancer,MDS,Breast_Cancer_MDS,BCM,Biosynthesis of antibiotics,115
+Breast,Cancer,MDS,Breast_Cancer_MDS,BCM,Biosynthesis of secondary metabolites,191
+Breast,Cancer,MDS,Breast_Cancer_MDS,BCM,Biosynthesis of unsaturated fatty acids,25
+Breast,Cancer,MDS,Breast_Cancer_MDS,BCM,Biotin metabolism,5
+Breast,Cancer,MDS,Breast_Cancer_MDS,BCM,Butanoate metabolism,11
+Breast,Cancer,MDS,Breast_Cancer_MDS,BCM,C5-Branched dibasic acid metabolism,1
+Breast,Cancer,MDS,Breast_Cancer_MDS,BCM,Caffeine metabolism,4
+Breast,Cancer,MDS,Breast_Cancer_MDS,BCM,Caprolactam degradation,8
+Breast,Cancer,MDS,Breast_Cancer_MDS,BCM,Carbon fixation in photosynthetic organisms,10
+Breast,Cancer,MDS,Breast_Cancer_MDS,BCM,Carbon fixation pathways in prokaryotes,26
+Breast,Cancer,MDS,Breast_Cancer_MDS,BCM,Chloroalkane and chloroalkene degradation,8
+Breast,Cancer,MDS,Breast_Cancer_MDS,BCM,Citrate cycle (TCA cycle),26
+Breast,Cancer,MDS,Breast_Cancer_MDS,BCM,Cyanoamino acid metabolism,5
+Breast,Cancer,MDS,Breast_Cancer_MDS,BCM,Cysteine and methionine metabolism,13
+Breast,Cancer,MDS,Breast_Cancer_MDS,BCM,D-Glutamine and D-glutamate metabolism,4
+Breast,Cancer,MDS,Breast_Cancer_MDS,BCM,Drug metabolism - cytochrome P450,19
+Breast,Cancer,MDS,Breast_Cancer_MDS,BCM,Drug metabolism - other enzymes,41
+Breast,Cancer,MDS,Breast_Cancer_MDS,BCM,Ether lipid metabolism,7
+Breast,Cancer,MDS,Breast_Cancer_MDS,BCM,Ethylbenzene degradation,4
+Breast,Cancer,MDS,Breast_Cancer_MDS,BCM,Fatty acid biosynthesis,14
+Breast,Cancer,MDS,Breast_Cancer_MDS,BCM,Fatty acid degradation,37
+Breast,Cancer,MDS,Breast_Cancer_MDS,BCM,Fatty acid elongation,24
+Breast,Cancer,MDS,Breast_Cancer_MDS,BCM,Flavone and flavonol biosynthesis,1
+Breast,Cancer,MDS,Breast_Cancer_MDS,BCM,Folate biosynthesis,5
+Breast,Cancer,MDS,Breast_Cancer_MDS,BCM,Fructose and mannose metabolism,16
+Breast,Cancer,MDS,Breast_Cancer_MDS,BCM,Galactose metabolism,23
+Breast,Cancer,MDS,Breast_Cancer_MDS,BCM,Geraniol degradation,8
+Breast,Cancer,MDS,Breast_Cancer_MDS,BCM,Glutathione metabolism,25
+Breast,Cancer,MDS,Breast_Cancer_MDS,BCM,Glycerolipid metabolism,19
+Breast,Cancer,MDS,Breast_Cancer_MDS,BCM,Glycerophospholipid metabolism,18
+Breast,Cancer,MDS,Breast_Cancer_MDS,BCM,"Glycine, serine and threonine metabolism",20
+Breast,Cancer,MDS,Breast_Cancer_MDS,BCM,Glycolysis / Gluconeogenesis,58
+Breast,Cancer,MDS,Breast_Cancer_MDS,BCM,Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate,6
+Breast,Cancer,MDS,Breast_Cancer_MDS,BCM,Glycosaminoglycan biosynthesis - heparan sulfate / heparin,2
+Breast,Cancer,MDS,Breast_Cancer_MDS,BCM,Glycosaminoglycan biosynthesis - keratan sulfate,2
+Breast,Cancer,MDS,Breast_Cancer_MDS,BCM,Glycosaminoglycan degradation,11
+Breast,Cancer,MDS,Breast_Cancer_MDS,BCM,Glycosphingolipid biosynthesis - ganglio series,12
+Breast,Cancer,MDS,Breast_Cancer_MDS,BCM,Glycosphingolipid biosynthesis - globo and isoglobo series,6
+Breast,Cancer,MDS,Breast_Cancer_MDS,BCM,Glycosphingolipid biosynthesis - lacto and neolacto series,7
+Breast,Cancer,MDS,Breast_Cancer_MDS,BCM,Glyoxylate and dicarboxylate metabolism,26
+Breast,Cancer,MDS,Breast_Cancer_MDS,BCM,Histidine metabolism,16
+Breast,Cancer,MDS,Breast_Cancer_MDS,BCM,Inositol phosphate metabolism,19
+Breast,Cancer,MDS,Breast_Cancer_MDS,BCM,Insect hormone biosynthesis,6
+Breast,Cancer,MDS,Breast_Cancer_MDS,BCM,Isoquinoline alkaloid biosynthesis,8
+Breast,Cancer,MDS,Breast_Cancer_MDS,BCM,Limonene and pinene degradation,9
+Breast,Cancer,MDS,Breast_Cancer_MDS,BCM,Linoleic acid metabolism,6
+Breast,Cancer,MDS,Breast_Cancer_MDS,BCM,Lysine biosynthesis,1
+Breast,Cancer,MDS,Breast_Cancer_MDS,BCM,Lysine degradation,18
+Breast,Cancer,MDS,Breast_Cancer_MDS,BCM,Mannose type O-glycan biosynthesis,1
+Breast,Cancer,MDS,Breast_Cancer_MDS,BCM,Metabolic pathways,362
+Breast,Cancer,MDS,Breast_Cancer_MDS,BCM,Metabolism of xenobiotics by cytochrome P450,20
+Breast,Cancer,MDS,Breast_Cancer_MDS,BCM,Methane metabolism,9
+Breast,Cancer,MDS,Breast_Cancer_MDS,BCM,Microbial metabolism in diverse environments,117
+Breast,Cancer,MDS,Breast_Cancer_MDS,BCM,Mucin type O-glycan biosynthesis,3
+Breast,Cancer,MDS,Breast_Cancer_MDS,BCM,Naphthalene degradation,2
+Breast,Cancer,MDS,Breast_Cancer_MDS,BCM,"Neomycin, kanamycin and gentamicin biosynthesis",13
+Breast,Cancer,MDS,Breast_Cancer_MDS,BCM,N-Glycan biosynthesis,2
+Breast,Cancer,MDS,Breast_Cancer_MDS,BCM,Nicotinate and nicotinamide metabolism,21
+Breast,Cancer,MDS,Breast_Cancer_MDS,BCM,Nitrogen metabolism,4
+Breast,Cancer,MDS,Breast_Cancer_MDS,BCM,Novobiocin biosynthesis,5
+Breast,Cancer,MDS,Breast_Cancer_MDS,BCM,One carbon pool by folate,8
+Breast,Cancer,MDS,Breast_Cancer_MDS,BCM,Other glycan degradation,4
+Breast,Cancer,MDS,Breast_Cancer_MDS,BCM,Other types of O-glycan biosynthesis,1
+Breast,Cancer,MDS,Breast_Cancer_MDS,BCM,Oxidative phosphorylation,5
+Breast,Cancer,MDS,Breast_Cancer_MDS,BCM,Pantothenate and CoA biosynthesis,6
+Breast,Cancer,MDS,Breast_Cancer_MDS,BCM,Pentose and glucuronate interconversions,5
+Breast,Cancer,MDS,Breast_Cancer_MDS,BCM,Pentose phosphate pathway,9
+Breast,Cancer,MDS,Breast_Cancer_MDS,BCM,Phenylalanine metabolism,17
+Breast,Cancer,MDS,Breast_Cancer_MDS,BCM,"Phenylalanine, tyrosine and tryptophan biosynthesis",5
+Breast,Cancer,MDS,Breast_Cancer_MDS,BCM,Phenylpropanoid biosynthesis,1
+Breast,Cancer,MDS,Breast_Cancer_MDS,BCM,Porphyrin and chlorophyll metabolism,3
+Breast,Cancer,MDS,Breast_Cancer_MDS,BCM,Primary bile acid biosynthesis,2
+Breast,Cancer,MDS,Breast_Cancer_MDS,BCM,Propanoate metabolism,20
+Breast,Cancer,MDS,Breast_Cancer_MDS,BCM,Purine metabolism,69
+Breast,Cancer,MDS,Breast_Cancer_MDS,BCM,Pyrimidine metabolism,55
+Breast,Cancer,MDS,Breast_Cancer_MDS,BCM,Pyruvate metabolism,44
+Breast,Cancer,MDS,Breast_Cancer_MDS,BCM,Retinol metabolism,9
+Breast,Cancer,MDS,Breast_Cancer_MDS,BCM,Riboflavin metabolism,2
+Breast,Cancer,MDS,Breast_Cancer_MDS,BCM,Secondary bile acid biosynthesis,1
+Breast,Cancer,MDS,Breast_Cancer_MDS,BCM,Selenocompound metabolism,2
+Breast,Cancer,MDS,Breast_Cancer_MDS,BCM,Sphingolipid metabolism,10
+Breast,Cancer,MDS,Breast_Cancer_MDS,BCM,Starch and sucrose metabolism,20
+Breast,Cancer,MDS,Breast_Cancer_MDS,BCM,Steroid biosynthesis,3
+Breast,Cancer,MDS,Breast_Cancer_MDS,BCM,Steroid hormone biosynthesis,10
+Breast,Cancer,MDS,Breast_Cancer_MDS,BCM,Streptomycin biosynthesis,17
+Breast,Cancer,MDS,Breast_Cancer_MDS,BCM,Sulfur metabolism,3
+Breast,Cancer,MDS,Breast_Cancer_MDS,BCM,Synthesis and degradation of ketone bodies,1
+Breast,Cancer,MDS,Breast_Cancer_MDS,BCM,Taurine and hypotaurine metabolism,8
+Breast,Cancer,MDS,Breast_Cancer_MDS,BCM,Terpenoid backbone biosynthesis,3
+Breast,Cancer,MDS,Breast_Cancer_MDS,BCM,Thiamine metabolism,2
+Breast,Cancer,MDS,Breast_Cancer_MDS,BCM,Toluene degradation,1
+Breast,Cancer,MDS,Breast_Cancer_MDS,BCM,"Tropane, piperidine and pyridine alkaloid biosynthesis",6
+Breast,Cancer,MDS,Breast_Cancer_MDS,BCM,Tryptophan metabolism,28
+Breast,Cancer,MDS,Breast_Cancer_MDS,BCM,Tyrosine metabolism,23
+Breast,Cancer,MDS,Breast_Cancer_MDS,BCM,Ubiquinone and other terpenoid-quinone biosynthesis,2
+Breast,Cancer,MDS,Breast_Cancer_MDS,BCM,"Valine, leucine and isoleucine biosynthesis",2
+Breast,Cancer,MDS,Breast_Cancer_MDS,BCM,"Valine, leucine and isoleucine degradation",23
+Breast,Cancer,MDS,Breast_Cancer_MDS,BCM,Various types of N-glycan biosynthesis,1
+Breast,Cancer,MDS,Breast_Cancer_MDS,BCM,Vitamin B6 metabolism,1
+Breast,Cancer,nonMDS,Breast_Cancer_nonMDS,BCNM,Aflatoxin biosynthesis,2
+Breast,Cancer,nonMDS,Breast_Cancer_nonMDS,BCNM,"Alanine, aspartate and glutamate metabolism",17
+Breast,Cancer,nonMDS,Breast_Cancer_nonMDS,BCNM,alpha-Linolenic acid metabolism,254
+Breast,Cancer,nonMDS,Breast_Cancer_nonMDS,BCNM,Aminoacyl-tRNA biosynthesis,19
+Breast,Cancer,nonMDS,Breast_Cancer_nonMDS,BCNM,Aminobenzoate degradation,128
+Breast,Cancer,nonMDS,Breast_Cancer_nonMDS,BCNM,Amino sugar and nucleotide sugar metabolism,34
+Breast,Cancer,nonMDS,Breast_Cancer_nonMDS,BCNM,Arachidonic acid metabolism,82
+Breast,Cancer,nonMDS,Breast_Cancer_nonMDS,BCNM,Arginine and proline metabolism,66
+Breast,Cancer,nonMDS,Breast_Cancer_nonMDS,BCNM,Arginine biosynthesis,7
+Breast,Cancer,nonMDS,Breast_Cancer_nonMDS,BCNM,Ascorbate and aldarate metabolism,11
+Breast,Cancer,nonMDS,Breast_Cancer_nonMDS,BCNM,Benzoate degradation,281
+Breast,Cancer,nonMDS,Breast_Cancer_nonMDS,BCNM,beta-Alanine metabolism,151
+Breast,Cancer,nonMDS,Breast_Cancer_nonMDS,BCNM,Betalain biosynthesis,17
+Breast,Cancer,nonMDS,Breast_Cancer_nonMDS,BCNM,Biosynthesis of ansamycins,2
+Breast,Cancer,nonMDS,Breast_Cancer_nonMDS,BCNM,Biosynthesis of antibiotics,456
+Breast,Cancer,nonMDS,Breast_Cancer_nonMDS,BCNM,Biosynthesis of secondary metabolites,790
+Breast,Cancer,nonMDS,Breast_Cancer_nonMDS,BCNM,Biosynthesis of unsaturated fatty acids,230
+Breast,Cancer,nonMDS,Breast_Cancer_nonMDS,BCNM,Biotin metabolism,21
+Breast,Cancer,nonMDS,Breast_Cancer_nonMDS,BCNM,Butanoate metabolism,204
+Breast,Cancer,nonMDS,Breast_Cancer_nonMDS,BCNM,Caffeine metabolism,36
+Breast,Cancer,nonMDS,Breast_Cancer_nonMDS,BCNM,Caprolactam degradation,192
+Breast,Cancer,nonMDS,Breast_Cancer_nonMDS,BCNM,Carbapenem biosynthesis,2
+Breast,Cancer,nonMDS,Breast_Cancer_nonMDS,BCNM,Carbon fixation in photosynthetic organisms,11
+Breast,Cancer,nonMDS,Breast_Cancer_nonMDS,BCNM,Carbon fixation pathways in prokaryotes,208
+Breast,Cancer,nonMDS,Breast_Cancer_nonMDS,BCNM,Chloroalkane and chloroalkene degradation,20
+Breast,Cancer,nonMDS,Breast_Cancer_nonMDS,BCNM,Citrate cycle (TCA cycle),18
+Breast,Cancer,nonMDS,Breast_Cancer_nonMDS,BCNM,"Cutin, suberine and wax biosynthesis",1
+Breast,Cancer,nonMDS,Breast_Cancer_nonMDS,BCNM,Cyanoamino acid metabolism,4
+Breast,Cancer,nonMDS,Breast_Cancer_nonMDS,BCNM,Cysteine and methionine metabolism,33
+Breast,Cancer,nonMDS,Breast_Cancer_nonMDS,BCNM,D-Alanine metabolism,1
+Breast,Cancer,nonMDS,Breast_Cancer_nonMDS,BCNM,D-Arginine and D-ornithine metabolism,1
+Breast,Cancer,nonMDS,Breast_Cancer_nonMDS,BCNM,D-Glutamine and D-glutamate metabolism,1
+Breast,Cancer,nonMDS,Breast_Cancer_nonMDS,BCNM,Drug metabolism - cytochrome P450,108
+Breast,Cancer,nonMDS,Breast_Cancer_nonMDS,BCNM,Drug metabolism - other enzymes,65
+Breast,Cancer,nonMDS,Breast_Cancer_nonMDS,BCNM,Ether lipid metabolism,22
+Breast,Cancer,nonMDS,Breast_Cancer_nonMDS,BCNM,Ethylbenzene degradation,92
+Breast,Cancer,nonMDS,Breast_Cancer_nonMDS,BCNM,Fatty acid biosynthesis,169
+Breast,Cancer,nonMDS,Breast_Cancer_nonMDS,BCNM,Fatty acid degradation,643
+Breast,Cancer,nonMDS,Breast_Cancer_nonMDS,BCNM,Fatty acid elongation,400
+Breast,Cancer,nonMDS,Breast_Cancer_nonMDS,BCNM,Flavone and flavonol biosynthesis,7
+Breast,Cancer,nonMDS,Breast_Cancer_nonMDS,BCNM,Folate biosynthesis,49
+Breast,Cancer,nonMDS,Breast_Cancer_nonMDS,BCNM,Fructose and mannose metabolism,26
+Breast,Cancer,nonMDS,Breast_Cancer_nonMDS,BCNM,Galactose metabolism,28
+Breast,Cancer,nonMDS,Breast_Cancer_nonMDS,BCNM,Geraniol degradation,280
+Breast,Cancer,nonMDS,Breast_Cancer_nonMDS,BCNM,Glucosinolate biosynthesis,3
+Breast,Cancer,nonMDS,Breast_Cancer_nonMDS,BCNM,Glutathione metabolism,59
+Breast,Cancer,nonMDS,Breast_Cancer_nonMDS,BCNM,Glycerolipid metabolism,116
+Breast,Cancer,nonMDS,Breast_Cancer_nonMDS,BCNM,Glycerophospholipid metabolism,104
+Breast,Cancer,nonMDS,Breast_Cancer_nonMDS,BCNM,"Glycine, serine and threonine metabolism",70
+Breast,Cancer,nonMDS,Breast_Cancer_nonMDS,BCNM,Glycolysis / Gluconeogenesis,65
+Breast,Cancer,nonMDS,Breast_Cancer_nonMDS,BCNM,Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate,8
+Breast,Cancer,nonMDS,Breast_Cancer_nonMDS,BCNM,Glycosaminoglycan biosynthesis - heparan sulfate / heparin,4
+Breast,Cancer,nonMDS,Breast_Cancer_nonMDS,BCNM,Glycosaminoglycan biosynthesis - keratan sulfate,8
+Breast,Cancer,nonMDS,Breast_Cancer_nonMDS,BCNM,Glycosaminoglycan degradation,35
+Breast,Cancer,nonMDS,Breast_Cancer_nonMDS,BCNM,Glycosphingolipid biosynthesis - ganglio series,17
+Breast,Cancer,nonMDS,Breast_Cancer_nonMDS,BCNM,Glycosphingolipid biosynthesis - globo and isoglobo series,36
+Breast,Cancer,nonMDS,Breast_Cancer_nonMDS,BCNM,Glycosphingolipid biosynthesis - lacto and neolacto series,38
+Breast,Cancer,nonMDS,Breast_Cancer_nonMDS,BCNM,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis,2
+Breast,Cancer,nonMDS,Breast_Cancer_nonMDS,BCNM,Glyoxylate and dicarboxylate metabolism,12
+Breast,Cancer,nonMDS,Breast_Cancer_nonMDS,BCNM,Histidine metabolism,59
+Breast,Cancer,nonMDS,Breast_Cancer_nonMDS,BCNM,Inositol phosphate metabolism,23
+Breast,Cancer,nonMDS,Breast_Cancer_nonMDS,BCNM,Insect hormone biosynthesis,9
+Breast,Cancer,nonMDS,Breast_Cancer_nonMDS,BCNM,Isoquinoline alkaloid biosynthesis,44
+Breast,Cancer,nonMDS,Breast_Cancer_nonMDS,BCNM,Limonene and pinene degradation,101
+Breast,Cancer,nonMDS,Breast_Cancer_nonMDS,BCNM,Linoleic acid metabolism,43
+Breast,Cancer,nonMDS,Breast_Cancer_nonMDS,BCNM,Lipoic acid metabolism,5
+Breast,Cancer,nonMDS,Breast_Cancer_nonMDS,BCNM,Lysine biosynthesis,3
+Breast,Cancer,nonMDS,Breast_Cancer_nonMDS,BCNM,Lysine degradation,219
+Breast,Cancer,nonMDS,Breast_Cancer_nonMDS,BCNM,Mannose type O-glycan biosynthesis,8
+Breast,Cancer,nonMDS,Breast_Cancer_nonMDS,BCNM,Metabolic pathways,1528
+Breast,Cancer,nonMDS,Breast_Cancer_nonMDS,BCNM,Metabolism of xenobiotics by cytochrome P450,112
+Breast,Cancer,nonMDS,Breast_Cancer_nonMDS,BCNM,Methane metabolism,19
+Breast,Cancer,nonMDS,Breast_Cancer_nonMDS,BCNM,Microbial metabolism in diverse environments,458
+Breast,Cancer,nonMDS,Breast_Cancer_nonMDS,BCNM,Monobactam biosynthesis,2
+Breast,Cancer,nonMDS,Breast_Cancer_nonMDS,BCNM,Mucin type O-glycan biosynthesis,10
+Breast,Cancer,nonMDS,Breast_Cancer_nonMDS,BCNM,Naphthalene degradation,9
+Breast,Cancer,nonMDS,Breast_Cancer_nonMDS,BCNM,"Neomycin, kanamycin and gentamicin biosynthesis",2
+Breast,Cancer,nonMDS,Breast_Cancer_nonMDS,BCNM,N-Glycan biosynthesis,28
+Breast,Cancer,nonMDS,Breast_Cancer_nonMDS,BCNM,Nicotinate and nicotinamide metabolism,25
+Breast,Cancer,nonMDS,Breast_Cancer_nonMDS,BCNM,Nitrogen metabolism,2
+Breast,Cancer,nonMDS,Breast_Cancer_nonMDS,BCNM,Novobiocin biosynthesis,6
+Breast,Cancer,nonMDS,Breast_Cancer_nonMDS,BCNM,One carbon pool by folate,24
+Breast,Cancer,nonMDS,Breast_Cancer_nonMDS,BCNM,Other glycan degradation,14
+Breast,Cancer,nonMDS,Breast_Cancer_nonMDS,BCNM,Other types of O-glycan biosynthesis,2
+Breast,Cancer,nonMDS,Breast_Cancer_nonMDS,BCNM,Oxidative phosphorylation,1
+Breast,Cancer,nonMDS,Breast_Cancer_nonMDS,BCNM,Pantothenate and CoA biosynthesis,22
+Breast,Cancer,nonMDS,Breast_Cancer_nonMDS,BCNM,Pentose and glucuronate interconversions,20
+Breast,Cancer,nonMDS,Breast_Cancer_nonMDS,BCNM,Pentose phosphate pathway,22
+Breast,Cancer,nonMDS,Breast_Cancer_nonMDS,BCNM,Phenylalanine metabolism,155
+Breast,Cancer,nonMDS,Breast_Cancer_nonMDS,BCNM,"Phenylalanine, tyrosine and tryptophan biosynthesis",7
+Breast,Cancer,nonMDS,Breast_Cancer_nonMDS,BCNM,Phenylpropanoid biosynthesis,6
+Breast,Cancer,nonMDS,Breast_Cancer_nonMDS,BCNM,Phosphonate and phosphinate metabolism,5
+Breast,Cancer,nonMDS,Breast_Cancer_nonMDS,BCNM,Porphyrin and chlorophyll metabolism,22
+Breast,Cancer,nonMDS,Breast_Cancer_nonMDS,BCNM,Primary bile acid biosynthesis,41
+Breast,Cancer,nonMDS,Breast_Cancer_nonMDS,BCNM,Propanoate metabolism,132
+Breast,Cancer,nonMDS,Breast_Cancer_nonMDS,BCNM,Purine metabolism,67
+Breast,Cancer,nonMDS,Breast_Cancer_nonMDS,BCNM,Pyrimidine metabolism,60
+Breast,Cancer,nonMDS,Breast_Cancer_nonMDS,BCNM,Pyruvate metabolism,33
+Breast,Cancer,nonMDS,Breast_Cancer_nonMDS,BCNM,Retinol metabolism,60
+Breast,Cancer,nonMDS,Breast_Cancer_nonMDS,BCNM,Riboflavin metabolism,9
+Breast,Cancer,nonMDS,Breast_Cancer_nonMDS,BCNM,Secondary bile acid biosynthesis,5
+Breast,Cancer,nonMDS,Breast_Cancer_nonMDS,BCNM,Selenocompound metabolism,8
+Breast,Cancer,nonMDS,Breast_Cancer_nonMDS,BCNM,Sesquiterpenoid and triterpenoid biosynthesis,2
+Breast,Cancer,nonMDS,Breast_Cancer_nonMDS,BCNM,Sphingolipid metabolism,35
+Breast,Cancer,nonMDS,Breast_Cancer_nonMDS,BCNM,Starch and sucrose metabolism,28
+Breast,Cancer,nonMDS,Breast_Cancer_nonMDS,BCNM,Steroid biosynthesis,144
+Breast,Cancer,nonMDS,Breast_Cancer_nonMDS,BCNM,Steroid hormone biosynthesis,82
+Breast,Cancer,nonMDS,Breast_Cancer_nonMDS,BCNM,Streptomycin biosynthesis,5
+Breast,Cancer,nonMDS,Breast_Cancer_nonMDS,BCNM,Styrene degradation,5
+Breast,Cancer,nonMDS,Breast_Cancer_nonMDS,BCNM,Sulfur metabolism,5
+Breast,Cancer,nonMDS,Breast_Cancer_nonMDS,BCNM,Synthesis and degradation of ketone bodies,7
+Breast,Cancer,nonMDS,Breast_Cancer_nonMDS,BCNM,Taurine and hypotaurine metabolism,8
+Breast,Cancer,nonMDS,Breast_Cancer_nonMDS,BCNM,Terpenoid backbone biosynthesis,22
+Breast,Cancer,nonMDS,Breast_Cancer_nonMDS,BCNM,Thiamine metabolism,10
+Breast,Cancer,nonMDS,Breast_Cancer_nonMDS,BCNM,Toluene degradation,95
+Breast,Cancer,nonMDS,Breast_Cancer_nonMDS,BCNM,"Tropane, piperidine and pyridine alkaloid biosynthesis",26
+Breast,Cancer,nonMDS,Breast_Cancer_nonMDS,BCNM,Tryptophan metabolism,295
+Breast,Cancer,nonMDS,Breast_Cancer_nonMDS,BCNM,Tyrosine metabolism,88
+Breast,Cancer,nonMDS,Breast_Cancer_nonMDS,BCNM,Ubiquinone and other terpenoid-quinone biosynthesis,6
+Breast,Cancer,nonMDS,Breast_Cancer_nonMDS,BCNM,"Valine, leucine and isoleucine biosynthesis",3
+Breast,Cancer,nonMDS,Breast_Cancer_nonMDS,BCNM,"Valine, leucine and isoleucine degradation",323
+Breast,Cancer,nonMDS,Breast_Cancer_nonMDS,BCNM,Various types of N-glycan biosynthesis,27
+Breast,Cancer,nonMDS,Breast_Cancer_nonMDS,BCNM,Vitamin B6 metabolism,7
+Breast,Healthy,MDS,Breast_Healthy_MDS,BHM,Aflatoxin biosynthesis,1
+Breast,Healthy,MDS,Breast_Healthy_MDS,BHM,"Alanine, aspartate and glutamate metabolism",12
+Breast,Healthy,MDS,Breast_Healthy_MDS,BHM,alpha-Linolenic acid metabolism,14
+Breast,Healthy,MDS,Breast_Healthy_MDS,BHM,Aminobenzoate degradation,11
+Breast,Healthy,MDS,Breast_Healthy_MDS,BHM,Amino sugar and nucleotide sugar metabolism,27
+Breast,Healthy,MDS,Breast_Healthy_MDS,BHM,Arachidonic acid metabolism,28
+Breast,Healthy,MDS,Breast_Healthy_MDS,BHM,Arginine and proline metabolism,21
+Breast,Healthy,MDS,Breast_Healthy_MDS,BHM,Arginine biosynthesis,7
+Breast,Healthy,MDS,Breast_Healthy_MDS,BHM,Ascorbate and aldarate metabolism,3
+Breast,Healthy,MDS,Breast_Healthy_MDS,BHM,Benzoate degradation,10
+Breast,Healthy,MDS,Breast_Healthy_MDS,BHM,beta-Alanine metabolism,24
+Breast,Healthy,MDS,Breast_Healthy_MDS,BHM,Betalain biosynthesis,11
+Breast,Healthy,MDS,Breast_Healthy_MDS,BHM,Biosynthesis of antibiotics,128
+Breast,Healthy,MDS,Breast_Healthy_MDS,BHM,Biosynthesis of secondary metabolites,217
+Breast,Healthy,MDS,Breast_Healthy_MDS,BHM,Biosynthesis of unsaturated fatty acids,21
+Breast,Healthy,MDS,Breast_Healthy_MDS,BHM,Biotin metabolism,2
+Breast,Healthy,MDS,Breast_Healthy_MDS,BHM,Brassinosteroid biosynthesis,1
+Breast,Healthy,MDS,Breast_Healthy_MDS,BHM,Butanoate metabolism,14
+Breast,Healthy,MDS,Breast_Healthy_MDS,BHM,C5-Branched dibasic acid metabolism,1
+Breast,Healthy,MDS,Breast_Healthy_MDS,BHM,Caffeine metabolism,9
+Breast,Healthy,MDS,Breast_Healthy_MDS,BHM,Caprolactam degradation,6
+Breast,Healthy,MDS,Breast_Healthy_MDS,BHM,Carbon fixation in photosynthetic organisms,11
+Breast,Healthy,MDS,Breast_Healthy_MDS,BHM,Carbon fixation pathways in prokaryotes,25
+Breast,Healthy,MDS,Breast_Healthy_MDS,BHM,Chloroalkane and chloroalkene degradation,5
+Breast,Healthy,MDS,Breast_Healthy_MDS,BHM,Citrate cycle (TCA cycle),23
+Breast,Healthy,MDS,Breast_Healthy_MDS,BHM,"Cutin, suberine and wax biosynthesis",1
+Breast,Healthy,MDS,Breast_Healthy_MDS,BHM,Cyanoamino acid metabolism,2
+Breast,Healthy,MDS,Breast_Healthy_MDS,BHM,Cysteine and methionine metabolism,15
+Breast,Healthy,MDS,Breast_Healthy_MDS,BHM,D-Glutamine and D-glutamate metabolism,1
+Breast,Healthy,MDS,Breast_Healthy_MDS,BHM,Drug metabolism - cytochrome P450,32
+Breast,Healthy,MDS,Breast_Healthy_MDS,BHM,Drug metabolism - other enzymes,55
+Breast,Healthy,MDS,Breast_Healthy_MDS,BHM,Ether lipid metabolism,8
+Breast,Healthy,MDS,Breast_Healthy_MDS,BHM,Ethylbenzene degradation,5
+Breast,Healthy,MDS,Breast_Healthy_MDS,BHM,Fatty acid biosynthesis,25
+Breast,Healthy,MDS,Breast_Healthy_MDS,BHM,Fatty acid degradation,56
+Breast,Healthy,MDS,Breast_Healthy_MDS,BHM,Fatty acid elongation,19
+Breast,Healthy,MDS,Breast_Healthy_MDS,BHM,Flavone and flavonol biosynthesis,1
+Breast,Healthy,MDS,Breast_Healthy_MDS,BHM,Folate biosynthesis,21
+Breast,Healthy,MDS,Breast_Healthy_MDS,BHM,Fructose and mannose metabolism,21
+Breast,Healthy,MDS,Breast_Healthy_MDS,BHM,Galactose metabolism,29
+Breast,Healthy,MDS,Breast_Healthy_MDS,BHM,Geraniol degradation,9
+Breast,Healthy,MDS,Breast_Healthy_MDS,BHM,Glutathione metabolism,35
+Breast,Healthy,MDS,Breast_Healthy_MDS,BHM,Glycerolipid metabolism,18
+Breast,Healthy,MDS,Breast_Healthy_MDS,BHM,Glycerophospholipid metabolism,16
+Breast,Healthy,MDS,Breast_Healthy_MDS,BHM,"Glycine, serine and threonine metabolism",20
+Breast,Healthy,MDS,Breast_Healthy_MDS,BHM,Glycolysis / Gluconeogenesis,53
+Breast,Healthy,MDS,Breast_Healthy_MDS,BHM,Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate,6
+Breast,Healthy,MDS,Breast_Healthy_MDS,BHM,Glycosaminoglycan biosynthesis - heparan sulfate / heparin,3
+Breast,Healthy,MDS,Breast_Healthy_MDS,BHM,Glycosaminoglycan biosynthesis - keratan sulfate,2
+Breast,Healthy,MDS,Breast_Healthy_MDS,BHM,Glycosaminoglycan degradation,13
+Breast,Healthy,MDS,Breast_Healthy_MDS,BHM,Glycosphingolipid biosynthesis - ganglio series,10
+Breast,Healthy,MDS,Breast_Healthy_MDS,BHM,Glycosphingolipid biosynthesis - globo and isoglobo series,8
+Breast,Healthy,MDS,Breast_Healthy_MDS,BHM,Glycosphingolipid biosynthesis - lacto and neolacto series,8
+Breast,Healthy,MDS,Breast_Healthy_MDS,BHM,Glyoxylate and dicarboxylate metabolism,20
+Breast,Healthy,MDS,Breast_Healthy_MDS,BHM,Histidine metabolism,18
+Breast,Healthy,MDS,Breast_Healthy_MDS,BHM,Inositol phosphate metabolism,33
+Breast,Healthy,MDS,Breast_Healthy_MDS,BHM,Insect hormone biosynthesis,3
+Breast,Healthy,MDS,Breast_Healthy_MDS,BHM,Isoquinoline alkaloid biosynthesis,15
+Breast,Healthy,MDS,Breast_Healthy_MDS,BHM,Limonene and pinene degradation,5
+Breast,Healthy,MDS,Breast_Healthy_MDS,BHM,Linoleic acid metabolism,13
+Breast,Healthy,MDS,Breast_Healthy_MDS,BHM,Lipoic acid metabolism,2
+Breast,Healthy,MDS,Breast_Healthy_MDS,BHM,Lysine biosynthesis,1
+Breast,Healthy,MDS,Breast_Healthy_MDS,BHM,Lysine degradation,19
+Breast,Healthy,MDS,Breast_Healthy_MDS,BHM,Metabolic pathways,471
+Breast,Healthy,MDS,Breast_Healthy_MDS,BHM,Metabolism of xenobiotics by cytochrome P450,38
+Breast,Healthy,MDS,Breast_Healthy_MDS,BHM,Methane metabolism,7
+Breast,Healthy,MDS,Breast_Healthy_MDS,BHM,Microbial metabolism in diverse environments,123
+Breast,Healthy,MDS,Breast_Healthy_MDS,BHM,Mucin type O-glycan biosynthesis,4
+Breast,Healthy,MDS,Breast_Healthy_MDS,BHM,Naphthalene degradation,2
+Breast,Healthy,MDS,Breast_Healthy_MDS,BHM,"Neomycin, kanamycin and gentamicin biosynthesis",13
+Breast,Healthy,MDS,Breast_Healthy_MDS,BHM,N-Glycan biosynthesis,6
+Breast,Healthy,MDS,Breast_Healthy_MDS,BHM,Nicotinate and nicotinamide metabolism,22
+Breast,Healthy,MDS,Breast_Healthy_MDS,BHM,Nitrogen metabolism,6
+Breast,Healthy,MDS,Breast_Healthy_MDS,BHM,Novobiocin biosynthesis,5
+Breast,Healthy,MDS,Breast_Healthy_MDS,BHM,One carbon pool by folate,8
+Breast,Healthy,MDS,Breast_Healthy_MDS,BHM,Other glycan degradation,13
+Breast,Healthy,MDS,Breast_Healthy_MDS,BHM,Other types of O-glycan biosynthesis,1
+Breast,Healthy,MDS,Breast_Healthy_MDS,BHM,Oxidative phosphorylation,4
+Breast,Healthy,MDS,Breast_Healthy_MDS,BHM,Pantothenate and CoA biosynthesis,6
+Breast,Healthy,MDS,Breast_Healthy_MDS,BHM,Pentose and glucuronate interconversions,6
+Breast,Healthy,MDS,Breast_Healthy_MDS,BHM,Pentose phosphate pathway,11
+Breast,Healthy,MDS,Breast_Healthy_MDS,BHM,Phenylalanine metabolism,27
+Breast,Healthy,MDS,Breast_Healthy_MDS,BHM,"Phenylalanine, tyrosine and tryptophan biosynthesis",6
+Breast,Healthy,MDS,Breast_Healthy_MDS,BHM,Phenylpropanoid biosynthesis,5
+Breast,Healthy,MDS,Breast_Healthy_MDS,BHM,Phosphonate and phosphinate metabolism,2
+Breast,Healthy,MDS,Breast_Healthy_MDS,BHM,Porphyrin and chlorophyll metabolism,5
+Breast,Healthy,MDS,Breast_Healthy_MDS,BHM,Primary bile acid biosynthesis,6
+Breast,Healthy,MDS,Breast_Healthy_MDS,BHM,Propanoate metabolism,21
+Breast,Healthy,MDS,Breast_Healthy_MDS,BHM,Purine metabolism,88
+Breast,Healthy,MDS,Breast_Healthy_MDS,BHM,Pyrimidine metabolism,74
+Breast,Healthy,MDS,Breast_Healthy_MDS,BHM,Pyruvate metabolism,41
+Breast,Healthy,MDS,Breast_Healthy_MDS,BHM,Retinol metabolism,15
+Breast,Healthy,MDS,Breast_Healthy_MDS,BHM,Riboflavin metabolism,2
+Breast,Healthy,MDS,Breast_Healthy_MDS,BHM,Selenocompound metabolism,2
+Breast,Healthy,MDS,Breast_Healthy_MDS,BHM,Sphingolipid metabolism,19
+Breast,Healthy,MDS,Breast_Healthy_MDS,BHM,Starch and sucrose metabolism,20
+Breast,Healthy,MDS,Breast_Healthy_MDS,BHM,Steroid biosynthesis,10
+Breast,Healthy,MDS,Breast_Healthy_MDS,BHM,Steroid hormone biosynthesis,19
+Breast,Healthy,MDS,Breast_Healthy_MDS,BHM,Streptomycin biosynthesis,17
+Breast,Healthy,MDS,Breast_Healthy_MDS,BHM,Styrene degradation,1
+Breast,Healthy,MDS,Breast_Healthy_MDS,BHM,Sulfur metabolism,3
+Breast,Healthy,MDS,Breast_Healthy_MDS,BHM,Synthesis and degradation of ketone bodies,4
+Breast,Healthy,MDS,Breast_Healthy_MDS,BHM,Taurine and hypotaurine metabolism,3
+Breast,Healthy,MDS,Breast_Healthy_MDS,BHM,Terpenoid backbone biosynthesis,5
+Breast,Healthy,MDS,Breast_Healthy_MDS,BHM,Thiamine metabolism,5
+Breast,Healthy,MDS,Breast_Healthy_MDS,BHM,Toluene degradation,1
+Breast,Healthy,MDS,Breast_Healthy_MDS,BHM,"Tropane, piperidine and pyridine alkaloid biosynthesis",9
+Breast,Healthy,MDS,Breast_Healthy_MDS,BHM,Tryptophan metabolism,39
+Breast,Healthy,MDS,Breast_Healthy_MDS,BHM,Tyrosine metabolism,37
+Breast,Healthy,MDS,Breast_Healthy_MDS,BHM,Ubiquinone and other terpenoid-quinone biosynthesis,3
+Breast,Healthy,MDS,Breast_Healthy_MDS,BHM,"Valine, leucine and isoleucine biosynthesis",1
+Breast,Healthy,MDS,Breast_Healthy_MDS,BHM,"Valine, leucine and isoleucine degradation",29
+Breast,Healthy,MDS,Breast_Healthy_MDS,BHM,Various types of N-glycan biosynthesis,4
+Breast,Healthy,MDS,Breast_Healthy_MDS,BHM,Vitamin B6 metabolism,4
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,Acarbose and validamycin biosynthesis,1
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,Aflatoxin biosynthesis,2
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,"Alanine, aspartate and glutamate metabolism",23
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,alpha-Linolenic acid metabolism,298
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,Aminoacyl-tRNA biosynthesis,20
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,Aminobenzoate degradation,148
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,Amino sugar and nucleotide sugar metabolism,87
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,Arachidonic acid metabolism,76
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,Arginine and proline metabolism,81
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,Arginine biosynthesis,9
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,Ascorbate and aldarate metabolism,18
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,Benzoate degradation,350
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,beta-Alanine metabolism,249
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,Betalain biosynthesis,13
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,Biosynthesis of ansamycins,2
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,Biosynthesis of antibiotics,621
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,Biosynthesis of secondary metabolites,1087
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,Biosynthesis of unsaturated fatty acids,368
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,Biosynthesis of vancomycin group antibiotics,1
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,Biotin metabolism,33
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,Brassinosteroid biosynthesis,2
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,Butanoate metabolism,252
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,C5-Branched dibasic acid metabolism,4
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,Caffeine metabolism,34
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,Caprolactam degradation,245
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,Carbon fixation in photosynthetic organisms,16
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,Carbon fixation pathways in prokaryotes,267
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,Chloroalkane and chloroalkene degradation,28
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,Citrate cycle (TCA cycle),29
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,"Cutin, suberine and wax biosynthesis",2
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,Cyanoamino acid metabolism,6
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,Cysteine and methionine metabolism,36
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,D-Alanine metabolism,1
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,D-Arginine and D-ornithine metabolism,1
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,D-Glutamine and D-glutamate metabolism,3
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,Drug metabolism - cytochrome P450,102
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,Drug metabolism - other enzymes,76
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,Ether lipid metabolism,24
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,Ethylbenzene degradation,112
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,Fatty acid biosynthesis,205
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,Fatty acid degradation,952
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,Fatty acid elongation,680
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,Flavone and flavonol biosynthesis,7
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,Folate biosynthesis,80
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,Fructose and mannose metabolism,35
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,Galactose metabolism,61
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,Geraniol degradation,346
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,Glucosinolate biosynthesis,3
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,Glutathione metabolism,53
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,Glycerolipid metabolism,139
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,Glycerophospholipid metabolism,105
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,"Glycine, serine and threonine metabolism",84
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,Glycolysis / Gluconeogenesis,80
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate,26
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,Glycosaminoglycan biosynthesis - heparan sulfate / heparin,26
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,Glycosaminoglycan biosynthesis - keratan sulfate,12
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,Glycosaminoglycan degradation,171
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,Glycosphingolipid biosynthesis - ganglio series,108
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,Glycosphingolipid biosynthesis - globo and isoglobo series,87
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,Glycosphingolipid biosynthesis - lacto and neolacto series,31
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis,4
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,Glyoxylate and dicarboxylate metabolism,29
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,Histidine metabolism,71
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,Inositol phosphate metabolism,26
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,Insect hormone biosynthesis,15
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,Isoquinoline alkaloid biosynthesis,45
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,Limonene and pinene degradation,131
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,Linoleic acid metabolism,34
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,Lysine biosynthesis,4
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,Lysine degradation,275
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,Mannose type O-glycan biosynthesis,3
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,Metabolic pathways,2258
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,Metabolism of xenobiotics by cytochrome P450,112
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,Methane metabolism,29
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,Microbial metabolism in diverse environments,565
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,Monobactam biosynthesis,2
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,Mucin type O-glycan biosynthesis,11
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,Naphthalene degradation,11
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,"Neomycin, kanamycin and gentamicin biosynthesis",2
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,N-Glycan biosynthesis,43
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,Nicotinate and nicotinamide metabolism,24
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,Nitrogen metabolism,2
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,Novobiocin biosynthesis,7
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,One carbon pool by folate,28
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,Other glycan degradation,131
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,Other types of O-glycan biosynthesis,3
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,Oxidative phosphorylation,3
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,Pantothenate and CoA biosynthesis,19
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,Pentose and glucuronate interconversions,33
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,Pentose phosphate pathway,22
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,Phenylalanine metabolism,181
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,"Phenylalanine, tyrosine and tryptophan biosynthesis",8
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,Phenylpropanoid biosynthesis,12
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,Phosphonate and phosphinate metabolism,2
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,Polyketide sugar unit biosynthesis,1
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,Porphyrin and chlorophyll metabolism,21
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,Primary bile acid biosynthesis,38
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,Propanoate metabolism,221
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,Purine metabolism,74
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,Pyrimidine metabolism,61
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,Pyruvate metabolism,42
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,Retinol metabolism,55
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,Riboflavin metabolism,6
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,Secondary bile acid biosynthesis,1
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,Selenocompound metabolism,9
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,Sesquiterpenoid and triterpenoid biosynthesis,2
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,Sphingolipid metabolism,94
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,Starch and sucrose metabolism,17
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,Steroid biosynthesis,140
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,Steroid degradation,2
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,Steroid hormone biosynthesis,98
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,Streptomycin biosynthesis,6
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,Styrene degradation,5
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,Sulfur metabolism,4
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,Synthesis and degradation of ketone bodies,3
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,Taurine and hypotaurine metabolism,10
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,Terpenoid backbone biosynthesis,18
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,Thiamine metabolism,11
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,Toluene degradation,118
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,"Tropane, piperidine and pyridine alkaloid biosynthesis",28
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,Tryptophan metabolism,345
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,Tyrosine metabolism,96
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,Ubiquinone and other terpenoid-quinone biosynthesis,8
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,"Valine, leucine and isoleucine biosynthesis",7
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,"Valine, leucine and isoleucine degradation",452
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,Various types of N-glycan biosynthesis,89
+Breast,Healthy,nonMDS,Breast_Healthy_nonMDS,BHNM,Vitamin B6 metabolism,13
+Kidney-Renal,Healthy,MDS,Kidney-Renal_Healthy_MDS,RHM,Aflatoxin biosynthesis,1
+Kidney-Renal,Healthy,MDS,Kidney-Renal_Healthy_MDS,RHM,"Alanine, aspartate and glutamate metabolism",10
+Kidney-Renal,Healthy,MDS,Kidney-Renal_Healthy_MDS,RHM,alpha-Linolenic acid metabolism,18
+Kidney-Renal,Healthy,MDS,Kidney-Renal_Healthy_MDS,RHM,Aminoacyl-tRNA biosynthesis,1
+Kidney-Renal,Healthy,MDS,Kidney-Renal_Healthy_MDS,RHM,Aminobenzoate degradation,5
+Kidney-Renal,Healthy,MDS,Kidney-Renal_Healthy_MDS,RHM,Amino sugar and nucleotide sugar metabolism,24
+Kidney-Renal,Healthy,MDS,Kidney-Renal_Healthy_MDS,RHM,Arachidonic acid metabolism,14
+Kidney-Renal,Healthy,MDS,Kidney-Renal_Healthy_MDS,RHM,Arginine and proline metabolism,17
+Kidney-Renal,Healthy,MDS,Kidney-Renal_Healthy_MDS,RHM,Arginine biosynthesis,7
+Kidney-Renal,Healthy,MDS,Kidney-Renal_Healthy_MDS,RHM,Ascorbate and aldarate metabolism,4
+Kidney-Renal,Healthy,MDS,Kidney-Renal_Healthy_MDS,RHM,Benzoate degradation,11
+Kidney-Renal,Healthy,MDS,Kidney-Renal_Healthy_MDS,RHM,beta-Alanine metabolism,20
+Kidney-Renal,Healthy,MDS,Kidney-Renal_Healthy_MDS,RHM,Betalain biosynthesis,9
+Kidney-Renal,Healthy,MDS,Kidney-Renal_Healthy_MDS,RHM,Biosynthesis of ansamycins,1
+Kidney-Renal,Healthy,MDS,Kidney-Renal_Healthy_MDS,RHM,Biosynthesis of antibiotics,125
+Kidney-Renal,Healthy,MDS,Kidney-Renal_Healthy_MDS,RHM,Biosynthesis of secondary metabolites,180
+Kidney-Renal,Healthy,MDS,Kidney-Renal_Healthy_MDS,RHM,Biosynthesis of unsaturated fatty acids,14
+Kidney-Renal,Healthy,MDS,Kidney-Renal_Healthy_MDS,RHM,Butanoate metabolism,10
+Kidney-Renal,Healthy,MDS,Kidney-Renal_Healthy_MDS,RHM,C5-Branched dibasic acid metabolism,1
+Kidney-Renal,Healthy,MDS,Kidney-Renal_Healthy_MDS,RHM,Caffeine metabolism,3
+Kidney-Renal,Healthy,MDS,Kidney-Renal_Healthy_MDS,RHM,Caprolactam degradation,8
+Kidney-Renal,Healthy,MDS,Kidney-Renal_Healthy_MDS,RHM,Carbon fixation in photosynthetic organisms,13
+Kidney-Renal,Healthy,MDS,Kidney-Renal_Healthy_MDS,RHM,Carbon fixation pathways in prokaryotes,18
+Kidney-Renal,Healthy,MDS,Kidney-Renal_Healthy_MDS,RHM,Chloroalkane and chloroalkene degradation,7
+Kidney-Renal,Healthy,MDS,Kidney-Renal_Healthy_MDS,RHM,Citrate cycle (TCA cycle),20
+Kidney-Renal,Healthy,MDS,Kidney-Renal_Healthy_MDS,RHM,"Cutin, suberine and wax biosynthesis",1
+Kidney-Renal,Healthy,MDS,Kidney-Renal_Healthy_MDS,RHM,Cyanoamino acid metabolism,4
+Kidney-Renal,Healthy,MDS,Kidney-Renal_Healthy_MDS,RHM,Cysteine and methionine metabolism,16
+Kidney-Renal,Healthy,MDS,Kidney-Renal_Healthy_MDS,RHM,D-Alanine metabolism,1
+Kidney-Renal,Healthy,MDS,Kidney-Renal_Healthy_MDS,RHM,D-Arginine and D-ornithine metabolism,1
+Kidney-Renal,Healthy,MDS,Kidney-Renal_Healthy_MDS,RHM,D-Glutamine and D-glutamate metabolism,1
+Kidney-Renal,Healthy,MDS,Kidney-Renal_Healthy_MDS,RHM,Drug metabolism - cytochrome P450,32
+Kidney-Renal,Healthy,MDS,Kidney-Renal_Healthy_MDS,RHM,Drug metabolism - other enzymes,46
+Kidney-Renal,Healthy,MDS,Kidney-Renal_Healthy_MDS,RHM,Ether lipid metabolism,9
+Kidney-Renal,Healthy,MDS,Kidney-Renal_Healthy_MDS,RHM,Ethylbenzene degradation,6
+Kidney-Renal,Healthy,MDS,Kidney-Renal_Healthy_MDS,RHM,Fatty acid biosynthesis,19
+Kidney-Renal,Healthy,MDS,Kidney-Renal_Healthy_MDS,RHM,Fatty acid degradation,52
+Kidney-Renal,Healthy,MDS,Kidney-Renal_Healthy_MDS,RHM,Fatty acid elongation,14
+Kidney-Renal,Healthy,MDS,Kidney-Renal_Healthy_MDS,RHM,Flavone and flavonol biosynthesis,1
+Kidney-Renal,Healthy,MDS,Kidney-Renal_Healthy_MDS,RHM,Folate biosynthesis,20
+Kidney-Renal,Healthy,MDS,Kidney-Renal_Healthy_MDS,RHM,Fructose and mannose metabolism,23
+Kidney-Renal,Healthy,MDS,Kidney-Renal_Healthy_MDS,RHM,Galactose metabolism,35
+Kidney-Renal,Healthy,MDS,Kidney-Renal_Healthy_MDS,RHM,Geraniol degradation,9
+Kidney-Renal,Healthy,MDS,Kidney-Renal_Healthy_MDS,RHM,Glutathione metabolism,35
+Kidney-Renal,Healthy,MDS,Kidney-Renal_Healthy_MDS,RHM,Glycerolipid metabolism,24
+Kidney-Renal,Healthy,MDS,Kidney-Renal_Healthy_MDS,RHM,Glycerophospholipid metabolism,21
+Kidney-Renal,Healthy,MDS,Kidney-Renal_Healthy_MDS,RHM,"Glycine, serine and threonine metabolism",22
+Kidney-Renal,Healthy,MDS,Kidney-Renal_Healthy_MDS,RHM,Glycolysis / Gluconeogenesis,55
+Kidney-Renal,Healthy,MDS,Kidney-Renal_Healthy_MDS,RHM,Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate,7
+Kidney-Renal,Healthy,MDS,Kidney-Renal_Healthy_MDS,RHM,Glycosaminoglycan biosynthesis - heparan sulfate / heparin,5
+Kidney-Renal,Healthy,MDS,Kidney-Renal_Healthy_MDS,RHM,Glycosaminoglycan biosynthesis - keratan sulfate,5
+Kidney-Renal,Healthy,MDS,Kidney-Renal_Healthy_MDS,RHM,Glycosaminoglycan degradation,12
+Kidney-Renal,Healthy,MDS,Kidney-Renal_Healthy_MDS,RHM,Glycosphingolipid biosynthesis - ganglio series,12
+Kidney-Renal,Healthy,MDS,Kidney-Renal_Healthy_MDS,RHM,Glycosphingolipid biosynthesis - globo and isoglobo series,10
+Kidney-Renal,Healthy,MDS,Kidney-Renal_Healthy_MDS,RHM,Glycosphingolipid biosynthesis - lacto and neolacto series,10
+Kidney-Renal,Healthy,MDS,Kidney-Renal_Healthy_MDS,RHM,Glyoxylate and dicarboxylate metabolism,10
+Kidney-Renal,Healthy,MDS,Kidney-Renal_Healthy_MDS,RHM,Histidine metabolism,15
+Kidney-Renal,Healthy,MDS,Kidney-Renal_Healthy_MDS,RHM,Inositol phosphate metabolism,26
+Kidney-Renal,Healthy,MDS,Kidney-Renal_Healthy_MDS,RHM,Insect hormone biosynthesis,2
+Kidney-Renal,Healthy,MDS,Kidney-Renal_Healthy_MDS,RHM,Isoquinoline alkaloid biosynthesis,12
+Kidney-Renal,Healthy,MDS,Kidney-Renal_Healthy_MDS,RHM,Limonene and pinene degradation,4
+Kidney-Renal,Healthy,MDS,Kidney-Renal_Healthy_MDS,RHM,Linoleic acid metabolism,6
+Kidney-Renal,Healthy,MDS,Kidney-Renal_Healthy_MDS,RHM,Lysine biosynthesis,1
+Kidney-Renal,Healthy,MDS,Kidney-Renal_Healthy_MDS,RHM,Lysine degradation,18
+Kidney-Renal,Healthy,MDS,Kidney-Renal_Healthy_MDS,RHM,Metabolic pathways,401
+Kidney-Renal,Healthy,MDS,Kidney-Renal_Healthy_MDS,RHM,Metabolism of xenobiotics by cytochrome P450,36
+Kidney-Renal,Healthy,MDS,Kidney-Renal_Healthy_MDS,RHM,Methane metabolism,6
+Kidney-Renal,Healthy,MDS,Kidney-Renal_Healthy_MDS,RHM,Microbial metabolism in diverse environments,114
+Kidney-Renal,Healthy,MDS,Kidney-Renal_Healthy_MDS,RHM,Monobactam biosynthesis,1
+Kidney-Renal,Healthy,MDS,Kidney-Renal_Healthy_MDS,RHM,Mucin type O-glycan biosynthesis,7
+Kidney-Renal,Healthy,MDS,Kidney-Renal_Healthy_MDS,RHM,Naphthalene degradation,5
+Kidney-Renal,Healthy,MDS,Kidney-Renal_Healthy_MDS,RHM,"Neomycin, kanamycin and gentamicin biosynthesis",15
+Kidney-Renal,Healthy,MDS,Kidney-Renal_Healthy_MDS,RHM,N-Glycan biosynthesis,9
+Kidney-Renal,Healthy,MDS,Kidney-Renal_Healthy_MDS,RHM,Nicotinate and nicotinamide metabolism,17
+Kidney-Renal,Healthy,MDS,Kidney-Renal_Healthy_MDS,RHM,Nitrogen metabolism,6
+Kidney-Renal,Healthy,MDS,Kidney-Renal_Healthy_MDS,RHM,Novobiocin biosynthesis,6
+Kidney-Renal,Healthy,MDS,Kidney-Renal_Healthy_MDS,RHM,One carbon pool by folate,11
+Kidney-Renal,Healthy,MDS,Kidney-Renal_Healthy_MDS,RHM,Other glycan degradation,8
+Kidney-Renal,Healthy,MDS,Kidney-Renal_Healthy_MDS,RHM,Oxidative phosphorylation,5
+Kidney-Renal,Healthy,MDS,Kidney-Renal_Healthy_MDS,RHM,Pantothenate and CoA biosynthesis,8
+Kidney-Renal,Healthy,MDS,Kidney-Renal_Healthy_MDS,RHM,Pentose and glucuronate interconversions,11
+Kidney-Renal,Healthy,MDS,Kidney-Renal_Healthy_MDS,RHM,Pentose phosphate pathway,12
+Kidney-Renal,Healthy,MDS,Kidney-Renal_Healthy_MDS,RHM,Phenylalanine metabolism,23
+Kidney-Renal,Healthy,MDS,Kidney-Renal_Healthy_MDS,RHM,"Phenylalanine, tyrosine and tryptophan biosynthesis",6
+Kidney-Renal,Healthy,MDS,Kidney-Renal_Healthy_MDS,RHM,Phenylpropanoid biosynthesis,4
+Kidney-Renal,Healthy,MDS,Kidney-Renal_Healthy_MDS,RHM,Porphyrin and chlorophyll metabolism,5
+Kidney-Renal,Healthy,MDS,Kidney-Renal_Healthy_MDS,RHM,Primary bile acid biosynthesis,3
+Kidney-Renal,Healthy,MDS,Kidney-Renal_Healthy_MDS,RHM,Propanoate metabolism,14
+Kidney-Renal,Healthy,MDS,Kidney-Renal_Healthy_MDS,RHM,Purine metabolism,68
+Kidney-Renal,Healthy,MDS,Kidney-Renal_Healthy_MDS,RHM,Pyrimidine metabolism,48
+Kidney-Renal,Healthy,MDS,Kidney-Renal_Healthy_MDS,RHM,Pyruvate metabolism,33
+Kidney-Renal,Healthy,MDS,Kidney-Renal_Healthy_MDS,RHM,Retinol metabolism,13
+Kidney-Renal,Healthy,MDS,Kidney-Renal_Healthy_MDS,RHM,Riboflavin metabolism,2
+Kidney-Renal,Healthy,MDS,Kidney-Renal_Healthy_MDS,RHM,Selenocompound metabolism,2
+Kidney-Renal,Healthy,MDS,Kidney-Renal_Healthy_MDS,RHM,Sphingolipid metabolism,16
+Kidney-Renal,Healthy,MDS,Kidney-Renal_Healthy_MDS,RHM,Starch and sucrose metabolism,23
+Kidney-Renal,Healthy,MDS,Kidney-Renal_Healthy_MDS,RHM,Steroid biosynthesis,3
+Kidney-Renal,Healthy,MDS,Kidney-Renal_Healthy_MDS,RHM,Steroid hormone biosynthesis,15
+Kidney-Renal,Healthy,MDS,Kidney-Renal_Healthy_MDS,RHM,Streptomycin biosynthesis,19
+Kidney-Renal,Healthy,MDS,Kidney-Renal_Healthy_MDS,RHM,Sulfur metabolism,3
+Kidney-Renal,Healthy,MDS,Kidney-Renal_Healthy_MDS,RHM,Synthesis and degradation of ketone bodies,3
+Kidney-Renal,Healthy,MDS,Kidney-Renal_Healthy_MDS,RHM,Taurine and hypotaurine metabolism,4
+Kidney-Renal,Healthy,MDS,Kidney-Renal_Healthy_MDS,RHM,Terpenoid backbone biosynthesis,4
+Kidney-Renal,Healthy,MDS,Kidney-Renal_Healthy_MDS,RHM,Thiamine metabolism,5
+Kidney-Renal,Healthy,MDS,Kidney-Renal_Healthy_MDS,RHM,Toluene degradation,1
+Kidney-Renal,Healthy,MDS,Kidney-Renal_Healthy_MDS,RHM,"Tropane, piperidine and pyridine alkaloid biosynthesis",9
+Kidney-Renal,Healthy,MDS,Kidney-Renal_Healthy_MDS,RHM,Tryptophan metabolism,23
+Kidney-Renal,Healthy,MDS,Kidney-Renal_Healthy_MDS,RHM,Tyrosine metabolism,36
+Kidney-Renal,Healthy,MDS,Kidney-Renal_Healthy_MDS,RHM,Ubiquinone and other terpenoid-quinone biosynthesis,1
+Kidney-Renal,Healthy,MDS,Kidney-Renal_Healthy_MDS,RHM,"Valine, leucine and isoleucine biosynthesis",2
+Kidney-Renal,Healthy,MDS,Kidney-Renal_Healthy_MDS,RHM,"Valine, leucine and isoleucine degradation",21
+Kidney-Renal,Healthy,MDS,Kidney-Renal_Healthy_MDS,RHM,Various types of N-glycan biosynthesis,6
+Kidney-Renal,Healthy,MDS,Kidney-Renal_Healthy_MDS,RHM,Vitamin B6 metabolism,3
+Kidney-Renal,Healthy,nonMDS,Kidney-Renal_Healthy_nonMDS,RHNM,Acarbose and validamycin biosynthesis,1
+Kidney-Renal,Healthy,nonMDS,Kidney-Renal_Healthy_nonMDS,RHNM,Aflatoxin biosynthesis,1
+Kidney-Renal,Healthy,nonMDS,Kidney-Renal_Healthy_nonMDS,RHNM,"Alanine, aspartate and glutamate metabolism",17
+Kidney-Renal,Healthy,nonMDS,Kidney-Renal_Healthy_nonMDS,RHNM,alpha-Linolenic acid metabolism,295
+Kidney-Renal,Healthy,nonMDS,Kidney-Renal_Healthy_nonMDS,RHNM,Aminoacyl-tRNA biosynthesis,19
+Kidney-Renal,Healthy,nonMDS,Kidney-Renal_Healthy_nonMDS,RHNM,Aminobenzoate degradation,152
+Kidney-Renal,Healthy,nonMDS,Kidney-Renal_Healthy_nonMDS,RHNM,Amino sugar and nucleotide sugar metabolism,44
+Kidney-Renal,Healthy,nonMDS,Kidney-Renal_Healthy_nonMDS,RHNM,Arachidonic acid metabolism,76
+Kidney-Renal,Healthy,nonMDS,Kidney-Renal_Healthy_nonMDS,RHNM,Arginine and proline metabolism,76
+Kidney-Renal,Healthy,nonMDS,Kidney-Renal_Healthy_nonMDS,RHNM,Arginine biosynthesis,7
+Kidney-Renal,Healthy,nonMDS,Kidney-Renal_Healthy_nonMDS,RHNM,Ascorbate and aldarate metabolism,26
+Kidney-Renal,Healthy,nonMDS,Kidney-Renal_Healthy_nonMDS,RHNM,Benzoate degradation,348
+Kidney-Renal,Healthy,nonMDS,Kidney-Renal_Healthy_nonMDS,RHNM,beta-Alanine metabolism,242
+Kidney-Renal,Healthy,nonMDS,Kidney-Renal_Healthy_nonMDS,RHNM,Betalain biosynthesis,15
+Kidney-Renal,Healthy,nonMDS,Kidney-Renal_Healthy_nonMDS,RHNM,Biosynthesis of ansamycins,1
+Kidney-Renal,Healthy,nonMDS,Kidney-Renal_Healthy_nonMDS,RHNM,Biosynthesis of antibiotics,571
+Kidney-Renal,Healthy,nonMDS,Kidney-Renal_Healthy_nonMDS,RHNM,Biosynthesis of secondary metabolites,971
+Kidney-Renal,Healthy,nonMDS,Kidney-Renal_Healthy_nonMDS,RHNM,Biosynthesis of unsaturated fatty acids,310
+Kidney-Renal,Healthy,nonMDS,Kidney-Renal_Healthy_nonMDS,RHNM,Biosynthesis of vancomycin group antibiotics,1
+Kidney-Renal,Healthy,nonMDS,Kidney-Renal_Healthy_nonMDS,RHNM,Butanoate metabolism,250
+Kidney-Renal,Healthy,nonMDS,Kidney-Renal_Healthy_nonMDS,RHNM,C5-Branched dibasic acid metabolism,4
+Kidney-Renal,Healthy,nonMDS,Kidney-Renal_Healthy_nonMDS,RHNM,Caffeine metabolism,35
+Kidney-Renal,Healthy,nonMDS,Kidney-Renal_Healthy_nonMDS,RHNM,Caprolactam degradation,243
+Kidney-Renal,Healthy,nonMDS,Kidney-Renal_Healthy_nonMDS,RHNM,Carbon fixation in photosynthetic organisms,10
+Kidney-Renal,Healthy,nonMDS,Kidney-Renal_Healthy_nonMDS,RHNM,Carbon fixation pathways in prokaryotes,251
+Kidney-Renal,Healthy,nonMDS,Kidney-Renal_Healthy_nonMDS,RHNM,Chloroalkane and chloroalkene degradation,24
+Kidney-Renal,Healthy,nonMDS,Kidney-Renal_Healthy_nonMDS,RHNM,Citrate cycle (TCA cycle),20
+Kidney-Renal,Healthy,nonMDS,Kidney-Renal_Healthy_nonMDS,RHNM,"Cutin, suberine and wax biosynthesis",3
+Kidney-Renal,Healthy,nonMDS,Kidney-Renal_Healthy_nonMDS,RHNM,Cyanoamino acid metabolism,5
+Kidney-Renal,Healthy,nonMDS,Kidney-Renal_Healthy_nonMDS,RHNM,Cysteine and methionine metabolism,30
+Kidney-Renal,Healthy,nonMDS,Kidney-Renal_Healthy_nonMDS,RHNM,D-Glutamine and D-glutamate metabolism,1
+Kidney-Renal,Healthy,nonMDS,Kidney-Renal_Healthy_nonMDS,RHNM,Drug metabolism - cytochrome P450,106
+Kidney-Renal,Healthy,nonMDS,Kidney-Renal_Healthy_nonMDS,RHNM,Drug metabolism - other enzymes,65
+Kidney-Renal,Healthy,nonMDS,Kidney-Renal_Healthy_nonMDS,RHNM,Ether lipid metabolism,19
+Kidney-Renal,Healthy,nonMDS,Kidney-Renal_Healthy_nonMDS,RHNM,Ethylbenzene degradation,111
+Kidney-Renal,Healthy,nonMDS,Kidney-Renal_Healthy_nonMDS,RHNM,Fatty acid biosynthesis,108
+Kidney-Renal,Healthy,nonMDS,Kidney-Renal_Healthy_nonMDS,RHNM,Fatty acid degradation,955
+Kidney-Renal,Healthy,nonMDS,Kidney-Renal_Healthy_nonMDS,RHNM,Fatty acid elongation,621
+Kidney-Renal,Healthy,nonMDS,Kidney-Renal_Healthy_nonMDS,RHNM,Flavone and flavonol biosynthesis,7
+Kidney-Renal,Healthy,nonMDS,Kidney-Renal_Healthy_nonMDS,RHNM,Folate biosynthesis,52
+Kidney-Renal,Healthy,nonMDS,Kidney-Renal_Healthy_nonMDS,RHNM,Fructose and mannose metabolism,20
+Kidney-Renal,Healthy,nonMDS,Kidney-Renal_Healthy_nonMDS,RHNM,Galactose metabolism,53
+Kidney-Renal,Healthy,nonMDS,Kidney-Renal_Healthy_nonMDS,RHNM,Geraniol degradation,345
+Kidney-Renal,Healthy,nonMDS,Kidney-Renal_Healthy_nonMDS,RHNM,Glucosinolate biosynthesis,3
+Kidney-Renal,Healthy,nonMDS,Kidney-Renal_Healthy_nonMDS,RHNM,Glutathione metabolism,41
+Kidney-Renal,Healthy,nonMDS,Kidney-Renal_Healthy_nonMDS,RHNM,Glycerolipid metabolism,131
+Kidney-Renal,Healthy,nonMDS,Kidney-Renal_Healthy_nonMDS,RHNM,Glycerophospholipid metabolism,102
+Kidney-Renal,Healthy,nonMDS,Kidney-Renal_Healthy_nonMDS,RHNM,"Glycine, serine and threonine metabolism",71
+Kidney-Renal,Healthy,nonMDS,Kidney-Renal_Healthy_nonMDS,RHNM,Glycolysis / Gluconeogenesis,63
+Kidney-Renal,Healthy,nonMDS,Kidney-Renal_Healthy_nonMDS,RHNM,Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate,25
+Kidney-Renal,Healthy,nonMDS,Kidney-Renal_Healthy_nonMDS,RHNM,Glycosaminoglycan biosynthesis - heparan sulfate / heparin,24
+Kidney-Renal,Healthy,nonMDS,Kidney-Renal_Healthy_nonMDS,RHNM,Glycosaminoglycan biosynthesis - keratan sulfate,11
+Kidney-Renal,Healthy,nonMDS,Kidney-Renal_Healthy_nonMDS,RHNM,Glycosaminoglycan degradation,136
+Kidney-Renal,Healthy,nonMDS,Kidney-Renal_Healthy_nonMDS,RHNM,Glycosphingolipid biosynthesis - ganglio series,70
+Kidney-Renal,Healthy,nonMDS,Kidney-Renal_Healthy_nonMDS,RHNM,Glycosphingolipid biosynthesis - globo and isoglobo series,42
+Kidney-Renal,Healthy,nonMDS,Kidney-Renal_Healthy_nonMDS,RHNM,Glycosphingolipid biosynthesis - lacto and neolacto series,25
+Kidney-Renal,Healthy,nonMDS,Kidney-Renal_Healthy_nonMDS,RHNM,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis,4
+Kidney-Renal,Healthy,nonMDS,Kidney-Renal_Healthy_nonMDS,RHNM,Glyoxylate and dicarboxylate metabolism,12
+Kidney-Renal,Healthy,nonMDS,Kidney-Renal_Healthy_nonMDS,RHNM,Histidine metabolism,70
+Kidney-Renal,Healthy,nonMDS,Kidney-Renal_Healthy_nonMDS,RHNM,Inositol phosphate metabolism,15
+Kidney-Renal,Healthy,nonMDS,Kidney-Renal_Healthy_nonMDS,RHNM,Insect hormone biosynthesis,16
+Kidney-Renal,Healthy,nonMDS,Kidney-Renal_Healthy_nonMDS,RHNM,Isoquinoline alkaloid biosynthesis,46
+Kidney-Renal,Healthy,nonMDS,Kidney-Renal_Healthy_nonMDS,RHNM,Limonene and pinene degradation,132
+Kidney-Renal,Healthy,nonMDS,Kidney-Renal_Healthy_nonMDS,RHNM,Linoleic acid metabolism,40
+Kidney-Renal,Healthy,nonMDS,Kidney-Renal_Healthy_nonMDS,RHNM,Lysine biosynthesis,4
+Kidney-Renal,Healthy,nonMDS,Kidney-Renal_Healthy_nonMDS,RHNM,Lysine degradation,276
+Kidney-Renal,Healthy,nonMDS,Kidney-Renal_Healthy_nonMDS,RHNM,Mannose type O-glycan biosynthesis,2
+Kidney-Renal,Healthy,nonMDS,Kidney-Renal_Healthy_nonMDS,RHNM,Metabolic pathways,1938
+Kidney-Renal,Healthy,nonMDS,Kidney-Renal_Healthy_nonMDS,RHNM,Metabolism of xenobiotics by cytochrome P450,108
+Kidney-Renal,Healthy,nonMDS,Kidney-Renal_Healthy_nonMDS,RHNM,Methane metabolism,15
+Kidney-Renal,Healthy,nonMDS,Kidney-Renal_Healthy_nonMDS,RHNM,Microbial metabolism in diverse environments,504
+Kidney-Renal,Healthy,nonMDS,Kidney-Renal_Healthy_nonMDS,RHNM,Mucin type O-glycan biosynthesis,12
+Kidney-Renal,Healthy,nonMDS,Kidney-Renal_Healthy_nonMDS,RHNM,Naphthalene degradation,8
+Kidney-Renal,Healthy,nonMDS,Kidney-Renal_Healthy_nonMDS,RHNM,N-Glycan biosynthesis,42
+Kidney-Renal,Healthy,nonMDS,Kidney-Renal_Healthy_nonMDS,RHNM,Nicotinate and nicotinamide metabolism,12
+Kidney-Renal,Healthy,nonMDS,Kidney-Renal_Healthy_nonMDS,RHNM,Nitrogen metabolism,2
+Kidney-Renal,Healthy,nonMDS,Kidney-Renal_Healthy_nonMDS,RHNM,Novobiocin biosynthesis,6
+Kidney-Renal,Healthy,nonMDS,Kidney-Renal_Healthy_nonMDS,RHNM,One carbon pool by folate,21
+Kidney-Renal,Healthy,nonMDS,Kidney-Renal_Healthy_nonMDS,RHNM,Other glycan degradation,96
+Kidney-Renal,Healthy,nonMDS,Kidney-Renal_Healthy_nonMDS,RHNM,Other types of O-glycan biosynthesis,3
+Kidney-Renal,Healthy,nonMDS,Kidney-Renal_Healthy_nonMDS,RHNM,Oxidative phosphorylation,2
+Kidney-Renal,Healthy,nonMDS,Kidney-Renal_Healthy_nonMDS,RHNM,Pantothenate and CoA biosynthesis,16
+Kidney-Renal,Healthy,nonMDS,Kidney-Renal_Healthy_nonMDS,RHNM,Pentose and glucuronate interconversions,31
+Kidney-Renal,Healthy,nonMDS,Kidney-Renal_Healthy_nonMDS,RHNM,Pentose phosphate pathway,13
+Kidney-Renal,Healthy,nonMDS,Kidney-Renal_Healthy_nonMDS,RHNM,Phenylalanine metabolism,180
+Kidney-Renal,Healthy,nonMDS,Kidney-Renal_Healthy_nonMDS,RHNM,"Phenylalanine, tyrosine and tryptophan biosynthesis",6
+Kidney-Renal,Healthy,nonMDS,Kidney-Renal_Healthy_nonMDS,RHNM,Phenylpropanoid biosynthesis,12
+Kidney-Renal,Healthy,nonMDS,Kidney-Renal_Healthy_nonMDS,RHNM,Phosphonate and phosphinate metabolism,4
+Kidney-Renal,Healthy,nonMDS,Kidney-Renal_Healthy_nonMDS,RHNM,Polyketide sugar unit biosynthesis,1
+Kidney-Renal,Healthy,nonMDS,Kidney-Renal_Healthy_nonMDS,RHNM,Porphyrin and chlorophyll metabolism,29
+Kidney-Renal,Healthy,nonMDS,Kidney-Renal_Healthy_nonMDS,RHNM,Primary bile acid biosynthesis,32
+Kidney-Renal,Healthy,nonMDS,Kidney-Renal_Healthy_nonMDS,RHNM,Propanoate metabolism,203
+Kidney-Renal,Healthy,nonMDS,Kidney-Renal_Healthy_nonMDS,RHNM,Purine metabolism,55
+Kidney-Renal,Healthy,nonMDS,Kidney-Renal_Healthy_nonMDS,RHNM,Pyrimidine metabolism,48
+Kidney-Renal,Healthy,nonMDS,Kidney-Renal_Healthy_nonMDS,RHNM,Pyruvate metabolism,33
+Kidney-Renal,Healthy,nonMDS,Kidney-Renal_Healthy_nonMDS,RHNM,Retinol metabolism,61
+Kidney-Renal,Healthy,nonMDS,Kidney-Renal_Healthy_nonMDS,RHNM,Riboflavin metabolism,5
+Kidney-Renal,Healthy,nonMDS,Kidney-Renal_Healthy_nonMDS,RHNM,Secondary bile acid biosynthesis,1
+Kidney-Renal,Healthy,nonMDS,Kidney-Renal_Healthy_nonMDS,RHNM,Selenocompound metabolism,4
+Kidney-Renal,Healthy,nonMDS,Kidney-Renal_Healthy_nonMDS,RHNM,Sesquiterpenoid and triterpenoid biosynthesis,2
+Kidney-Renal,Healthy,nonMDS,Kidney-Renal_Healthy_nonMDS,RHNM,Sphingolipid metabolism,96
+Kidney-Renal,Healthy,nonMDS,Kidney-Renal_Healthy_nonMDS,RHNM,Starch and sucrose metabolism,10
+Kidney-Renal,Healthy,nonMDS,Kidney-Renal_Healthy_nonMDS,RHNM,Steroid biosynthesis,138
+Kidney-Renal,Healthy,nonMDS,Kidney-Renal_Healthy_nonMDS,RHNM,Steroid hormone biosynthesis,73
+Kidney-Renal,Healthy,nonMDS,Kidney-Renal_Healthy_nonMDS,RHNM,Streptomycin biosynthesis,4
+Kidney-Renal,Healthy,nonMDS,Kidney-Renal_Healthy_nonMDS,RHNM,Styrene degradation,4
+Kidney-Renal,Healthy,nonMDS,Kidney-Renal_Healthy_nonMDS,RHNM,Sulfur metabolism,2
+Kidney-Renal,Healthy,nonMDS,Kidney-Renal_Healthy_nonMDS,RHNM,Synthesis and degradation of ketone bodies,4
+Kidney-Renal,Healthy,nonMDS,Kidney-Renal_Healthy_nonMDS,RHNM,Taurine and hypotaurine metabolism,5
+Kidney-Renal,Healthy,nonMDS,Kidney-Renal_Healthy_nonMDS,RHNM,Terpenoid backbone biosynthesis,17
+Kidney-Renal,Healthy,nonMDS,Kidney-Renal_Healthy_nonMDS,RHNM,Thiamine metabolism,7
+Kidney-Renal,Healthy,nonMDS,Kidney-Renal_Healthy_nonMDS,RHNM,Toluene degradation,118
+Kidney-Renal,Healthy,nonMDS,Kidney-Renal_Healthy_nonMDS,RHNM,"Tropane, piperidine and pyridine alkaloid biosynthesis",27
+Kidney-Renal,Healthy,nonMDS,Kidney-Renal_Healthy_nonMDS,RHNM,Tryptophan metabolism,350
+Kidney-Renal,Healthy,nonMDS,Kidney-Renal_Healthy_nonMDS,RHNM,Tyrosine metabolism,89
+Kidney-Renal,Healthy,nonMDS,Kidney-Renal_Healthy_nonMDS,RHNM,Ubiquinone and other terpenoid-quinone biosynthesis,3
+Kidney-Renal,Healthy,nonMDS,Kidney-Renal_Healthy_nonMDS,RHNM,"Valine, leucine and isoleucine biosynthesis",6
+Kidney-Renal,Healthy,nonMDS,Kidney-Renal_Healthy_nonMDS,RHNM,"Valine, leucine and isoleucine degradation",444
+Kidney-Renal,Healthy,nonMDS,Kidney-Renal_Healthy_nonMDS,RHNM,Various types of N-glycan biosynthesis,53
+Kidney-Renal,Healthy,nonMDS,Kidney-Renal_Healthy_nonMDS,RHNM,Vitamin B6 metabolism,4
+Lung,Cancer,MDS,Lung_Cancer_MDS,LCM,Aflatoxin biosynthesis,1
+Lung,Cancer,MDS,Lung_Cancer_MDS,LCM,"Alanine, aspartate and glutamate metabolism",10
+Lung,Cancer,MDS,Lung_Cancer_MDS,LCM,alpha-Linolenic acid metabolism,8
+Lung,Cancer,MDS,Lung_Cancer_MDS,LCM,Aminobenzoate degradation,2
+Lung,Cancer,MDS,Lung_Cancer_MDS,LCM,Amino sugar and nucleotide sugar metabolism,22
+Lung,Cancer,MDS,Lung_Cancer_MDS,LCM,Arachidonic acid metabolism,15
+Lung,Cancer,MDS,Lung_Cancer_MDS,LCM,Arginine and proline metabolism,18
+Lung,Cancer,MDS,Lung_Cancer_MDS,LCM,Arginine biosynthesis,7
+Lung,Cancer,MDS,Lung_Cancer_MDS,LCM,Ascorbate and aldarate metabolism,4
+Lung,Cancer,MDS,Lung_Cancer_MDS,LCM,Benzoate degradation,11
+Lung,Cancer,MDS,Lung_Cancer_MDS,LCM,beta-Alanine metabolism,10
+Lung,Cancer,MDS,Lung_Cancer_MDS,LCM,Betalain biosynthesis,7
+Lung,Cancer,MDS,Lung_Cancer_MDS,LCM,Biosynthesis of antibiotics,99
+Lung,Cancer,MDS,Lung_Cancer_MDS,LCM,Biosynthesis of secondary metabolites,149
+Lung,Cancer,MDS,Lung_Cancer_MDS,LCM,Biosynthesis of unsaturated fatty acids,21
+Lung,Cancer,MDS,Lung_Cancer_MDS,LCM,Butanoate metabolism,12
+Lung,Cancer,MDS,Lung_Cancer_MDS,LCM,C5-Branched dibasic acid metabolism,1
+Lung,Cancer,MDS,Lung_Cancer_MDS,LCM,Caffeine metabolism,1
+Lung,Cancer,MDS,Lung_Cancer_MDS,LCM,Caprolactam degradation,9
+Lung,Cancer,MDS,Lung_Cancer_MDS,LCM,Carbon fixation in photosynthetic organisms,8
+Lung,Cancer,MDS,Lung_Cancer_MDS,LCM,Carbon fixation pathways in prokaryotes,19
+Lung,Cancer,MDS,Lung_Cancer_MDS,LCM,Chloroalkane and chloroalkene degradation,5
+Lung,Cancer,MDS,Lung_Cancer_MDS,LCM,Citrate cycle (TCA cycle),13
+Lung,Cancer,MDS,Lung_Cancer_MDS,LCM,Cyanoamino acid metabolism,3
+Lung,Cancer,MDS,Lung_Cancer_MDS,LCM,Cysteine and methionine metabolism,14
+Lung,Cancer,MDS,Lung_Cancer_MDS,LCM,D-Glutamine and D-glutamate metabolism,3
+Lung,Cancer,MDS,Lung_Cancer_MDS,LCM,Drug metabolism - cytochrome P450,11
+Lung,Cancer,MDS,Lung_Cancer_MDS,LCM,Drug metabolism - other enzymes,30
+Lung,Cancer,MDS,Lung_Cancer_MDS,LCM,Ether lipid metabolism,5
+Lung,Cancer,MDS,Lung_Cancer_MDS,LCM,Ethylbenzene degradation,3
+Lung,Cancer,MDS,Lung_Cancer_MDS,LCM,Fatty acid biosynthesis,7
+Lung,Cancer,MDS,Lung_Cancer_MDS,LCM,Fatty acid degradation,28
+Lung,Cancer,MDS,Lung_Cancer_MDS,LCM,Fatty acid elongation,24
+Lung,Cancer,MDS,Lung_Cancer_MDS,LCM,Folate biosynthesis,11
+Lung,Cancer,MDS,Lung_Cancer_MDS,LCM,Fructose and mannose metabolism,16
+Lung,Cancer,MDS,Lung_Cancer_MDS,LCM,Galactose metabolism,24
+Lung,Cancer,MDS,Lung_Cancer_MDS,LCM,Geraniol degradation,10
+Lung,Cancer,MDS,Lung_Cancer_MDS,LCM,Glutathione metabolism,22
+Lung,Cancer,MDS,Lung_Cancer_MDS,LCM,Glycerolipid metabolism,15
+Lung,Cancer,MDS,Lung_Cancer_MDS,LCM,Glycerophospholipid metabolism,16
+Lung,Cancer,MDS,Lung_Cancer_MDS,LCM,"Glycine, serine and threonine metabolism",15
+Lung,Cancer,MDS,Lung_Cancer_MDS,LCM,Glycolysis / Gluconeogenesis,46
+Lung,Cancer,MDS,Lung_Cancer_MDS,LCM,Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate,6
+Lung,Cancer,MDS,Lung_Cancer_MDS,LCM,Glycosaminoglycan biosynthesis - keratan sulfate,2
+Lung,Cancer,MDS,Lung_Cancer_MDS,LCM,Glycosaminoglycan degradation,9
+Lung,Cancer,MDS,Lung_Cancer_MDS,LCM,Glycosphingolipid biosynthesis - ganglio series,8
+Lung,Cancer,MDS,Lung_Cancer_MDS,LCM,Glycosphingolipid biosynthesis - globo and isoglobo series,11
+Lung,Cancer,MDS,Lung_Cancer_MDS,LCM,Glycosphingolipid biosynthesis - lacto and neolacto series,14
+Lung,Cancer,MDS,Lung_Cancer_MDS,LCM,Glyoxylate and dicarboxylate metabolism,7
+Lung,Cancer,MDS,Lung_Cancer_MDS,LCM,Histidine metabolism,11
+Lung,Cancer,MDS,Lung_Cancer_MDS,LCM,Inositol phosphate metabolism,16
+Lung,Cancer,MDS,Lung_Cancer_MDS,LCM,Insect hormone biosynthesis,3
+Lung,Cancer,MDS,Lung_Cancer_MDS,LCM,Isoquinoline alkaloid biosynthesis,12
+Lung,Cancer,MDS,Lung_Cancer_MDS,LCM,Limonene and pinene degradation,4
+Lung,Cancer,MDS,Lung_Cancer_MDS,LCM,Linoleic acid metabolism,3
+Lung,Cancer,MDS,Lung_Cancer_MDS,LCM,Lipoic acid metabolism,2
+Lung,Cancer,MDS,Lung_Cancer_MDS,LCM,Lysine biosynthesis,2
+Lung,Cancer,MDS,Lung_Cancer_MDS,LCM,Lysine degradation,17
+Lung,Cancer,MDS,Lung_Cancer_MDS,LCM,Mannose type O-glycan biosynthesis,4
+Lung,Cancer,MDS,Lung_Cancer_MDS,LCM,Metabolic pathways,309
+Lung,Cancer,MDS,Lung_Cancer_MDS,LCM,Metabolism of xenobiotics by cytochrome P450,14
+Lung,Cancer,MDS,Lung_Cancer_MDS,LCM,Methane metabolism,7
+Lung,Cancer,MDS,Lung_Cancer_MDS,LCM,Microbial metabolism in diverse environments,90
+Lung,Cancer,MDS,Lung_Cancer_MDS,LCM,Mucin type O-glycan biosynthesis,3
+Lung,Cancer,MDS,Lung_Cancer_MDS,LCM,Naphthalene degradation,2
+Lung,Cancer,MDS,Lung_Cancer_MDS,LCM,"Neomycin, kanamycin and gentamicin biosynthesis",10
+Lung,Cancer,MDS,Lung_Cancer_MDS,LCM,N-Glycan biosynthesis,4
+Lung,Cancer,MDS,Lung_Cancer_MDS,LCM,Nicotinate and nicotinamide metabolism,17
+Lung,Cancer,MDS,Lung_Cancer_MDS,LCM,Nitrogen metabolism,4
+Lung,Cancer,MDS,Lung_Cancer_MDS,LCM,Novobiocin biosynthesis,7
+Lung,Cancer,MDS,Lung_Cancer_MDS,LCM,One carbon pool by folate,9
+Lung,Cancer,MDS,Lung_Cancer_MDS,LCM,Other glycan degradation,7
+Lung,Cancer,MDS,Lung_Cancer_MDS,LCM,Other types of O-glycan biosynthesis,1
+Lung,Cancer,MDS,Lung_Cancer_MDS,LCM,Oxidative phosphorylation,2
+Lung,Cancer,MDS,Lung_Cancer_MDS,LCM,Pantothenate and CoA biosynthesis,3
+Lung,Cancer,MDS,Lung_Cancer_MDS,LCM,Pentose and glucuronate interconversions,5
+Lung,Cancer,MDS,Lung_Cancer_MDS,LCM,Pentose phosphate pathway,11
+Lung,Cancer,MDS,Lung_Cancer_MDS,LCM,Phenylalanine metabolism,17
+Lung,Cancer,MDS,Lung_Cancer_MDS,LCM,"Phenylalanine, tyrosine and tryptophan biosynthesis",7
+Lung,Cancer,MDS,Lung_Cancer_MDS,LCM,Phenylpropanoid biosynthesis,1
+Lung,Cancer,MDS,Lung_Cancer_MDS,LCM,Phosphonate and phosphinate metabolism,1
+Lung,Cancer,MDS,Lung_Cancer_MDS,LCM,Porphyrin and chlorophyll metabolism,2
+Lung,Cancer,MDS,Lung_Cancer_MDS,LCM,Primary bile acid biosynthesis,2
+Lung,Cancer,MDS,Lung_Cancer_MDS,LCM,Propanoate metabolism,12
+Lung,Cancer,MDS,Lung_Cancer_MDS,LCM,Purine metabolism,59
+Lung,Cancer,MDS,Lung_Cancer_MDS,LCM,Pyrimidine metabolism,56
+Lung,Cancer,MDS,Lung_Cancer_MDS,LCM,Pyruvate metabolism,27
+Lung,Cancer,MDS,Lung_Cancer_MDS,LCM,Retinol metabolism,8
+Lung,Cancer,MDS,Lung_Cancer_MDS,LCM,Riboflavin metabolism,3
+Lung,Cancer,MDS,Lung_Cancer_MDS,LCM,Selenocompound metabolism,1
+Lung,Cancer,MDS,Lung_Cancer_MDS,LCM,Sphingolipid metabolism,9
+Lung,Cancer,MDS,Lung_Cancer_MDS,LCM,Starch and sucrose metabolism,18
+Lung,Cancer,MDS,Lung_Cancer_MDS,LCM,Steroid biosynthesis,7
+Lung,Cancer,MDS,Lung_Cancer_MDS,LCM,Steroid hormone biosynthesis,9
+Lung,Cancer,MDS,Lung_Cancer_MDS,LCM,Streptomycin biosynthesis,12
+Lung,Cancer,MDS,Lung_Cancer_MDS,LCM,Styrene degradation,1
+Lung,Cancer,MDS,Lung_Cancer_MDS,LCM,Sulfur metabolism,3
+Lung,Cancer,MDS,Lung_Cancer_MDS,LCM,Synthesis and degradation of ketone bodies,4
+Lung,Cancer,MDS,Lung_Cancer_MDS,LCM,Taurine and hypotaurine metabolism,1
+Lung,Cancer,MDS,Lung_Cancer_MDS,LCM,Terpenoid backbone biosynthesis,5
+Lung,Cancer,MDS,Lung_Cancer_MDS,LCM,Thiamine metabolism,2
+Lung,Cancer,MDS,Lung_Cancer_MDS,LCM,Toluene degradation,6
+Lung,Cancer,MDS,Lung_Cancer_MDS,LCM,"Tropane, piperidine and pyridine alkaloid biosynthesis",9
+Lung,Cancer,MDS,Lung_Cancer_MDS,LCM,Tryptophan metabolism,26
+Lung,Cancer,MDS,Lung_Cancer_MDS,LCM,Tyrosine metabolism,26
+Lung,Cancer,MDS,Lung_Cancer_MDS,LCM,Ubiquinone and other terpenoid-quinone biosynthesis,2
+Lung,Cancer,MDS,Lung_Cancer_MDS,LCM,"Valine, leucine and isoleucine biosynthesis",2
+Lung,Cancer,MDS,Lung_Cancer_MDS,LCM,"Valine, leucine and isoleucine degradation",22
+Lung,Cancer,MDS,Lung_Cancer_MDS,LCM,Various types of N-glycan biosynthesis,7
+Lung,Cancer,MDS,Lung_Cancer_MDS,LCM,Vitamin B6 metabolism,1
+Lung,Cancer,nonMDS,Lung_Cancer_nonMDS,LCNM,Aflatoxin biosynthesis,2
+Lung,Cancer,nonMDS,Lung_Cancer_nonMDS,LCNM,"Alanine, aspartate and glutamate metabolism",17
+Lung,Cancer,nonMDS,Lung_Cancer_nonMDS,LCNM,alpha-Linolenic acid metabolism,255
+Lung,Cancer,nonMDS,Lung_Cancer_nonMDS,LCNM,Aminoacyl-tRNA biosynthesis,20
+Lung,Cancer,nonMDS,Lung_Cancer_nonMDS,LCNM,Aminobenzoate degradation,132
+Lung,Cancer,nonMDS,Lung_Cancer_nonMDS,LCNM,Amino sugar and nucleotide sugar metabolism,25
+Lung,Cancer,nonMDS,Lung_Cancer_nonMDS,LCNM,Arachidonic acid metabolism,78
+Lung,Cancer,nonMDS,Lung_Cancer_nonMDS,LCNM,Arginine and proline metabolism,62
+Lung,Cancer,nonMDS,Lung_Cancer_nonMDS,LCNM,Arginine biosynthesis,7
+Lung,Cancer,nonMDS,Lung_Cancer_nonMDS,LCNM,Ascorbate and aldarate metabolism,12
+Lung,Cancer,nonMDS,Lung_Cancer_nonMDS,LCNM,Benzoate degradation,279
+Lung,Cancer,nonMDS,Lung_Cancer_nonMDS,LCNM,beta-Alanine metabolism,145
+Lung,Cancer,nonMDS,Lung_Cancer_nonMDS,LCNM,Betalain biosynthesis,16
+Lung,Cancer,nonMDS,Lung_Cancer_nonMDS,LCNM,Biosynthesis of ansamycins,2
+Lung,Cancer,nonMDS,Lung_Cancer_nonMDS,LCNM,Biosynthesis of antibiotics,451
+Lung,Cancer,nonMDS,Lung_Cancer_nonMDS,LCNM,Biosynthesis of secondary metabolites,777
+Lung,Cancer,nonMDS,Lung_Cancer_nonMDS,LCNM,Biosynthesis of unsaturated fatty acids,234
+Lung,Cancer,nonMDS,Lung_Cancer_nonMDS,LCNM,Biotin metabolism,27
+Lung,Cancer,nonMDS,Lung_Cancer_nonMDS,LCNM,Butanoate metabolism,201
+Lung,Cancer,nonMDS,Lung_Cancer_nonMDS,LCNM,Caffeine metabolism,37
+Lung,Cancer,nonMDS,Lung_Cancer_nonMDS,LCNM,Caprolactam degradation,189
+Lung,Cancer,nonMDS,Lung_Cancer_nonMDS,LCNM,Carbon fixation in photosynthetic organisms,12
+Lung,Cancer,nonMDS,Lung_Cancer_nonMDS,LCNM,Carbon fixation pathways in prokaryotes,206
+Lung,Cancer,nonMDS,Lung_Cancer_nonMDS,LCNM,Chloroalkane and chloroalkene degradation,19
+Lung,Cancer,nonMDS,Lung_Cancer_nonMDS,LCNM,Citrate cycle (TCA cycle),22
+Lung,Cancer,nonMDS,Lung_Cancer_nonMDS,LCNM,"Cutin, suberine and wax biosynthesis",1
+Lung,Cancer,nonMDS,Lung_Cancer_nonMDS,LCNM,Cyanoamino acid metabolism,5
+Lung,Cancer,nonMDS,Lung_Cancer_nonMDS,LCNM,Cysteine and methionine metabolism,28
+Lung,Cancer,nonMDS,Lung_Cancer_nonMDS,LCNM,D-Alanine metabolism,1
+Lung,Cancer,nonMDS,Lung_Cancer_nonMDS,LCNM,D-Arginine and D-ornithine metabolism,1
+Lung,Cancer,nonMDS,Lung_Cancer_nonMDS,LCNM,D-Glutamine and D-glutamate metabolism,1
+Lung,Cancer,nonMDS,Lung_Cancer_nonMDS,LCNM,Drug metabolism - cytochrome P450,99
+Lung,Cancer,nonMDS,Lung_Cancer_nonMDS,LCNM,Drug metabolism - other enzymes,60
+Lung,Cancer,nonMDS,Lung_Cancer_nonMDS,LCNM,Ether lipid metabolism,22
+Lung,Cancer,nonMDS,Lung_Cancer_nonMDS,LCNM,Ethylbenzene degradation,93
+Lung,Cancer,nonMDS,Lung_Cancer_nonMDS,LCNM,Fatty acid biosynthesis,172
+Lung,Cancer,nonMDS,Lung_Cancer_nonMDS,LCNM,Fatty acid degradation,648
+Lung,Cancer,nonMDS,Lung_Cancer_nonMDS,LCNM,Fatty acid elongation,400
+Lung,Cancer,nonMDS,Lung_Cancer_nonMDS,LCNM,Flavone and flavonol biosynthesis,4
+Lung,Cancer,nonMDS,Lung_Cancer_nonMDS,LCNM,Folate biosynthesis,39
+Lung,Cancer,nonMDS,Lung_Cancer_nonMDS,LCNM,Fructose and mannose metabolism,21
+Lung,Cancer,nonMDS,Lung_Cancer_nonMDS,LCNM,Galactose metabolism,25
+Lung,Cancer,nonMDS,Lung_Cancer_nonMDS,LCNM,Geraniol degradation,278
+Lung,Cancer,nonMDS,Lung_Cancer_nonMDS,LCNM,Glucosinolate biosynthesis,3
+Lung,Cancer,nonMDS,Lung_Cancer_nonMDS,LCNM,Glutathione metabolism,55
+Lung,Cancer,nonMDS,Lung_Cancer_nonMDS,LCNM,Glycerolipid metabolism,118
+Lung,Cancer,nonMDS,Lung_Cancer_nonMDS,LCNM,Glycerophospholipid metabolism,104
+Lung,Cancer,nonMDS,Lung_Cancer_nonMDS,LCNM,"Glycine, serine and threonine metabolism",61
+Lung,Cancer,nonMDS,Lung_Cancer_nonMDS,LCNM,Glycolysis / Gluconeogenesis,62
+Lung,Cancer,nonMDS,Lung_Cancer_nonMDS,LCNM,Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate,8
+Lung,Cancer,nonMDS,Lung_Cancer_nonMDS,LCNM,Glycosaminoglycan biosynthesis - heparan sulfate / heparin,6
+Lung,Cancer,nonMDS,Lung_Cancer_nonMDS,LCNM,Glycosaminoglycan biosynthesis - keratan sulfate,8
+Lung,Cancer,nonMDS,Lung_Cancer_nonMDS,LCNM,Glycosaminoglycan degradation,41
+Lung,Cancer,nonMDS,Lung_Cancer_nonMDS,LCNM,Glycosphingolipid biosynthesis - ganglio series,15
+Lung,Cancer,nonMDS,Lung_Cancer_nonMDS,LCNM,Glycosphingolipid biosynthesis - globo and isoglobo series,23
+Lung,Cancer,nonMDS,Lung_Cancer_nonMDS,LCNM,Glycosphingolipid biosynthesis - lacto and neolacto series,29
+Lung,Cancer,nonMDS,Lung_Cancer_nonMDS,LCNM,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis,2
+Lung,Cancer,nonMDS,Lung_Cancer_nonMDS,LCNM,Glyoxylate and dicarboxylate metabolism,20
+Lung,Cancer,nonMDS,Lung_Cancer_nonMDS,LCNM,Histidine metabolism,56
+Lung,Cancer,nonMDS,Lung_Cancer_nonMDS,LCNM,Inositol phosphate metabolism,19
+Lung,Cancer,nonMDS,Lung_Cancer_nonMDS,LCNM,Insect hormone biosynthesis,12
+Lung,Cancer,nonMDS,Lung_Cancer_nonMDS,LCNM,Isoquinoline alkaloid biosynthesis,40
+Lung,Cancer,nonMDS,Lung_Cancer_nonMDS,LCNM,Limonene and pinene degradation,106
+Lung,Cancer,nonMDS,Lung_Cancer_nonMDS,LCNM,Linoleic acid metabolism,44
+Lung,Cancer,nonMDS,Lung_Cancer_nonMDS,LCNM,Lipoic acid metabolism,2
+Lung,Cancer,nonMDS,Lung_Cancer_nonMDS,LCNM,Lysine biosynthesis,2
+Lung,Cancer,nonMDS,Lung_Cancer_nonMDS,LCNM,Lysine degradation,220
+Lung,Cancer,nonMDS,Lung_Cancer_nonMDS,LCNM,Mannose type O-glycan biosynthesis,5
+Lung,Cancer,nonMDS,Lung_Cancer_nonMDS,LCNM,Metabolic pathways,1435
+Lung,Cancer,nonMDS,Lung_Cancer_nonMDS,LCNM,Metabolism of xenobiotics by cytochrome P450,110
+Lung,Cancer,nonMDS,Lung_Cancer_nonMDS,LCNM,Methane metabolism,20
+Lung,Cancer,nonMDS,Lung_Cancer_nonMDS,LCNM,Microbial metabolism in diverse environments,443
+Lung,Cancer,nonMDS,Lung_Cancer_nonMDS,LCNM,Monobactam biosynthesis,1
+Lung,Cancer,nonMDS,Lung_Cancer_nonMDS,LCNM,Mucin type O-glycan biosynthesis,9
+Lung,Cancer,nonMDS,Lung_Cancer_nonMDS,LCNM,Naphthalene degradation,5
+Lung,Cancer,nonMDS,Lung_Cancer_nonMDS,LCNM,"Neomycin, kanamycin and gentamicin biosynthesis",5
+Lung,Cancer,nonMDS,Lung_Cancer_nonMDS,LCNM,N-Glycan biosynthesis,23
+Lung,Cancer,nonMDS,Lung_Cancer_nonMDS,LCNM,Nicotinate and nicotinamide metabolism,24
+Lung,Cancer,nonMDS,Lung_Cancer_nonMDS,LCNM,Nitrogen metabolism,2
+Lung,Cancer,nonMDS,Lung_Cancer_nonMDS,LCNM,Novobiocin biosynthesis,4
+Lung,Cancer,nonMDS,Lung_Cancer_nonMDS,LCNM,One carbon pool by folate,20
+Lung,Cancer,nonMDS,Lung_Cancer_nonMDS,LCNM,Other glycan degradation,7
+Lung,Cancer,nonMDS,Lung_Cancer_nonMDS,LCNM,Other types of O-glycan biosynthesis,2
+Lung,Cancer,nonMDS,Lung_Cancer_nonMDS,LCNM,Oxidative phosphorylation,4
+Lung,Cancer,nonMDS,Lung_Cancer_nonMDS,LCNM,Pantothenate and CoA biosynthesis,16
+Lung,Cancer,nonMDS,Lung_Cancer_nonMDS,LCNM,Pentose and glucuronate interconversions,13
+Lung,Cancer,nonMDS,Lung_Cancer_nonMDS,LCNM,Pentose phosphate pathway,22
+Lung,Cancer,nonMDS,Lung_Cancer_nonMDS,LCNM,Phenylalanine metabolism,148
+Lung,Cancer,nonMDS,Lung_Cancer_nonMDS,LCNM,"Phenylalanine, tyrosine and tryptophan biosynthesis",5
+Lung,Cancer,nonMDS,Lung_Cancer_nonMDS,LCNM,Phenylpropanoid biosynthesis,6
+Lung,Cancer,nonMDS,Lung_Cancer_nonMDS,LCNM,Phosphonate and phosphinate metabolism,4
+Lung,Cancer,nonMDS,Lung_Cancer_nonMDS,LCNM,Porphyrin and chlorophyll metabolism,16
+Lung,Cancer,nonMDS,Lung_Cancer_nonMDS,LCNM,Primary bile acid biosynthesis,36
+Lung,Cancer,nonMDS,Lung_Cancer_nonMDS,LCNM,Propanoate metabolism,137
+Lung,Cancer,nonMDS,Lung_Cancer_nonMDS,LCNM,Purine metabolism,62
+Lung,Cancer,nonMDS,Lung_Cancer_nonMDS,LCNM,Pyrimidine metabolism,47
+Lung,Cancer,nonMDS,Lung_Cancer_nonMDS,LCNM,Pyruvate metabolism,39
+Lung,Cancer,nonMDS,Lung_Cancer_nonMDS,LCNM,Retinol metabolism,52
+Lung,Cancer,nonMDS,Lung_Cancer_nonMDS,LCNM,Riboflavin metabolism,5
+Lung,Cancer,nonMDS,Lung_Cancer_nonMDS,LCNM,Secondary bile acid biosynthesis,4
+Lung,Cancer,nonMDS,Lung_Cancer_nonMDS,LCNM,Selenocompound metabolism,5
+Lung,Cancer,nonMDS,Lung_Cancer_nonMDS,LCNM,Sesquiterpenoid and triterpenoid biosynthesis,2
+Lung,Cancer,nonMDS,Lung_Cancer_nonMDS,LCNM,Sphingolipid metabolism,30
+Lung,Cancer,nonMDS,Lung_Cancer_nonMDS,LCNM,Starch and sucrose metabolism,28
+Lung,Cancer,nonMDS,Lung_Cancer_nonMDS,LCNM,Steroid biosynthesis,140
+Lung,Cancer,nonMDS,Lung_Cancer_nonMDS,LCNM,Steroid hormone biosynthesis,75
+Lung,Cancer,nonMDS,Lung_Cancer_nonMDS,LCNM,Streptomycin biosynthesis,9
+Lung,Cancer,nonMDS,Lung_Cancer_nonMDS,LCNM,Styrene degradation,3
+Lung,Cancer,nonMDS,Lung_Cancer_nonMDS,LCNM,Sulfur metabolism,3
+Lung,Cancer,nonMDS,Lung_Cancer_nonMDS,LCNM,Synthesis and degradation of ketone bodies,4
+Lung,Cancer,nonMDS,Lung_Cancer_nonMDS,LCNM,Taurine and hypotaurine metabolism,10
+Lung,Cancer,nonMDS,Lung_Cancer_nonMDS,LCNM,Terpenoid backbone biosynthesis,20
+Lung,Cancer,nonMDS,Lung_Cancer_nonMDS,LCNM,Thiamine metabolism,9
+Lung,Cancer,nonMDS,Lung_Cancer_nonMDS,LCNM,Toluene degradation,90
+Lung,Cancer,nonMDS,Lung_Cancer_nonMDS,LCNM,"Tropane, piperidine and pyridine alkaloid biosynthesis",23
+Lung,Cancer,nonMDS,Lung_Cancer_nonMDS,LCNM,Tryptophan metabolism,287
+Lung,Cancer,nonMDS,Lung_Cancer_nonMDS,LCNM,Tyrosine metabolism,70
+Lung,Cancer,nonMDS,Lung_Cancer_nonMDS,LCNM,Ubiquinone and other terpenoid-quinone biosynthesis,2
+Lung,Cancer,nonMDS,Lung_Cancer_nonMDS,LCNM,"Valine, leucine and isoleucine biosynthesis",3
+Lung,Cancer,nonMDS,Lung_Cancer_nonMDS,LCNM,"Valine, leucine and isoleucine degradation",318
+Lung,Cancer,nonMDS,Lung_Cancer_nonMDS,LCNM,Various types of N-glycan biosynthesis,17
+Lung,Cancer,nonMDS,Lung_Cancer_nonMDS,LCNM,Vitamin B6 metabolism,5
+Lung,Healthy,MDS,Lung_Healthy_MDS,LHM,Aflatoxin biosynthesis,1
+Lung,Healthy,MDS,Lung_Healthy_MDS,LHM,"Alanine, aspartate and glutamate metabolism",5
+Lung,Healthy,MDS,Lung_Healthy_MDS,LHM,alpha-Linolenic acid metabolism,17
+Lung,Healthy,MDS,Lung_Healthy_MDS,LHM,Aminoacyl-tRNA biosynthesis,1
+Lung,Healthy,MDS,Lung_Healthy_MDS,LHM,Aminobenzoate degradation,7
+Lung,Healthy,MDS,Lung_Healthy_MDS,LHM,Amino sugar and nucleotide sugar metabolism,20
+Lung,Healthy,MDS,Lung_Healthy_MDS,LHM,Arachidonic acid metabolism,16
+Lung,Healthy,MDS,Lung_Healthy_MDS,LHM,Arginine and proline metabolism,11
+Lung,Healthy,MDS,Lung_Healthy_MDS,LHM,Arginine biosynthesis,3
+Lung,Healthy,MDS,Lung_Healthy_MDS,LHM,Ascorbate and aldarate metabolism,3
+Lung,Healthy,MDS,Lung_Healthy_MDS,LHM,Benzoate degradation,12
+Lung,Healthy,MDS,Lung_Healthy_MDS,LHM,beta-Alanine metabolism,16
+Lung,Healthy,MDS,Lung_Healthy_MDS,LHM,Betalain biosynthesis,6
+Lung,Healthy,MDS,Lung_Healthy_MDS,LHM,Biosynthesis of antibiotics,102
+Lung,Healthy,MDS,Lung_Healthy_MDS,LHM,Biosynthesis of secondary metabolites,163
+Lung,Healthy,MDS,Lung_Healthy_MDS,LHM,Biosynthesis of unsaturated fatty acids,17
+Lung,Healthy,MDS,Lung_Healthy_MDS,LHM,Butanoate metabolism,12
+Lung,Healthy,MDS,Lung_Healthy_MDS,LHM,Caffeine metabolism,3
+Lung,Healthy,MDS,Lung_Healthy_MDS,LHM,Caprolactam degradation,15
+Lung,Healthy,MDS,Lung_Healthy_MDS,LHM,Carbon fixation in photosynthetic organisms,4
+Lung,Healthy,MDS,Lung_Healthy_MDS,LHM,Carbon fixation pathways in prokaryotes,19
+Lung,Healthy,MDS,Lung_Healthy_MDS,LHM,Chloroalkane and chloroalkene degradation,5
+Lung,Healthy,MDS,Lung_Healthy_MDS,LHM,Citrate cycle (TCA cycle),14
+Lung,Healthy,MDS,Lung_Healthy_MDS,LHM,Cyanoamino acid metabolism,4
+Lung,Healthy,MDS,Lung_Healthy_MDS,LHM,Cysteine and methionine metabolism,9
+Lung,Healthy,MDS,Lung_Healthy_MDS,LHM,D-Glutamine and D-glutamate metabolism,1
+Lung,Healthy,MDS,Lung_Healthy_MDS,LHM,Drug metabolism - cytochrome P450,23
+Lung,Healthy,MDS,Lung_Healthy_MDS,LHM,Drug metabolism - other enzymes,38
+Lung,Healthy,MDS,Lung_Healthy_MDS,LHM,Ether lipid metabolism,9
+Lung,Healthy,MDS,Lung_Healthy_MDS,LHM,Ethylbenzene degradation,3
+Lung,Healthy,MDS,Lung_Healthy_MDS,LHM,Fatty acid biosynthesis,22
+Lung,Healthy,MDS,Lung_Healthy_MDS,LHM,Fatty acid degradation,44
+Lung,Healthy,MDS,Lung_Healthy_MDS,LHM,Fatty acid elongation,21
+Lung,Healthy,MDS,Lung_Healthy_MDS,LHM,Folate biosynthesis,17
+Lung,Healthy,MDS,Lung_Healthy_MDS,LHM,Fructose and mannose metabolism,16
+Lung,Healthy,MDS,Lung_Healthy_MDS,LHM,Galactose metabolism,26
+Lung,Healthy,MDS,Lung_Healthy_MDS,LHM,Geraniol degradation,11
+Lung,Healthy,MDS,Lung_Healthy_MDS,LHM,Glutathione metabolism,19
+Lung,Healthy,MDS,Lung_Healthy_MDS,LHM,Glycerolipid metabolism,24
+Lung,Healthy,MDS,Lung_Healthy_MDS,LHM,Glycerophospholipid metabolism,16
+Lung,Healthy,MDS,Lung_Healthy_MDS,LHM,"Glycine, serine and threonine metabolism",24
+Lung,Healthy,MDS,Lung_Healthy_MDS,LHM,Glycolysis / Gluconeogenesis,50
+Lung,Healthy,MDS,Lung_Healthy_MDS,LHM,Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate,8
+Lung,Healthy,MDS,Lung_Healthy_MDS,LHM,Glycosaminoglycan biosynthesis - heparan sulfate / heparin,3
+Lung,Healthy,MDS,Lung_Healthy_MDS,LHM,Glycosaminoglycan biosynthesis - keratan sulfate,3
+Lung,Healthy,MDS,Lung_Healthy_MDS,LHM,Glycosaminoglycan degradation,10
+Lung,Healthy,MDS,Lung_Healthy_MDS,LHM,Glycosphingolipid biosynthesis - ganglio series,12
+Lung,Healthy,MDS,Lung_Healthy_MDS,LHM,Glycosphingolipid biosynthesis - globo and isoglobo series,9
+Lung,Healthy,MDS,Lung_Healthy_MDS,LHM,Glycosphingolipid biosynthesis - lacto and neolacto series,8
+Lung,Healthy,MDS,Lung_Healthy_MDS,LHM,Glyoxylate and dicarboxylate metabolism,15
+Lung,Healthy,MDS,Lung_Healthy_MDS,LHM,Histidine metabolism,17
+Lung,Healthy,MDS,Lung_Healthy_MDS,LHM,Inositol phosphate metabolism,10
+Lung,Healthy,MDS,Lung_Healthy_MDS,LHM,Insect hormone biosynthesis,2
+Lung,Healthy,MDS,Lung_Healthy_MDS,LHM,Isoquinoline alkaloid biosynthesis,6
+Lung,Healthy,MDS,Lung_Healthy_MDS,LHM,Limonene and pinene degradation,6
+Lung,Healthy,MDS,Lung_Healthy_MDS,LHM,Linoleic acid metabolism,8
+Lung,Healthy,MDS,Lung_Healthy_MDS,LHM,Lysine degradation,22
+Lung,Healthy,MDS,Lung_Healthy_MDS,LHM,Metabolic pathways,357
+Lung,Healthy,MDS,Lung_Healthy_MDS,LHM,Metabolism of xenobiotics by cytochrome P450,24
+Lung,Healthy,MDS,Lung_Healthy_MDS,LHM,Methane metabolism,7
+Lung,Healthy,MDS,Lung_Healthy_MDS,LHM,Microbial metabolism in diverse environments,95
+Lung,Healthy,MDS,Lung_Healthy_MDS,LHM,Mucin type O-glycan biosynthesis,4
+Lung,Healthy,MDS,Lung_Healthy_MDS,LHM,Naphthalene degradation,3
+Lung,Healthy,MDS,Lung_Healthy_MDS,LHM,"Neomycin, kanamycin and gentamicin biosynthesis",11
+Lung,Healthy,MDS,Lung_Healthy_MDS,LHM,N-Glycan biosynthesis,2
+Lung,Healthy,MDS,Lung_Healthy_MDS,LHM,Nicotinate and nicotinamide metabolism,17
+Lung,Healthy,MDS,Lung_Healthy_MDS,LHM,Nitrogen metabolism,5
+Lung,Healthy,MDS,Lung_Healthy_MDS,LHM,One carbon pool by folate,11
+Lung,Healthy,MDS,Lung_Healthy_MDS,LHM,Other glycan degradation,11
+Lung,Healthy,MDS,Lung_Healthy_MDS,LHM,Other types of O-glycan biosynthesis,1
+Lung,Healthy,MDS,Lung_Healthy_MDS,LHM,Oxidative phosphorylation,4
+Lung,Healthy,MDS,Lung_Healthy_MDS,LHM,Pantothenate and CoA biosynthesis,3
+Lung,Healthy,MDS,Lung_Healthy_MDS,LHM,Pentose and glucuronate interconversions,10
+Lung,Healthy,MDS,Lung_Healthy_MDS,LHM,Pentose phosphate pathway,7
+Lung,Healthy,MDS,Lung_Healthy_MDS,LHM,Phenylalanine metabolism,17
+Lung,Healthy,MDS,Lung_Healthy_MDS,LHM,Phenylpropanoid biosynthesis,4
+Lung,Healthy,MDS,Lung_Healthy_MDS,LHM,Phosphonate and phosphinate metabolism,1
+Lung,Healthy,MDS,Lung_Healthy_MDS,LHM,Porphyrin and chlorophyll metabolism,4
+Lung,Healthy,MDS,Lung_Healthy_MDS,LHM,Primary bile acid biosynthesis,6
+Lung,Healthy,MDS,Lung_Healthy_MDS,LHM,Propanoate metabolism,14
+Lung,Healthy,MDS,Lung_Healthy_MDS,LHM,Purine metabolism,67
+Lung,Healthy,MDS,Lung_Healthy_MDS,LHM,Pyrimidine metabolism,50
+Lung,Healthy,MDS,Lung_Healthy_MDS,LHM,Pyruvate metabolism,32
+Lung,Healthy,MDS,Lung_Healthy_MDS,LHM,Retinol metabolism,10
+Lung,Healthy,MDS,Lung_Healthy_MDS,LHM,Riboflavin metabolism,2
+Lung,Healthy,MDS,Lung_Healthy_MDS,LHM,Selenocompound metabolism,2
+Lung,Healthy,MDS,Lung_Healthy_MDS,LHM,Sphingolipid metabolism,11
+Lung,Healthy,MDS,Lung_Healthy_MDS,LHM,Starch and sucrose metabolism,19
+Lung,Healthy,MDS,Lung_Healthy_MDS,LHM,Steroid biosynthesis,5
+Lung,Healthy,MDS,Lung_Healthy_MDS,LHM,Steroid hormone biosynthesis,14
+Lung,Healthy,MDS,Lung_Healthy_MDS,LHM,Streptomycin biosynthesis,13
+Lung,Healthy,MDS,Lung_Healthy_MDS,LHM,Styrene degradation,2
+Lung,Healthy,MDS,Lung_Healthy_MDS,LHM,Sulfur metabolism,2
+Lung,Healthy,MDS,Lung_Healthy_MDS,LHM,Synthesis and degradation of ketone bodies,3
+Lung,Healthy,MDS,Lung_Healthy_MDS,LHM,Taurine and hypotaurine metabolism,3
+Lung,Healthy,MDS,Lung_Healthy_MDS,LHM,Terpenoid backbone biosynthesis,3
+Lung,Healthy,MDS,Lung_Healthy_MDS,LHM,Thiamine metabolism,4
+Lung,Healthy,MDS,Lung_Healthy_MDS,LHM,Toluene degradation,4
+Lung,Healthy,MDS,Lung_Healthy_MDS,LHM,"Tropane, piperidine and pyridine alkaloid biosynthesis",2
+Lung,Healthy,MDS,Lung_Healthy_MDS,LHM,Tryptophan metabolism,25
+Lung,Healthy,MDS,Lung_Healthy_MDS,LHM,Tyrosine metabolism,25
+Lung,Healthy,MDS,Lung_Healthy_MDS,LHM,Ubiquinone and other terpenoid-quinone biosynthesis,1
+Lung,Healthy,MDS,Lung_Healthy_MDS,LHM,"Valine, leucine and isoleucine biosynthesis",2
+Lung,Healthy,MDS,Lung_Healthy_MDS,LHM,"Valine, leucine and isoleucine degradation",19
+Lung,Healthy,MDS,Lung_Healthy_MDS,LHM,Various types of N-glycan biosynthesis,5
+Lung,Healthy,MDS,Lung_Healthy_MDS,LHM,Vitamin B6 metabolism,3
+Lung,Healthy,nonMDS,Lung_Healthy_nonMDS,LHNM,Acarbose and validamycin biosynthesis,1
+Lung,Healthy,nonMDS,Lung_Healthy_nonMDS,LHNM,Aflatoxin biosynthesis,1
+Lung,Healthy,nonMDS,Lung_Healthy_nonMDS,LHNM,"Alanine, aspartate and glutamate metabolism",19
+Lung,Healthy,nonMDS,Lung_Healthy_nonMDS,LHNM,alpha-Linolenic acid metabolism,295
+Lung,Healthy,nonMDS,Lung_Healthy_nonMDS,LHNM,Aminoacyl-tRNA biosynthesis,19
+Lung,Healthy,nonMDS,Lung_Healthy_nonMDS,LHNM,Aminobenzoate degradation,151
+Lung,Healthy,nonMDS,Lung_Healthy_nonMDS,LHNM,Amino sugar and nucleotide sugar metabolism,81
+Lung,Healthy,nonMDS,Lung_Healthy_nonMDS,LHNM,Arachidonic acid metabolism,82
+Lung,Healthy,nonMDS,Lung_Healthy_nonMDS,LHNM,Arginine and proline metabolism,78
+Lung,Healthy,nonMDS,Lung_Healthy_nonMDS,LHNM,Arginine biosynthesis,5
+Lung,Healthy,nonMDS,Lung_Healthy_nonMDS,LHNM,Ascorbate and aldarate metabolism,27
+Lung,Healthy,nonMDS,Lung_Healthy_nonMDS,LHNM,Benzoate degradation,348
+Lung,Healthy,nonMDS,Lung_Healthy_nonMDS,LHNM,beta-Alanine metabolism,246
+Lung,Healthy,nonMDS,Lung_Healthy_nonMDS,LHNM,Betalain biosynthesis,15
+Lung,Healthy,nonMDS,Lung_Healthy_nonMDS,LHNM,Biosynthesis of ansamycins,2
+Lung,Healthy,nonMDS,Lung_Healthy_nonMDS,LHNM,Biosynthesis of antibiotics,595
+Lung,Healthy,nonMDS,Lung_Healthy_nonMDS,LHNM,Biosynthesis of secondary metabolites,981
+Lung,Healthy,nonMDS,Lung_Healthy_nonMDS,LHNM,Biosynthesis of unsaturated fatty acids,278
+Lung,Healthy,nonMDS,Lung_Healthy_nonMDS,LHNM,Biosynthesis of vancomycin group antibiotics,1
+Lung,Healthy,nonMDS,Lung_Healthy_nonMDS,LHNM,Biotin metabolism,36
+Lung,Healthy,nonMDS,Lung_Healthy_nonMDS,LHNM,Butanoate metabolism,248
+Lung,Healthy,nonMDS,Lung_Healthy_nonMDS,LHNM,C5-Branched dibasic acid metabolism,5
+Lung,Healthy,nonMDS,Lung_Healthy_nonMDS,LHNM,Caffeine metabolism,36
+Lung,Healthy,nonMDS,Lung_Healthy_nonMDS,LHNM,Caprolactam degradation,236
+Lung,Healthy,nonMDS,Lung_Healthy_nonMDS,LHNM,Carbon fixation in photosynthetic organisms,13
+Lung,Healthy,nonMDS,Lung_Healthy_nonMDS,LHNM,Carbon fixation pathways in prokaryotes,254
+Lung,Healthy,nonMDS,Lung_Healthy_nonMDS,LHNM,Chloroalkane and chloroalkene degradation,28
+Lung,Healthy,nonMDS,Lung_Healthy_nonMDS,LHNM,Citrate cycle (TCA cycle),22
+Lung,Healthy,nonMDS,Lung_Healthy_nonMDS,LHNM,"Cutin, suberine and wax biosynthesis",2
+Lung,Healthy,nonMDS,Lung_Healthy_nonMDS,LHNM,Cyanoamino acid metabolism,2
+Lung,Healthy,nonMDS,Lung_Healthy_nonMDS,LHNM,Cysteine and methionine metabolism,29
+Lung,Healthy,nonMDS,Lung_Healthy_nonMDS,LHNM,D-Alanine metabolism,1
+Lung,Healthy,nonMDS,Lung_Healthy_nonMDS,LHNM,D-Arginine and D-ornithine metabolism,1
+Lung,Healthy,nonMDS,Lung_Healthy_nonMDS,LHNM,D-Glutamine and D-glutamate metabolism,1
+Lung,Healthy,nonMDS,Lung_Healthy_nonMDS,LHNM,Drug metabolism - cytochrome P450,115
+Lung,Healthy,nonMDS,Lung_Healthy_nonMDS,LHNM,Drug metabolism - other enzymes,86
+Lung,Healthy,nonMDS,Lung_Healthy_nonMDS,LHNM,Ether lipid metabolism,20
+Lung,Healthy,nonMDS,Lung_Healthy_nonMDS,LHNM,Ethylbenzene degradation,114
+Lung,Healthy,nonMDS,Lung_Healthy_nonMDS,LHNM,Fatty acid biosynthesis,207
+Lung,Healthy,nonMDS,Lung_Healthy_nonMDS,LHNM,Fatty acid degradation,958
+Lung,Healthy,nonMDS,Lung_Healthy_nonMDS,LHNM,Fatty acid elongation,584
+Lung,Healthy,nonMDS,Lung_Healthy_nonMDS,LHNM,Flavone and flavonol biosynthesis,8
+Lung,Healthy,nonMDS,Lung_Healthy_nonMDS,LHNM,Folate biosynthesis,73
+Lung,Healthy,nonMDS,Lung_Healthy_nonMDS,LHNM,Fructose and mannose metabolism,27
+Lung,Healthy,nonMDS,Lung_Healthy_nonMDS,LHNM,Galactose metabolism,60
+Lung,Healthy,nonMDS,Lung_Healthy_nonMDS,LHNM,Geraniol degradation,343
+Lung,Healthy,nonMDS,Lung_Healthy_nonMDS,LHNM,Glucosinolate biosynthesis,3
+Lung,Healthy,nonMDS,Lung_Healthy_nonMDS,LHNM,Glutathione metabolism,57
+Lung,Healthy,nonMDS,Lung_Healthy_nonMDS,LHNM,Glycerolipid metabolism,129
+Lung,Healthy,nonMDS,Lung_Healthy_nonMDS,LHNM,Glycerophospholipid metabolism,99
+Lung,Healthy,nonMDS,Lung_Healthy_nonMDS,LHNM,"Glycine, serine and threonine metabolism",73
+Lung,Healthy,nonMDS,Lung_Healthy_nonMDS,LHNM,Glycolysis / Gluconeogenesis,78
+Lung,Healthy,nonMDS,Lung_Healthy_nonMDS,LHNM,Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate,23
+Lung,Healthy,nonMDS,Lung_Healthy_nonMDS,LHNM,Glycosaminoglycan biosynthesis - heparan sulfate / heparin,22
+Lung,Healthy,nonMDS,Lung_Healthy_nonMDS,LHNM,Glycosaminoglycan biosynthesis - keratan sulfate,13
+Lung,Healthy,nonMDS,Lung_Healthy_nonMDS,LHNM,Glycosaminoglycan degradation,174
+Lung,Healthy,nonMDS,Lung_Healthy_nonMDS,LHNM,Glycosphingolipid biosynthesis - ganglio series,114
+Lung,Healthy,nonMDS,Lung_Healthy_nonMDS,LHNM,Glycosphingolipid biosynthesis - globo and isoglobo series,86
+Lung,Healthy,nonMDS,Lung_Healthy_nonMDS,LHNM,Glycosphingolipid biosynthesis - lacto and neolacto series,31
+Lung,Healthy,nonMDS,Lung_Healthy_nonMDS,LHNM,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis,4
+Lung,Healthy,nonMDS,Lung_Healthy_nonMDS,LHNM,Glyoxylate and dicarboxylate metabolism,22
+Lung,Healthy,nonMDS,Lung_Healthy_nonMDS,LHNM,Histidine metabolism,69
+Lung,Healthy,nonMDS,Lung_Healthy_nonMDS,LHNM,Inositol phosphate metabolism,19
+Lung,Healthy,nonMDS,Lung_Healthy_nonMDS,LHNM,Insect hormone biosynthesis,16
+Lung,Healthy,nonMDS,Lung_Healthy_nonMDS,LHNM,Isoquinoline alkaloid biosynthesis,42
+Lung,Healthy,nonMDS,Lung_Healthy_nonMDS,LHNM,Limonene and pinene degradation,130
+Lung,Healthy,nonMDS,Lung_Healthy_nonMDS,LHNM,Linoleic acid metabolism,39
+Lung,Healthy,nonMDS,Lung_Healthy_nonMDS,LHNM,Lysine biosynthesis,4
+Lung,Healthy,nonMDS,Lung_Healthy_nonMDS,LHNM,Lysine degradation,268
+Lung,Healthy,nonMDS,Lung_Healthy_nonMDS,LHNM,Mannose type O-glycan biosynthesis,2
+Lung,Healthy,nonMDS,Lung_Healthy_nonMDS,LHNM,Metabolic pathways,2141
+Lung,Healthy,nonMDS,Lung_Healthy_nonMDS,LHNM,Metabolism of xenobiotics by cytochrome P450,130
+Lung,Healthy,nonMDS,Lung_Healthy_nonMDS,LHNM,Methane metabolism,21
+Lung,Healthy,nonMDS,Lung_Healthy_nonMDS,LHNM,Microbial metabolism in diverse environments,537
+Lung,Healthy,nonMDS,Lung_Healthy_nonMDS,LHNM,Monobactam biosynthesis,1
+Lung,Healthy,nonMDS,Lung_Healthy_nonMDS,LHNM,Mucin type O-glycan biosynthesis,14
+Lung,Healthy,nonMDS,Lung_Healthy_nonMDS,LHNM,Naphthalene degradation,10
+Lung,Healthy,nonMDS,Lung_Healthy_nonMDS,LHNM,"Neomycin, kanamycin and gentamicin biosynthesis",4
+Lung,Healthy,nonMDS,Lung_Healthy_nonMDS,LHNM,N-Glycan biosynthesis,41
+Lung,Healthy,nonMDS,Lung_Healthy_nonMDS,LHNM,Nicotinate and nicotinamide metabolism,24
+Lung,Healthy,nonMDS,Lung_Healthy_nonMDS,LHNM,Nitrogen metabolism,3
+Lung,Healthy,nonMDS,Lung_Healthy_nonMDS,LHNM,Novobiocin biosynthesis,5
+Lung,Healthy,nonMDS,Lung_Healthy_nonMDS,LHNM,One carbon pool by folate,17
+Lung,Healthy,nonMDS,Lung_Healthy_nonMDS,LHNM,Other glycan degradation,133
+Lung,Healthy,nonMDS,Lung_Healthy_nonMDS,LHNM,Other types of O-glycan biosynthesis,1
+Lung,Healthy,nonMDS,Lung_Healthy_nonMDS,LHNM,Oxidative phosphorylation,3
+Lung,Healthy,nonMDS,Lung_Healthy_nonMDS,LHNM,Pantothenate and CoA biosynthesis,20
+Lung,Healthy,nonMDS,Lung_Healthy_nonMDS,LHNM,Pentose and glucuronate interconversions,32
+Lung,Healthy,nonMDS,Lung_Healthy_nonMDS,LHNM,Pentose phosphate pathway,21
+Lung,Healthy,nonMDS,Lung_Healthy_nonMDS,LHNM,Phenylalanine metabolism,178
+Lung,Healthy,nonMDS,Lung_Healthy_nonMDS,LHNM,"Phenylalanine, tyrosine and tryptophan biosynthesis",5
+Lung,Healthy,nonMDS,Lung_Healthy_nonMDS,LHNM,Phenylpropanoid biosynthesis,13
+Lung,Healthy,nonMDS,Lung_Healthy_nonMDS,LHNM,Phosphonate and phosphinate metabolism,2
+Lung,Healthy,nonMDS,Lung_Healthy_nonMDS,LHNM,Polyketide sugar unit biosynthesis,1
+Lung,Healthy,nonMDS,Lung_Healthy_nonMDS,LHNM,Porphyrin and chlorophyll metabolism,29
+Lung,Healthy,nonMDS,Lung_Healthy_nonMDS,LHNM,Primary bile acid biosynthesis,41
+Lung,Healthy,nonMDS,Lung_Healthy_nonMDS,LHNM,Propanoate metabolism,216
+Lung,Healthy,nonMDS,Lung_Healthy_nonMDS,LHNM,Purine metabolism,75
+Lung,Healthy,nonMDS,Lung_Healthy_nonMDS,LHNM,Pyrimidine metabolism,62
+Lung,Healthy,nonMDS,Lung_Healthy_nonMDS,LHNM,Pyruvate metabolism,44
+Lung,Healthy,nonMDS,Lung_Healthy_nonMDS,LHNM,Retinol metabolism,65
+Lung,Healthy,nonMDS,Lung_Healthy_nonMDS,LHNM,Riboflavin metabolism,5
+Lung,Healthy,nonMDS,Lung_Healthy_nonMDS,LHNM,Secondary bile acid biosynthesis,2
+Lung,Healthy,nonMDS,Lung_Healthy_nonMDS,LHNM,Selenocompound metabolism,3
+Lung,Healthy,nonMDS,Lung_Healthy_nonMDS,LHNM,Sesquiterpenoid and triterpenoid biosynthesis,2
+Lung,Healthy,nonMDS,Lung_Healthy_nonMDS,LHNM,Sphingolipid metabolism,101
+Lung,Healthy,nonMDS,Lung_Healthy_nonMDS,LHNM,Starch and sucrose metabolism,13
+Lung,Healthy,nonMDS,Lung_Healthy_nonMDS,LHNM,Steroid biosynthesis,110
+Lung,Healthy,nonMDS,Lung_Healthy_nonMDS,LHNM,Steroid hormone biosynthesis,90
+Lung,Healthy,nonMDS,Lung_Healthy_nonMDS,LHNM,Streptomycin biosynthesis,8
+Lung,Healthy,nonMDS,Lung_Healthy_nonMDS,LHNM,Styrene degradation,2
+Lung,Healthy,nonMDS,Lung_Healthy_nonMDS,LHNM,Sulfur metabolism,3
+Lung,Healthy,nonMDS,Lung_Healthy_nonMDS,LHNM,Synthesis and degradation of ketone bodies,5
+Lung,Healthy,nonMDS,Lung_Healthy_nonMDS,LHNM,Taurine and hypotaurine metabolism,5
+Lung,Healthy,nonMDS,Lung_Healthy_nonMDS,LHNM,Terpenoid backbone biosynthesis,21
+Lung,Healthy,nonMDS,Lung_Healthy_nonMDS,LHNM,Thiamine metabolism,8
+Lung,Healthy,nonMDS,Lung_Healthy_nonMDS,LHNM,Toluene degradation,115
+Lung,Healthy,nonMDS,Lung_Healthy_nonMDS,LHNM,"Tropane, piperidine and pyridine alkaloid biosynthesis",29
+Lung,Healthy,nonMDS,Lung_Healthy_nonMDS,LHNM,Tryptophan metabolism,338
+Lung,Healthy,nonMDS,Lung_Healthy_nonMDS,LHNM,Tyrosine metabolism,91
+Lung,Healthy,nonMDS,Lung_Healthy_nonMDS,LHNM,Ubiquinone and other terpenoid-quinone biosynthesis,7
+Lung,Healthy,nonMDS,Lung_Healthy_nonMDS,LHNM,"Valine, leucine and isoleucine biosynthesis",6
+Lung,Healthy,nonMDS,Lung_Healthy_nonMDS,LHNM,"Valine, leucine and isoleucine degradation",446
+Lung,Healthy,nonMDS,Lung_Healthy_nonMDS,LHNM,Various types of N-glycan biosynthesis,85
+Lung,Healthy,nonMDS,Lung_Healthy_nonMDS,LHNM,Vitamin B6 metabolism,10
+Kidney-Renal,Cancer,MDS,Kidney-Renal_Cancer_MDS,RCM,Aflatoxin biosynthesis,1
+Kidney-Renal,Cancer,MDS,Kidney-Renal_Cancer_MDS,RCM,"Alanine, aspartate and glutamate metabolism",14
+Kidney-Renal,Cancer,MDS,Kidney-Renal_Cancer_MDS,RCM,alpha-Linolenic acid metabolism,9
+Kidney-Renal,Cancer,MDS,Kidney-Renal_Cancer_MDS,RCM,Amino sugar and nucleotide sugar metabolism,20
+Kidney-Renal,Cancer,MDS,Kidney-Renal_Cancer_MDS,RCM,Aminoacyl-tRNA biosynthesis,1
+Kidney-Renal,Cancer,MDS,Kidney-Renal_Cancer_MDS,RCM,Aminobenzoate degradation,7
+Kidney-Renal,Cancer,MDS,Kidney-Renal_Cancer_MDS,RCM,Arachidonic acid metabolism,16
+Kidney-Renal,Cancer,MDS,Kidney-Renal_Cancer_MDS,RCM,Arginine and proline metabolism,15
+Kidney-Renal,Cancer,MDS,Kidney-Renal_Cancer_MDS,RCM,Arginine biosynthesis,8
+Kidney-Renal,Cancer,MDS,Kidney-Renal_Cancer_MDS,RCM,Ascorbate and aldarate metabolism,4
+Kidney-Renal,Cancer,MDS,Kidney-Renal_Cancer_MDS,RCM,Benzoate degradation,11
+Kidney-Renal,Cancer,MDS,Kidney-Renal_Cancer_MDS,RCM,beta-Alanine metabolism,15
+Kidney-Renal,Cancer,MDS,Kidney-Renal_Cancer_MDS,RCM,Betalain biosynthesis,8
+Kidney-Renal,Cancer,MDS,Kidney-Renal_Cancer_MDS,RCM,Biosynthesis of ansamycins,1
+Kidney-Renal,Cancer,MDS,Kidney-Renal_Cancer_MDS,RCM,Biosynthesis of antibiotics,108
+Kidney-Renal,Cancer,MDS,Kidney-Renal_Cancer_MDS,RCM,Biosynthesis of secondary metabolites,171
+Kidney-Renal,Cancer,MDS,Kidney-Renal_Cancer_MDS,RCM,Biosynthesis of unsaturated fatty acids,13
+Kidney-Renal,Cancer,MDS,Kidney-Renal_Cancer_MDS,RCM,Butanoate metabolism,16
+Kidney-Renal,Cancer,MDS,Kidney-Renal_Cancer_MDS,RCM,Caffeine metabolism,4
+Kidney-Renal,Cancer,MDS,Kidney-Renal_Cancer_MDS,RCM,Caprolactam degradation,10
+Kidney-Renal,Cancer,MDS,Kidney-Renal_Cancer_MDS,RCM,Carbon fixation in photosynthetic organisms,11
+Kidney-Renal,Cancer,MDS,Kidney-Renal_Cancer_MDS,RCM,Carbon fixation pathways in prokaryotes,27
+Kidney-Renal,Cancer,MDS,Kidney-Renal_Cancer_MDS,RCM,Chloroalkane and chloroalkene degradation,4
+Kidney-Renal,Cancer,MDS,Kidney-Renal_Cancer_MDS,RCM,Citrate cycle (TCA cycle),23
+Kidney-Renal,Cancer,MDS,Kidney-Renal_Cancer_MDS,RCM,Cyanoamino acid metabolism,5
+Kidney-Renal,Cancer,MDS,Kidney-Renal_Cancer_MDS,RCM,Cysteine and methionine metabolism,16
+Kidney-Renal,Cancer,MDS,Kidney-Renal_Cancer_MDS,RCM,D-Glutamine and D-glutamate metabolism,4
+Kidney-Renal,Cancer,MDS,Kidney-Renal_Cancer_MDS,RCM,Drug metabolism - cytochrome P450,28
+Kidney-Renal,Cancer,MDS,Kidney-Renal_Cancer_MDS,RCM,Drug metabolism - other enzymes,46
+Kidney-Renal,Cancer,MDS,Kidney-Renal_Cancer_MDS,RCM,Ether lipid metabolism,4
+Kidney-Renal,Cancer,MDS,Kidney-Renal_Cancer_MDS,RCM,Ethylbenzene degradation,2
+Kidney-Renal,Cancer,MDS,Kidney-Renal_Cancer_MDS,RCM,Fatty acid biosynthesis,16
+Kidney-Renal,Cancer,MDS,Kidney-Renal_Cancer_MDS,RCM,Fatty acid degradation,40
+Kidney-Renal,Cancer,MDS,Kidney-Renal_Cancer_MDS,RCM,Fatty acid elongation,22
+Kidney-Renal,Cancer,MDS,Kidney-Renal_Cancer_MDS,RCM,Flavone and flavonol biosynthesis,2
+Kidney-Renal,Cancer,MDS,Kidney-Renal_Cancer_MDS,RCM,Folate biosynthesis,10
+Kidney-Renal,Cancer,MDS,Kidney-Renal_Cancer_MDS,RCM,Fructose and mannose metabolism,19
+Kidney-Renal,Cancer,MDS,Kidney-Renal_Cancer_MDS,RCM,Galactose metabolism,25
+Kidney-Renal,Cancer,MDS,Kidney-Renal_Cancer_MDS,RCM,Geraniol degradation,12
+Kidney-Renal,Cancer,MDS,Kidney-Renal_Cancer_MDS,RCM,Glutathione metabolism,35
+Kidney-Renal,Cancer,MDS,Kidney-Renal_Cancer_MDS,RCM,Glycerolipid metabolism,12
+Kidney-Renal,Cancer,MDS,Kidney-Renal_Cancer_MDS,RCM,Glycerophospholipid metabolism,16
+Kidney-Renal,Cancer,MDS,Kidney-Renal_Cancer_MDS,RCM,"Glycine, serine and threonine metabolism",17
+Kidney-Renal,Cancer,MDS,Kidney-Renal_Cancer_MDS,RCM,Glycolysis / Gluconeogenesis,50
+Kidney-Renal,Cancer,MDS,Kidney-Renal_Cancer_MDS,RCM,Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate,2
+Kidney-Renal,Cancer,MDS,Kidney-Renal_Cancer_MDS,RCM,Glycosaminoglycan biosynthesis - heparan sulfate / heparin,1
+Kidney-Renal,Cancer,MDS,Kidney-Renal_Cancer_MDS,RCM,Glycosaminoglycan biosynthesis - keratan sulfate,5
+Kidney-Renal,Cancer,MDS,Kidney-Renal_Cancer_MDS,RCM,Glycosaminoglycan degradation,9
+Kidney-Renal,Cancer,MDS,Kidney-Renal_Cancer_MDS,RCM,Glycosphingolipid biosynthesis - ganglio series,11
+Kidney-Renal,Cancer,MDS,Kidney-Renal_Cancer_MDS,RCM,Glycosphingolipid biosynthesis - globo and isoglobo series,14
+Kidney-Renal,Cancer,MDS,Kidney-Renal_Cancer_MDS,RCM,Glycosphingolipid biosynthesis - lacto and neolacto series,15
+Kidney-Renal,Cancer,MDS,Kidney-Renal_Cancer_MDS,RCM,Glyoxylate and dicarboxylate metabolism,12
+Kidney-Renal,Cancer,MDS,Kidney-Renal_Cancer_MDS,RCM,Histidine metabolism,9
+Kidney-Renal,Cancer,MDS,Kidney-Renal_Cancer_MDS,RCM,Inositol phosphate metabolism,18
+Kidney-Renal,Cancer,MDS,Kidney-Renal_Cancer_MDS,RCM,Insect hormone biosynthesis,2
+Kidney-Renal,Cancer,MDS,Kidney-Renal_Cancer_MDS,RCM,Isoquinoline alkaloid biosynthesis,7
+Kidney-Renal,Cancer,MDS,Kidney-Renal_Cancer_MDS,RCM,Limonene and pinene degradation,4
+Kidney-Renal,Cancer,MDS,Kidney-Renal_Cancer_MDS,RCM,Linoleic acid metabolism,9
+Kidney-Renal,Cancer,MDS,Kidney-Renal_Cancer_MDS,RCM,Lipoic acid metabolism,2
+Kidney-Renal,Cancer,MDS,Kidney-Renal_Cancer_MDS,RCM,Lysine biosynthesis,1
+Kidney-Renal,Cancer,MDS,Kidney-Renal_Cancer_MDS,RCM,Lysine degradation,19
+Kidney-Renal,Cancer,MDS,Kidney-Renal_Cancer_MDS,RCM,Mannose type O-glycan biosynthesis,1
+Kidney-Renal,Cancer,MDS,Kidney-Renal_Cancer_MDS,RCM,Metabolic pathways,347
+Kidney-Renal,Cancer,MDS,Kidney-Renal_Cancer_MDS,RCM,Metabolism of xenobiotics by cytochrome P450,30
+Kidney-Renal,Cancer,MDS,Kidney-Renal_Cancer_MDS,RCM,Methane metabolism,11
+Kidney-Renal,Cancer,MDS,Kidney-Renal_Cancer_MDS,RCM,Microbial metabolism in diverse environments,107
+Kidney-Renal,Cancer,MDS,Kidney-Renal_Cancer_MDS,RCM,Mucin type O-glycan biosynthesis,4
+Kidney-Renal,Cancer,MDS,Kidney-Renal_Cancer_MDS,RCM,N-Glycan biosynthesis,2
+Kidney-Renal,Cancer,MDS,Kidney-Renal_Cancer_MDS,RCM,Naphthalene degradation,2
+Kidney-Renal,Cancer,MDS,Kidney-Renal_Cancer_MDS,RCM,"Neomycin, kanamycin and gentamicin biosynthesis",10
+Kidney-Renal,Cancer,MDS,Kidney-Renal_Cancer_MDS,RCM,Nicotinate and nicotinamide metabolism,19
+Kidney-Renal,Cancer,MDS,Kidney-Renal_Cancer_MDS,RCM,Nitrogen metabolism,4
+Kidney-Renal,Cancer,MDS,Kidney-Renal_Cancer_MDS,RCM,Novobiocin biosynthesis,5
+Kidney-Renal,Cancer,MDS,Kidney-Renal_Cancer_MDS,RCM,One carbon pool by folate,11
+Kidney-Renal,Cancer,MDS,Kidney-Renal_Cancer_MDS,RCM,Other glycan degradation,3
+Kidney-Renal,Cancer,MDS,Kidney-Renal_Cancer_MDS,RCM,Other types of O-glycan biosynthesis,2
+Kidney-Renal,Cancer,MDS,Kidney-Renal_Cancer_MDS,RCM,Oxidative phosphorylation,2
+Kidney-Renal,Cancer,MDS,Kidney-Renal_Cancer_MDS,RCM,Pantothenate and CoA biosynthesis,3
+Kidney-Renal,Cancer,MDS,Kidney-Renal_Cancer_MDS,RCM,Pentose and glucuronate interconversions,7
+Kidney-Renal,Cancer,MDS,Kidney-Renal_Cancer_MDS,RCM,Pentose phosphate pathway,12
+Kidney-Renal,Cancer,MDS,Kidney-Renal_Cancer_MDS,RCM,Phenylalanine metabolism,14
+Kidney-Renal,Cancer,MDS,Kidney-Renal_Cancer_MDS,RCM,"Phenylalanine, tyrosine and tryptophan biosynthesis",5
+Kidney-Renal,Cancer,MDS,Kidney-Renal_Cancer_MDS,RCM,Phenylpropanoid biosynthesis,2
+Kidney-Renal,Cancer,MDS,Kidney-Renal_Cancer_MDS,RCM,Porphyrin and chlorophyll metabolism,8
+Kidney-Renal,Cancer,MDS,Kidney-Renal_Cancer_MDS,RCM,Primary bile acid biosynthesis,1
+Kidney-Renal,Cancer,MDS,Kidney-Renal_Cancer_MDS,RCM,Propanoate metabolism,16
+Kidney-Renal,Cancer,MDS,Kidney-Renal_Cancer_MDS,RCM,Purine metabolism,66
+Kidney-Renal,Cancer,MDS,Kidney-Renal_Cancer_MDS,RCM,Pyrimidine metabolism,53
+Kidney-Renal,Cancer,MDS,Kidney-Renal_Cancer_MDS,RCM,Pyruvate metabolism,31
+Kidney-Renal,Cancer,MDS,Kidney-Renal_Cancer_MDS,RCM,Retinol metabolism,12
+Kidney-Renal,Cancer,MDS,Kidney-Renal_Cancer_MDS,RCM,Riboflavin metabolism,1
+Kidney-Renal,Cancer,MDS,Kidney-Renal_Cancer_MDS,RCM,Selenocompound metabolism,1
+Kidney-Renal,Cancer,MDS,Kidney-Renal_Cancer_MDS,RCM,Sphingolipid metabolism,8
+Kidney-Renal,Cancer,MDS,Kidney-Renal_Cancer_MDS,RCM,Starch and sucrose metabolism,16
+Kidney-Renal,Cancer,MDS,Kidney-Renal_Cancer_MDS,RCM,Steroid biosynthesis,8
+Kidney-Renal,Cancer,MDS,Kidney-Renal_Cancer_MDS,RCM,Steroid degradation,3
+Kidney-Renal,Cancer,MDS,Kidney-Renal_Cancer_MDS,RCM,Steroid hormone biosynthesis,14
+Kidney-Renal,Cancer,MDS,Kidney-Renal_Cancer_MDS,RCM,Streptomycin biosynthesis,12
+Kidney-Renal,Cancer,MDS,Kidney-Renal_Cancer_MDS,RCM,Sulfur metabolism,2
+Kidney-Renal,Cancer,MDS,Kidney-Renal_Cancer_MDS,RCM,Synthesis and degradation of ketone bodies,2
+Kidney-Renal,Cancer,MDS,Kidney-Renal_Cancer_MDS,RCM,Taurine and hypotaurine metabolism,5
+Kidney-Renal,Cancer,MDS,Kidney-Renal_Cancer_MDS,RCM,Terpenoid backbone biosynthesis,2
+Kidney-Renal,Cancer,MDS,Kidney-Renal_Cancer_MDS,RCM,Thiamine metabolism,2
+Kidney-Renal,Cancer,MDS,Kidney-Renal_Cancer_MDS,RCM,Toluene degradation,7
+Kidney-Renal,Cancer,MDS,Kidney-Renal_Cancer_MDS,RCM,"Tropane, piperidine and pyridine alkaloid biosynthesis",6
+Kidney-Renal,Cancer,MDS,Kidney-Renal_Cancer_MDS,RCM,Tryptophan metabolism,28
+Kidney-Renal,Cancer,MDS,Kidney-Renal_Cancer_MDS,RCM,Tyrosine metabolism,23
+Kidney-Renal,Cancer,MDS,Kidney-Renal_Cancer_MDS,RCM,Ubiquinone and other terpenoid-quinone biosynthesis,1
+Kidney-Renal,Cancer,MDS,Kidney-Renal_Cancer_MDS,RCM,"Valine, leucine and isoleucine biosynthesis",1
+Kidney-Renal,Cancer,MDS,Kidney-Renal_Cancer_MDS,RCM,"Valine, leucine and isoleucine degradation",19
+Kidney-Renal,Cancer,MDS,Kidney-Renal_Cancer_MDS,RCM,Various types of N-glycan biosynthesis,4
+Kidney-Renal,Cancer,MDS,Kidney-Renal_Cancer_MDS,RCM,Vitamin B6 metabolism,2
+Kidney-Renal,Cancer,nonMDS,Kidney-Renal_Cancer_nonMDS,RCNM,Aflatoxin biosynthesis,1
+Kidney-Renal,Cancer,nonMDS,Kidney-Renal_Cancer_nonMDS,RCNM,"Alanine, aspartate and glutamate metabolism",20
+Kidney-Renal,Cancer,nonMDS,Kidney-Renal_Cancer_nonMDS,RCNM,alpha-Linolenic acid metabolism,258
+Kidney-Renal,Cancer,nonMDS,Kidney-Renal_Cancer_nonMDS,RCNM,Amino sugar and nucleotide sugar metabolism,30
+Kidney-Renal,Cancer,nonMDS,Kidney-Renal_Cancer_nonMDS,RCNM,Aminoacyl-tRNA biosynthesis,19
+Kidney-Renal,Cancer,nonMDS,Kidney-Renal_Cancer_nonMDS,RCNM,Aminobenzoate degradation,126
+Kidney-Renal,Cancer,nonMDS,Kidney-Renal_Cancer_nonMDS,RCNM,Arachidonic acid metabolism,82
+Kidney-Renal,Cancer,nonMDS,Kidney-Renal_Cancer_nonMDS,RCNM,Arginine and proline metabolism,64
+Kidney-Renal,Cancer,nonMDS,Kidney-Renal_Cancer_nonMDS,RCNM,Arginine biosynthesis,10
+Kidney-Renal,Cancer,nonMDS,Kidney-Renal_Cancer_nonMDS,RCNM,Ascorbate and aldarate metabolism,24
+Kidney-Renal,Cancer,nonMDS,Kidney-Renal_Cancer_nonMDS,RCNM,Benzoate degradation,279
+Kidney-Renal,Cancer,nonMDS,Kidney-Renal_Cancer_nonMDS,RCNM,beta-Alanine metabolism,155
+Kidney-Renal,Cancer,nonMDS,Kidney-Renal_Cancer_nonMDS,RCNM,Betalain biosynthesis,15
+Kidney-Renal,Cancer,nonMDS,Kidney-Renal_Cancer_nonMDS,RCNM,Biosynthesis of antibiotics,447
+Kidney-Renal,Cancer,nonMDS,Kidney-Renal_Cancer_nonMDS,RCNM,Biosynthesis of secondary metabolites,782
+Kidney-Renal,Cancer,nonMDS,Kidney-Renal_Cancer_nonMDS,RCNM,Biosynthesis of unsaturated fatty acids,241
+Kidney-Renal,Cancer,nonMDS,Kidney-Renal_Cancer_nonMDS,RCNM,Biotin metabolism,26
+Kidney-Renal,Cancer,nonMDS,Kidney-Renal_Cancer_nonMDS,RCNM,Butanoate metabolism,197
+Kidney-Renal,Cancer,nonMDS,Kidney-Renal_Cancer_nonMDS,RCNM,C5-Branched dibasic acid metabolism,1
+Kidney-Renal,Cancer,nonMDS,Kidney-Renal_Cancer_nonMDS,RCNM,Caffeine metabolism,32
+Kidney-Renal,Cancer,nonMDS,Kidney-Renal_Cancer_nonMDS,RCNM,Caprolactam degradation,187
+Kidney-Renal,Cancer,nonMDS,Kidney-Renal_Cancer_nonMDS,RCNM,Carbon fixation in photosynthetic organisms,11
+Kidney-Renal,Cancer,nonMDS,Kidney-Renal_Cancer_nonMDS,RCNM,Carbon fixation pathways in prokaryotes,200
+Kidney-Renal,Cancer,nonMDS,Kidney-Renal_Cancer_nonMDS,RCNM,Chloroalkane and chloroalkene degradation,25
+Kidney-Renal,Cancer,nonMDS,Kidney-Renal_Cancer_nonMDS,RCNM,Citrate cycle (TCA cycle),15
+Kidney-Renal,Cancer,nonMDS,Kidney-Renal_Cancer_nonMDS,RCNM,"Cutin, suberine and wax biosynthesis",1
+Kidney-Renal,Cancer,nonMDS,Kidney-Renal_Cancer_nonMDS,RCNM,Cyanoamino acid metabolism,5
+Kidney-Renal,Cancer,nonMDS,Kidney-Renal_Cancer_nonMDS,RCNM,Cysteine and methionine metabolism,28
+Kidney-Renal,Cancer,nonMDS,Kidney-Renal_Cancer_nonMDS,RCNM,D-Alanine metabolism,1
+Kidney-Renal,Cancer,nonMDS,Kidney-Renal_Cancer_nonMDS,RCNM,D-Arginine and D-ornithine metabolism,1
+Kidney-Renal,Cancer,nonMDS,Kidney-Renal_Cancer_nonMDS,RCNM,D-Glutamine and D-glutamate metabolism,1
+Kidney-Renal,Cancer,nonMDS,Kidney-Renal_Cancer_nonMDS,RCNM,Drug metabolism - cytochrome P450,105
+Kidney-Renal,Cancer,nonMDS,Kidney-Renal_Cancer_nonMDS,RCNM,Drug metabolism - other enzymes,59
+Kidney-Renal,Cancer,nonMDS,Kidney-Renal_Cancer_nonMDS,RCNM,Ether lipid metabolism,20
+Kidney-Renal,Cancer,nonMDS,Kidney-Renal_Cancer_nonMDS,RCNM,Ethylbenzene degradation,94
+Kidney-Renal,Cancer,nonMDS,Kidney-Renal_Cancer_nonMDS,RCNM,Fatty acid biosynthesis,162
+Kidney-Renal,Cancer,nonMDS,Kidney-Renal_Cancer_nonMDS,RCNM,Fatty acid degradation,639
+Kidney-Renal,Cancer,nonMDS,Kidney-Renal_Cancer_nonMDS,RCNM,Fatty acid elongation,402
+Kidney-Renal,Cancer,nonMDS,Kidney-Renal_Cancer_nonMDS,RCNM,Flavone and flavonol biosynthesis,5
+Kidney-Renal,Cancer,nonMDS,Kidney-Renal_Cancer_nonMDS,RCNM,Folate biosynthesis,46
+Kidney-Renal,Cancer,nonMDS,Kidney-Renal_Cancer_nonMDS,RCNM,Fructose and mannose metabolism,24
+Kidney-Renal,Cancer,nonMDS,Kidney-Renal_Cancer_nonMDS,RCNM,Galactose metabolism,25
+Kidney-Renal,Cancer,nonMDS,Kidney-Renal_Cancer_nonMDS,RCNM,Geraniol degradation,276
+Kidney-Renal,Cancer,nonMDS,Kidney-Renal_Cancer_nonMDS,RCNM,Glucosinolate biosynthesis,3
+Kidney-Renal,Cancer,nonMDS,Kidney-Renal_Cancer_nonMDS,RCNM,Glutathione metabolism,40
+Kidney-Renal,Cancer,nonMDS,Kidney-Renal_Cancer_nonMDS,RCNM,Glycerolipid metabolism,119
+Kidney-Renal,Cancer,nonMDS,Kidney-Renal_Cancer_nonMDS,RCNM,Glycerophospholipid metabolism,103
+Kidney-Renal,Cancer,nonMDS,Kidney-Renal_Cancer_nonMDS,RCNM,"Glycine, serine and threonine metabolism",73
+Kidney-Renal,Cancer,nonMDS,Kidney-Renal_Cancer_nonMDS,RCNM,Glycolysis / Gluconeogenesis,69
+Kidney-Renal,Cancer,nonMDS,Kidney-Renal_Cancer_nonMDS,RCNM,Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate,12
+Kidney-Renal,Cancer,nonMDS,Kidney-Renal_Cancer_nonMDS,RCNM,Glycosaminoglycan biosynthesis - heparan sulfate / heparin,5
+Kidney-Renal,Cancer,nonMDS,Kidney-Renal_Cancer_nonMDS,RCNM,Glycosaminoglycan biosynthesis - keratan sulfate,5
+Kidney-Renal,Cancer,nonMDS,Kidney-Renal_Cancer_nonMDS,RCNM,Glycosaminoglycan degradation,33
+Kidney-Renal,Cancer,nonMDS,Kidney-Renal_Cancer_nonMDS,RCNM,Glycosphingolipid biosynthesis - ganglio series,17
+Kidney-Renal,Cancer,nonMDS,Kidney-Renal_Cancer_nonMDS,RCNM,Glycosphingolipid biosynthesis - globo and isoglobo series,18
+Kidney-Renal,Cancer,nonMDS,Kidney-Renal_Cancer_nonMDS,RCNM,Glycosphingolipid biosynthesis - lacto and neolacto series,15
+Kidney-Renal,Cancer,nonMDS,Kidney-Renal_Cancer_nonMDS,RCNM,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis,2
+Kidney-Renal,Cancer,nonMDS,Kidney-Renal_Cancer_nonMDS,RCNM,Glyoxylate and dicarboxylate metabolism,20
+Kidney-Renal,Cancer,nonMDS,Kidney-Renal_Cancer_nonMDS,RCNM,Histidine metabolism,67
+Kidney-Renal,Cancer,nonMDS,Kidney-Renal_Cancer_nonMDS,RCNM,Inositol phosphate metabolism,16
+Kidney-Renal,Cancer,nonMDS,Kidney-Renal_Cancer_nonMDS,RCNM,Insect hormone biosynthesis,13
+Kidney-Renal,Cancer,nonMDS,Kidney-Renal_Cancer_nonMDS,RCNM,Isoquinoline alkaloid biosynthesis,45
+Kidney-Renal,Cancer,nonMDS,Kidney-Renal_Cancer_nonMDS,RCNM,Limonene and pinene degradation,106
+Kidney-Renal,Cancer,nonMDS,Kidney-Renal_Cancer_nonMDS,RCNM,Linoleic acid metabolism,37
+Kidney-Renal,Cancer,nonMDS,Kidney-Renal_Cancer_nonMDS,RCNM,Lipoic acid metabolism,2
+Kidney-Renal,Cancer,nonMDS,Kidney-Renal_Cancer_nonMDS,RCNM,Lysine biosynthesis,4
+Kidney-Renal,Cancer,nonMDS,Kidney-Renal_Cancer_nonMDS,RCNM,Lysine degradation,220
+Kidney-Renal,Cancer,nonMDS,Kidney-Renal_Cancer_nonMDS,RCNM,Mannose type O-glycan biosynthesis,1
+Kidney-Renal,Cancer,nonMDS,Kidney-Renal_Cancer_nonMDS,RCNM,Metabolic pathways,1435
+Kidney-Renal,Cancer,nonMDS,Kidney-Renal_Cancer_nonMDS,RCNM,Metabolism of xenobiotics by cytochrome P450,116
+Kidney-Renal,Cancer,nonMDS,Kidney-Renal_Cancer_nonMDS,RCNM,Methane metabolism,19
+Kidney-Renal,Cancer,nonMDS,Kidney-Renal_Cancer_nonMDS,RCNM,Microbial metabolism in diverse environments,448
+Kidney-Renal,Cancer,nonMDS,Kidney-Renal_Cancer_nonMDS,RCNM,Monobactam biosynthesis,1
+Kidney-Renal,Cancer,nonMDS,Kidney-Renal_Cancer_nonMDS,RCNM,Mucin type O-glycan biosynthesis,7
+Kidney-Renal,Cancer,nonMDS,Kidney-Renal_Cancer_nonMDS,RCNM,N-Glycan biosynthesis,23
+Kidney-Renal,Cancer,nonMDS,Kidney-Renal_Cancer_nonMDS,RCNM,Naphthalene degradation,10
+Kidney-Renal,Cancer,nonMDS,Kidney-Renal_Cancer_nonMDS,RCNM,"Neomycin, kanamycin and gentamicin biosynthesis",3
+Kidney-Renal,Cancer,nonMDS,Kidney-Renal_Cancer_nonMDS,RCNM,Nicotinate and nicotinamide metabolism,23
+Kidney-Renal,Cancer,nonMDS,Kidney-Renal_Cancer_nonMDS,RCNM,Nitrogen metabolism,3
+Kidney-Renal,Cancer,nonMDS,Kidney-Renal_Cancer_nonMDS,RCNM,Novobiocin biosynthesis,6
+Kidney-Renal,Cancer,nonMDS,Kidney-Renal_Cancer_nonMDS,RCNM,One carbon pool by folate,22
+Kidney-Renal,Cancer,nonMDS,Kidney-Renal_Cancer_nonMDS,RCNM,Other glycan degradation,15
+Kidney-Renal,Cancer,nonMDS,Kidney-Renal_Cancer_nonMDS,RCNM,Other types of O-glycan biosynthesis,1
+Kidney-Renal,Cancer,nonMDS,Kidney-Renal_Cancer_nonMDS,RCNM,Oxidative phosphorylation,4
+Kidney-Renal,Cancer,nonMDS,Kidney-Renal_Cancer_nonMDS,RCNM,Pantothenate and CoA biosynthesis,20
+Kidney-Renal,Cancer,nonMDS,Kidney-Renal_Cancer_nonMDS,RCNM,Pentose and glucuronate interconversions,27
+Kidney-Renal,Cancer,nonMDS,Kidney-Renal_Cancer_nonMDS,RCNM,Pentose phosphate pathway,17
+Kidney-Renal,Cancer,nonMDS,Kidney-Renal_Cancer_nonMDS,RCNM,Phenylalanine metabolism,158
+Kidney-Renal,Cancer,nonMDS,Kidney-Renal_Cancer_nonMDS,RCNM,"Phenylalanine, tyrosine and tryptophan biosynthesis",7
+Kidney-Renal,Cancer,nonMDS,Kidney-Renal_Cancer_nonMDS,RCNM,Phenylpropanoid biosynthesis,5
+Kidney-Renal,Cancer,nonMDS,Kidney-Renal_Cancer_nonMDS,RCNM,Phosphonate and phosphinate metabolism,4
+Kidney-Renal,Cancer,nonMDS,Kidney-Renal_Cancer_nonMDS,RCNM,Porphyrin and chlorophyll metabolism,26
+Kidney-Renal,Cancer,nonMDS,Kidney-Renal_Cancer_nonMDS,RCNM,Primary bile acid biosynthesis,43
+Kidney-Renal,Cancer,nonMDS,Kidney-Renal_Cancer_nonMDS,RCNM,Propanoate metabolism,134
+Kidney-Renal,Cancer,nonMDS,Kidney-Renal_Cancer_nonMDS,RCNM,Purine metabolism,60
+Kidney-Renal,Cancer,nonMDS,Kidney-Renal_Cancer_nonMDS,RCNM,Pyrimidine metabolism,53
+Kidney-Renal,Cancer,nonMDS,Kidney-Renal_Cancer_nonMDS,RCNM,Pyruvate metabolism,37
+Kidney-Renal,Cancer,nonMDS,Kidney-Renal_Cancer_nonMDS,RCNM,Retinol metabolism,60
+Kidney-Renal,Cancer,nonMDS,Kidney-Renal_Cancer_nonMDS,RCNM,Riboflavin metabolism,10
+Kidney-Renal,Cancer,nonMDS,Kidney-Renal_Cancer_nonMDS,RCNM,Secondary bile acid biosynthesis,4
+Kidney-Renal,Cancer,nonMDS,Kidney-Renal_Cancer_nonMDS,RCNM,Selenocompound metabolism,5
+Kidney-Renal,Cancer,nonMDS,Kidney-Renal_Cancer_nonMDS,RCNM,Sesquiterpenoid and triterpenoid biosynthesis,2
+Kidney-Renal,Cancer,nonMDS,Kidney-Renal_Cancer_nonMDS,RCNM,Sphingolipid metabolism,30
+Kidney-Renal,Cancer,nonMDS,Kidney-Renal_Cancer_nonMDS,RCNM,Starch and sucrose metabolism,22
+Kidney-Renal,Cancer,nonMDS,Kidney-Renal_Cancer_nonMDS,RCNM,Steroid biosynthesis,139
+Kidney-Renal,Cancer,nonMDS,Kidney-Renal_Cancer_nonMDS,RCNM,Steroid hormone biosynthesis,87
+Kidney-Renal,Cancer,nonMDS,Kidney-Renal_Cancer_nonMDS,RCNM,Streptomycin biosynthesis,7
+Kidney-Renal,Cancer,nonMDS,Kidney-Renal_Cancer_nonMDS,RCNM,Styrene degradation,5
+Kidney-Renal,Cancer,nonMDS,Kidney-Renal_Cancer_nonMDS,RCNM,Sulfur metabolism,4
+Kidney-Renal,Cancer,nonMDS,Kidney-Renal_Cancer_nonMDS,RCNM,Synthesis and degradation of ketone bodies,5
+Kidney-Renal,Cancer,nonMDS,Kidney-Renal_Cancer_nonMDS,RCNM,Taurine and hypotaurine metabolism,9
+Kidney-Renal,Cancer,nonMDS,Kidney-Renal_Cancer_nonMDS,RCNM,Terpenoid backbone biosynthesis,22
+Kidney-Renal,Cancer,nonMDS,Kidney-Renal_Cancer_nonMDS,RCNM,Thiamine metabolism,9
+Kidney-Renal,Cancer,nonMDS,Kidney-Renal_Cancer_nonMDS,RCNM,Toluene degradation,89
+Kidney-Renal,Cancer,nonMDS,Kidney-Renal_Cancer_nonMDS,RCNM,"Tropane, piperidine and pyridine alkaloid biosynthesis",26
+Kidney-Renal,Cancer,nonMDS,Kidney-Renal_Cancer_nonMDS,RCNM,Tryptophan metabolism,293
+Kidney-Renal,Cancer,nonMDS,Kidney-Renal_Cancer_nonMDS,RCNM,Tyrosine metabolism,85
+Kidney-Renal,Cancer,nonMDS,Kidney-Renal_Cancer_nonMDS,RCNM,Ubiquinone and other terpenoid-quinone biosynthesis,3
+Kidney-Renal,Cancer,nonMDS,Kidney-Renal_Cancer_nonMDS,RCNM,"Valine, leucine and isoleucine biosynthesis",4
+Kidney-Renal,Cancer,nonMDS,Kidney-Renal_Cancer_nonMDS,RCNM,"Valine, leucine and isoleucine degradation",321
+Kidney-Renal,Cancer,nonMDS,Kidney-Renal_Cancer_nonMDS,RCNM,Various types of N-glycan biosynthesis,18
+Kidney-Renal,Cancer,nonMDS,Kidney-Renal_Cancer_nonMDS,RCNM,Vitamin B6 metabolism,9
+Urothelial,Cancer,MDS,Urothelial_Cancer_MDS,UCM,Aflatoxin biosynthesis,1
+Urothelial,Cancer,MDS,Urothelial_Cancer_MDS,UCM,"Alanine, aspartate and glutamate metabolism",13
+Urothelial,Cancer,MDS,Urothelial_Cancer_MDS,UCM,alpha-Linolenic acid metabolism,11
+Urothelial,Cancer,MDS,Urothelial_Cancer_MDS,UCM,Amino sugar and nucleotide sugar metabolism,21
+Urothelial,Cancer,MDS,Urothelial_Cancer_MDS,UCM,Aminobenzoate degradation,4
+Urothelial,Cancer,MDS,Urothelial_Cancer_MDS,UCM,Arachidonic acid metabolism,19
+Urothelial,Cancer,MDS,Urothelial_Cancer_MDS,UCM,Arginine and proline metabolism,22
+Urothelial,Cancer,MDS,Urothelial_Cancer_MDS,UCM,Arginine biosynthesis,8
+Urothelial,Cancer,MDS,Urothelial_Cancer_MDS,UCM,Ascorbate and aldarate metabolism,7
+Urothelial,Cancer,MDS,Urothelial_Cancer_MDS,UCM,Benzoate degradation,9
+Urothelial,Cancer,MDS,Urothelial_Cancer_MDS,UCM,beta-Alanine metabolism,19
+Urothelial,Cancer,MDS,Urothelial_Cancer_MDS,UCM,Betalain biosynthesis,2
+Urothelial,Cancer,MDS,Urothelial_Cancer_MDS,UCM,Biosynthesis of antibiotics,106
+Urothelial,Cancer,MDS,Urothelial_Cancer_MDS,UCM,Biosynthesis of secondary metabolites,160
+Urothelial,Cancer,MDS,Urothelial_Cancer_MDS,UCM,Biosynthesis of unsaturated fatty acids,22
+Urothelial,Cancer,MDS,Urothelial_Cancer_MDS,UCM,Biotin metabolism,1
+Urothelial,Cancer,MDS,Urothelial_Cancer_MDS,UCM,Butanoate metabolism,11
+Urothelial,Cancer,MDS,Urothelial_Cancer_MDS,UCM,C5-Branched dibasic acid metabolism,1
+Urothelial,Cancer,MDS,Urothelial_Cancer_MDS,UCM,Caffeine metabolism,3
+Urothelial,Cancer,MDS,Urothelial_Cancer_MDS,UCM,Caprolactam degradation,7
+Urothelial,Cancer,MDS,Urothelial_Cancer_MDS,UCM,Carbon fixation in photosynthetic organisms,10
+Urothelial,Cancer,MDS,Urothelial_Cancer_MDS,UCM,Carbon fixation pathways in prokaryotes,22
+Urothelial,Cancer,MDS,Urothelial_Cancer_MDS,UCM,Chloroalkane and chloroalkene degradation,5
+Urothelial,Cancer,MDS,Urothelial_Cancer_MDS,UCM,Citrate cycle (TCA cycle),19
+Urothelial,Cancer,MDS,Urothelial_Cancer_MDS,UCM,Cyanoamino acid metabolism,3
+Urothelial,Cancer,MDS,Urothelial_Cancer_MDS,UCM,Cysteine and methionine metabolism,13
+Urothelial,Cancer,MDS,Urothelial_Cancer_MDS,UCM,D-Glutamine and D-glutamate metabolism,3
+Urothelial,Cancer,MDS,Urothelial_Cancer_MDS,UCM,Drug metabolism - cytochrome P450,23
+Urothelial,Cancer,MDS,Urothelial_Cancer_MDS,UCM,Drug metabolism - other enzymes,49
+Urothelial,Cancer,MDS,Urothelial_Cancer_MDS,UCM,Ether lipid metabolism,4
+Urothelial,Cancer,MDS,Urothelial_Cancer_MDS,UCM,Ethylbenzene degradation,4
+Urothelial,Cancer,MDS,Urothelial_Cancer_MDS,UCM,Fatty acid biosynthesis,17
+Urothelial,Cancer,MDS,Urothelial_Cancer_MDS,UCM,Fatty acid degradation,34
+Urothelial,Cancer,MDS,Urothelial_Cancer_MDS,UCM,Fatty acid elongation,19
+Urothelial,Cancer,MDS,Urothelial_Cancer_MDS,UCM,Flavone and flavonol biosynthesis,1
+Urothelial,Cancer,MDS,Urothelial_Cancer_MDS,UCM,Folate biosynthesis,9
+Urothelial,Cancer,MDS,Urothelial_Cancer_MDS,UCM,Fructose and mannose metabolism,21
+Urothelial,Cancer,MDS,Urothelial_Cancer_MDS,UCM,Galactose metabolism,25
+Urothelial,Cancer,MDS,Urothelial_Cancer_MDS,UCM,Geraniol degradation,8
+Urothelial,Cancer,MDS,Urothelial_Cancer_MDS,UCM,Glutathione metabolism,30
+Urothelial,Cancer,MDS,Urothelial_Cancer_MDS,UCM,Glycerolipid metabolism,15
+Urothelial,Cancer,MDS,Urothelial_Cancer_MDS,UCM,Glycerophospholipid metabolism,12
+Urothelial,Cancer,MDS,Urothelial_Cancer_MDS,UCM,"Glycine, serine and threonine metabolism",15
+Urothelial,Cancer,MDS,Urothelial_Cancer_MDS,UCM,Glycolysis / Gluconeogenesis,53
+Urothelial,Cancer,MDS,Urothelial_Cancer_MDS,UCM,Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate,3
+Urothelial,Cancer,MDS,Urothelial_Cancer_MDS,UCM,Glycosaminoglycan biosynthesis - keratan sulfate,2
+Urothelial,Cancer,MDS,Urothelial_Cancer_MDS,UCM,Glycosaminoglycan degradation,5
+Urothelial,Cancer,MDS,Urothelial_Cancer_MDS,UCM,Glycosphingolipid biosynthesis - ganglio series,8
+Urothelial,Cancer,MDS,Urothelial_Cancer_MDS,UCM,Glycosphingolipid biosynthesis - globo and isoglobo series,6
+Urothelial,Cancer,MDS,Urothelial_Cancer_MDS,UCM,Glycosphingolipid biosynthesis - lacto and neolacto series,4
+Urothelial,Cancer,MDS,Urothelial_Cancer_MDS,UCM,Glyoxylate and dicarboxylate metabolism,11
+Urothelial,Cancer,MDS,Urothelial_Cancer_MDS,UCM,Histidine metabolism,14
+Urothelial,Cancer,MDS,Urothelial_Cancer_MDS,UCM,Inositol phosphate metabolism,19
+Urothelial,Cancer,MDS,Urothelial_Cancer_MDS,UCM,Insect hormone biosynthesis,4
+Urothelial,Cancer,MDS,Urothelial_Cancer_MDS,UCM,Isoquinoline alkaloid biosynthesis,7
+Urothelial,Cancer,MDS,Urothelial_Cancer_MDS,UCM,Limonene and pinene degradation,5
+Urothelial,Cancer,MDS,Urothelial_Cancer_MDS,UCM,Linoleic acid metabolism,6
+Urothelial,Cancer,MDS,Urothelial_Cancer_MDS,UCM,Lysine degradation,16
+Urothelial,Cancer,MDS,Urothelial_Cancer_MDS,UCM,Metabolic pathways,323
+Urothelial,Cancer,MDS,Urothelial_Cancer_MDS,UCM,Metabolism of xenobiotics by cytochrome P450,25
+Urothelial,Cancer,MDS,Urothelial_Cancer_MDS,UCM,Methane metabolism,8
+Urothelial,Cancer,MDS,Urothelial_Cancer_MDS,UCM,Microbial metabolism in diverse environments,105
+Urothelial,Cancer,MDS,Urothelial_Cancer_MDS,UCM,Monobactam biosynthesis,1
+Urothelial,Cancer,MDS,Urothelial_Cancer_MDS,UCM,Mucin type O-glycan biosynthesis,2
+Urothelial,Cancer,MDS,Urothelial_Cancer_MDS,UCM,N-Glycan biosynthesis,1
+Urothelial,Cancer,MDS,Urothelial_Cancer_MDS,UCM,Naphthalene degradation,1
+Urothelial,Cancer,MDS,Urothelial_Cancer_MDS,UCM,"Neomycin, kanamycin and gentamicin biosynthesis",15
+Urothelial,Cancer,MDS,Urothelial_Cancer_MDS,UCM,Nicotinate and nicotinamide metabolism,19
+Urothelial,Cancer,MDS,Urothelial_Cancer_MDS,UCM,Nitrogen metabolism,4
+Urothelial,Cancer,MDS,Urothelial_Cancer_MDS,UCM,Novobiocin biosynthesis,3
+Urothelial,Cancer,MDS,Urothelial_Cancer_MDS,UCM,One carbon pool by folate,13
+Urothelial,Cancer,MDS,Urothelial_Cancer_MDS,UCM,Other glycan degradation,5
+Urothelial,Cancer,MDS,Urothelial_Cancer_MDS,UCM,Oxidative phosphorylation,4
+Urothelial,Cancer,MDS,Urothelial_Cancer_MDS,UCM,Pantothenate and CoA biosynthesis,4
+Urothelial,Cancer,MDS,Urothelial_Cancer_MDS,UCM,Pentose and glucuronate interconversions,7
+Urothelial,Cancer,MDS,Urothelial_Cancer_MDS,UCM,Pentose phosphate pathway,9
+Urothelial,Cancer,MDS,Urothelial_Cancer_MDS,UCM,Phenylalanine metabolism,14
+Urothelial,Cancer,MDS,Urothelial_Cancer_MDS,UCM,"Phenylalanine, tyrosine and tryptophan biosynthesis",3
+Urothelial,Cancer,MDS,Urothelial_Cancer_MDS,UCM,Phenylpropanoid biosynthesis,1
+Urothelial,Cancer,MDS,Urothelial_Cancer_MDS,UCM,Porphyrin and chlorophyll metabolism,5
+Urothelial,Cancer,MDS,Urothelial_Cancer_MDS,UCM,Propanoate metabolism,16
+Urothelial,Cancer,MDS,Urothelial_Cancer_MDS,UCM,Purine metabolism,67
+Urothelial,Cancer,MDS,Urothelial_Cancer_MDS,UCM,Pyrimidine metabolism,64
+Urothelial,Cancer,MDS,Urothelial_Cancer_MDS,UCM,Pyruvate metabolism,33
+Urothelial,Cancer,MDS,Urothelial_Cancer_MDS,UCM,Retinol metabolism,8
+Urothelial,Cancer,MDS,Urothelial_Cancer_MDS,UCM,Riboflavin metabolism,2
+Urothelial,Cancer,MDS,Urothelial_Cancer_MDS,UCM,Selenocompound metabolism,2
+Urothelial,Cancer,MDS,Urothelial_Cancer_MDS,UCM,Sphingolipid metabolism,10
+Urothelial,Cancer,MDS,Urothelial_Cancer_MDS,UCM,Starch and sucrose metabolism,19
+Urothelial,Cancer,MDS,Urothelial_Cancer_MDS,UCM,Steroid biosynthesis,6
+Urothelial,Cancer,MDS,Urothelial_Cancer_MDS,UCM,Steroid hormone biosynthesis,11
+Urothelial,Cancer,MDS,Urothelial_Cancer_MDS,UCM,Streptomycin biosynthesis,17
+Urothelial,Cancer,MDS,Urothelial_Cancer_MDS,UCM,Styrene degradation,1
+Urothelial,Cancer,MDS,Urothelial_Cancer_MDS,UCM,Sulfur metabolism,2
+Urothelial,Cancer,MDS,Urothelial_Cancer_MDS,UCM,Synthesis and degradation of ketone bodies,3
+Urothelial,Cancer,MDS,Urothelial_Cancer_MDS,UCM,Taurine and hypotaurine metabolism,4
+Urothelial,Cancer,MDS,Urothelial_Cancer_MDS,UCM,Terpenoid backbone biosynthesis,4
+Urothelial,Cancer,MDS,Urothelial_Cancer_MDS,UCM,Thiamine metabolism,3
+Urothelial,Cancer,MDS,Urothelial_Cancer_MDS,UCM,Toluene degradation,3
+Urothelial,Cancer,MDS,Urothelial_Cancer_MDS,UCM,"Tropane, piperidine and pyridine alkaloid biosynthesis",5
+Urothelial,Cancer,MDS,Urothelial_Cancer_MDS,UCM,Tryptophan metabolism,24
+Urothelial,Cancer,MDS,Urothelial_Cancer_MDS,UCM,Tyrosine metabolism,18
+Urothelial,Cancer,MDS,Urothelial_Cancer_MDS,UCM,Ubiquinone and other terpenoid-quinone biosynthesis,1
+Urothelial,Cancer,MDS,Urothelial_Cancer_MDS,UCM,"Valine, leucine and isoleucine biosynthesis",2
+Urothelial,Cancer,MDS,Urothelial_Cancer_MDS,UCM,"Valine, leucine and isoleucine degradation",22
+Urothelial,Cancer,MDS,Urothelial_Cancer_MDS,UCM,Various types of N-glycan biosynthesis,1
+Urothelial,Cancer,MDS,Urothelial_Cancer_MDS,UCM,Vitamin B6 metabolism,1
+Urothelial,Cancer,nonMDS,Urothelial_Cancer_nonMDS,UCNM,Aflatoxin biosynthesis,2
+Urothelial,Cancer,nonMDS,Urothelial_Cancer_nonMDS,UCNM,"Alanine, aspartate and glutamate metabolism",15
+Urothelial,Cancer,nonMDS,Urothelial_Cancer_nonMDS,UCNM,alpha-Linolenic acid metabolism,249
+Urothelial,Cancer,nonMDS,Urothelial_Cancer_nonMDS,UCNM,Amino sugar and nucleotide sugar metabolism,35
+Urothelial,Cancer,nonMDS,Urothelial_Cancer_nonMDS,UCNM,Aminoacyl-tRNA biosynthesis,20
+Urothelial,Cancer,nonMDS,Urothelial_Cancer_nonMDS,UCNM,Aminobenzoate degradation,129
+Urothelial,Cancer,nonMDS,Urothelial_Cancer_nonMDS,UCNM,Arachidonic acid metabolism,80
+Urothelial,Cancer,nonMDS,Urothelial_Cancer_nonMDS,UCNM,Arginine and proline metabolism,62
+Urothelial,Cancer,nonMDS,Urothelial_Cancer_nonMDS,UCNM,Arginine biosynthesis,6
+Urothelial,Cancer,nonMDS,Urothelial_Cancer_nonMDS,UCNM,Ascorbate and aldarate metabolism,20
+Urothelial,Cancer,nonMDS,Urothelial_Cancer_nonMDS,UCNM,Benzoate degradation,281
+Urothelial,Cancer,nonMDS,Urothelial_Cancer_nonMDS,UCNM,beta-Alanine metabolism,153
+Urothelial,Cancer,nonMDS,Urothelial_Cancer_nonMDS,UCNM,Betalain biosynthesis,21
+Urothelial,Cancer,nonMDS,Urothelial_Cancer_nonMDS,UCNM,Biosynthesis of ansamycins,2
+Urothelial,Cancer,nonMDS,Urothelial_Cancer_nonMDS,UCNM,Biosynthesis of antibiotics,448
+Urothelial,Cancer,nonMDS,Urothelial_Cancer_nonMDS,UCNM,Biosynthesis of secondary metabolites,791
+Urothelial,Cancer,nonMDS,Urothelial_Cancer_nonMDS,UCNM,Biosynthesis of unsaturated fatty acids,233
+Urothelial,Cancer,nonMDS,Urothelial_Cancer_nonMDS,UCNM,Biotin metabolism,25
+Urothelial,Cancer,nonMDS,Urothelial_Cancer_nonMDS,UCNM,Butanoate metabolism,195
+Urothelial,Cancer,nonMDS,Urothelial_Cancer_nonMDS,UCNM,Caffeine metabolism,36
+Urothelial,Cancer,nonMDS,Urothelial_Cancer_nonMDS,UCNM,Caprolactam degradation,191
+Urothelial,Cancer,nonMDS,Urothelial_Cancer_nonMDS,UCNM,Carbon fixation in photosynthetic organisms,12
+Urothelial,Cancer,nonMDS,Urothelial_Cancer_nonMDS,UCNM,Carbon fixation pathways in prokaryotes,210
+Urothelial,Cancer,nonMDS,Urothelial_Cancer_nonMDS,UCNM,Chloroalkane and chloroalkene degradation,16
+Urothelial,Cancer,nonMDS,Urothelial_Cancer_nonMDS,UCNM,Citrate cycle (TCA cycle),22
+Urothelial,Cancer,nonMDS,Urothelial_Cancer_nonMDS,UCNM,"Cutin, suberine and wax biosynthesis",1
+Urothelial,Cancer,nonMDS,Urothelial_Cancer_nonMDS,UCNM,Cyanoamino acid metabolism,5
+Urothelial,Cancer,nonMDS,Urothelial_Cancer_nonMDS,UCNM,Cysteine and methionine metabolism,33
+Urothelial,Cancer,nonMDS,Urothelial_Cancer_nonMDS,UCNM,D-Alanine metabolism,1
+Urothelial,Cancer,nonMDS,Urothelial_Cancer_nonMDS,UCNM,D-Arginine and D-ornithine metabolism,1
+Urothelial,Cancer,nonMDS,Urothelial_Cancer_nonMDS,UCNM,D-Glutamine and D-glutamate metabolism,1
+Urothelial,Cancer,nonMDS,Urothelial_Cancer_nonMDS,UCNM,Drug metabolism - cytochrome P450,102
+Urothelial,Cancer,nonMDS,Urothelial_Cancer_nonMDS,UCNM,Drug metabolism - other enzymes,60
+Urothelial,Cancer,nonMDS,Urothelial_Cancer_nonMDS,UCNM,Ether lipid metabolism,23
+Urothelial,Cancer,nonMDS,Urothelial_Cancer_nonMDS,UCNM,Ethylbenzene degradation,92
+Urothelial,Cancer,nonMDS,Urothelial_Cancer_nonMDS,UCNM,Fatty acid biosynthesis,166
+Urothelial,Cancer,nonMDS,Urothelial_Cancer_nonMDS,UCNM,Fatty acid degradation,638
+Urothelial,Cancer,nonMDS,Urothelial_Cancer_nonMDS,UCNM,Fatty acid elongation,405
+Urothelial,Cancer,nonMDS,Urothelial_Cancer_nonMDS,UCNM,Flavone and flavonol biosynthesis,2
+Urothelial,Cancer,nonMDS,Urothelial_Cancer_nonMDS,UCNM,Folate biosynthesis,53
+Urothelial,Cancer,nonMDS,Urothelial_Cancer_nonMDS,UCNM,Fructose and mannose metabolism,24
+Urothelial,Cancer,nonMDS,Urothelial_Cancer_nonMDS,UCNM,Galactose metabolism,26
+Urothelial,Cancer,nonMDS,Urothelial_Cancer_nonMDS,UCNM,Geraniol degradation,280
+Urothelial,Cancer,nonMDS,Urothelial_Cancer_nonMDS,UCNM,Glucosinolate biosynthesis,3
+Urothelial,Cancer,nonMDS,Urothelial_Cancer_nonMDS,UCNM,Glutathione metabolism,51
+Urothelial,Cancer,nonMDS,Urothelial_Cancer_nonMDS,UCNM,Glycerolipid metabolism,121
+Urothelial,Cancer,nonMDS,Urothelial_Cancer_nonMDS,UCNM,Glycerophospholipid metabolism,110
+Urothelial,Cancer,nonMDS,Urothelial_Cancer_nonMDS,UCNM,"Glycine, serine and threonine metabolism",60
+Urothelial,Cancer,nonMDS,Urothelial_Cancer_nonMDS,UCNM,Glycolysis / Gluconeogenesis,59
+Urothelial,Cancer,nonMDS,Urothelial_Cancer_nonMDS,UCNM,Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate,11
+Urothelial,Cancer,nonMDS,Urothelial_Cancer_nonMDS,UCNM,Glycosaminoglycan biosynthesis - heparan sulfate / heparin,6
+Urothelial,Cancer,nonMDS,Urothelial_Cancer_nonMDS,UCNM,Glycosaminoglycan biosynthesis - keratan sulfate,8
+Urothelial,Cancer,nonMDS,Urothelial_Cancer_nonMDS,UCNM,Glycosaminoglycan degradation,36
+Urothelial,Cancer,nonMDS,Urothelial_Cancer_nonMDS,UCNM,Glycosphingolipid biosynthesis - ganglio series,21
+Urothelial,Cancer,nonMDS,Urothelial_Cancer_nonMDS,UCNM,Glycosphingolipid biosynthesis - globo and isoglobo series,34
+Urothelial,Cancer,nonMDS,Urothelial_Cancer_nonMDS,UCNM,Glycosphingolipid biosynthesis - lacto and neolacto series,43
+Urothelial,Cancer,nonMDS,Urothelial_Cancer_nonMDS,UCNM,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis,2
+Urothelial,Cancer,nonMDS,Urothelial_Cancer_nonMDS,UCNM,Glyoxylate and dicarboxylate metabolism,21
+Urothelial,Cancer,nonMDS,Urothelial_Cancer_nonMDS,UCNM,Histidine metabolism,59
+Urothelial,Cancer,nonMDS,Urothelial_Cancer_nonMDS,UCNM,Inositol phosphate metabolism,19
+Urothelial,Cancer,nonMDS,Urothelial_Cancer_nonMDS,UCNM,Insect hormone biosynthesis,11
+Urothelial,Cancer,nonMDS,Urothelial_Cancer_nonMDS,UCNM,Isoquinoline alkaloid biosynthesis,45
+Urothelial,Cancer,nonMDS,Urothelial_Cancer_nonMDS,UCNM,Limonene and pinene degradation,105
+Urothelial,Cancer,nonMDS,Urothelial_Cancer_nonMDS,UCNM,Linoleic acid metabolism,40
+Urothelial,Cancer,nonMDS,Urothelial_Cancer_nonMDS,UCNM,Lipoic acid metabolism,3
+Urothelial,Cancer,nonMDS,Urothelial_Cancer_nonMDS,UCNM,Lysine biosynthesis,4
+Urothelial,Cancer,nonMDS,Urothelial_Cancer_nonMDS,UCNM,Lysine degradation,223
+Urothelial,Cancer,nonMDS,Urothelial_Cancer_nonMDS,UCNM,Mannose type O-glycan biosynthesis,9
+Urothelial,Cancer,nonMDS,Urothelial_Cancer_nonMDS,UCNM,Metabolic pathways,1507
+Urothelial,Cancer,nonMDS,Urothelial_Cancer_nonMDS,UCNM,Metabolism of xenobiotics by cytochrome P450,114
+Urothelial,Cancer,nonMDS,Urothelial_Cancer_nonMDS,UCNM,Methane metabolism,20
+Urothelial,Cancer,nonMDS,Urothelial_Cancer_nonMDS,UCNM,Microbial metabolism in diverse environments,450
+Urothelial,Cancer,nonMDS,Urothelial_Cancer_nonMDS,UCNM,Monobactam biosynthesis,1
+Urothelial,Cancer,nonMDS,Urothelial_Cancer_nonMDS,UCNM,Mucin type O-glycan biosynthesis,11
+Urothelial,Cancer,nonMDS,Urothelial_Cancer_nonMDS,UCNM,N-Glycan biosynthesis,27
+Urothelial,Cancer,nonMDS,Urothelial_Cancer_nonMDS,UCNM,Naphthalene degradation,3
+Urothelial,Cancer,nonMDS,Urothelial_Cancer_nonMDS,UCNM,Nicotinate and nicotinamide metabolism,24
+Urothelial,Cancer,nonMDS,Urothelial_Cancer_nonMDS,UCNM,Nitrogen metabolism,2
+Urothelial,Cancer,nonMDS,Urothelial_Cancer_nonMDS,UCNM,Novobiocin biosynthesis,8
+Urothelial,Cancer,nonMDS,Urothelial_Cancer_nonMDS,UCNM,One carbon pool by folate,20
+Urothelial,Cancer,nonMDS,Urothelial_Cancer_nonMDS,UCNM,Other glycan degradation,13
+Urothelial,Cancer,nonMDS,Urothelial_Cancer_nonMDS,UCNM,Other types of O-glycan biosynthesis,3
+Urothelial,Cancer,nonMDS,Urothelial_Cancer_nonMDS,UCNM,Oxidative phosphorylation,2
+Urothelial,Cancer,nonMDS,Urothelial_Cancer_nonMDS,UCNM,Pantothenate and CoA biosynthesis,19
+Urothelial,Cancer,nonMDS,Urothelial_Cancer_nonMDS,UCNM,Pentose and glucuronate interconversions,23
+Urothelial,Cancer,nonMDS,Urothelial_Cancer_nonMDS,UCNM,Pentose phosphate pathway,20
+Urothelial,Cancer,nonMDS,Urothelial_Cancer_nonMDS,UCNM,Phenylalanine metabolism,158
+Urothelial,Cancer,nonMDS,Urothelial_Cancer_nonMDS,UCNM,"Phenylalanine, tyrosine and tryptophan biosynthesis",9
+Urothelial,Cancer,nonMDS,Urothelial_Cancer_nonMDS,UCNM,Phenylpropanoid biosynthesis,6
+Urothelial,Cancer,nonMDS,Urothelial_Cancer_nonMDS,UCNM,Phosphonate and phosphinate metabolism,5
+Urothelial,Cancer,nonMDS,Urothelial_Cancer_nonMDS,UCNM,Porphyrin and chlorophyll metabolism,25
+Urothelial,Cancer,nonMDS,Urothelial_Cancer_nonMDS,UCNM,Primary bile acid biosynthesis,44
+Urothelial,Cancer,nonMDS,Urothelial_Cancer_nonMDS,UCNM,Propanoate metabolism,136
+Urothelial,Cancer,nonMDS,Urothelial_Cancer_nonMDS,UCNM,Purine metabolism,62
+Urothelial,Cancer,nonMDS,Urothelial_Cancer_nonMDS,UCNM,Pyrimidine metabolism,50
+Urothelial,Cancer,nonMDS,Urothelial_Cancer_nonMDS,UCNM,Pyruvate metabolism,36
+Urothelial,Cancer,nonMDS,Urothelial_Cancer_nonMDS,UCNM,Retinol metabolism,57
+Urothelial,Cancer,nonMDS,Urothelial_Cancer_nonMDS,UCNM,Riboflavin metabolism,9
+Urothelial,Cancer,nonMDS,Urothelial_Cancer_nonMDS,UCNM,Secondary bile acid biosynthesis,4
+Urothelial,Cancer,nonMDS,Urothelial_Cancer_nonMDS,UCNM,Selenocompound metabolism,8
+Urothelial,Cancer,nonMDS,Urothelial_Cancer_nonMDS,UCNM,Sesquiterpenoid and triterpenoid biosynthesis,2
+Urothelial,Cancer,nonMDS,Urothelial_Cancer_nonMDS,UCNM,Sphingolipid metabolism,30
+Urothelial,Cancer,nonMDS,Urothelial_Cancer_nonMDS,UCNM,Starch and sucrose metabolism,18
+Urothelial,Cancer,nonMDS,Urothelial_Cancer_nonMDS,UCNM,Steroid biosynthesis,141
+Urothelial,Cancer,nonMDS,Urothelial_Cancer_nonMDS,UCNM,Steroid degradation,3
+Urothelial,Cancer,nonMDS,Urothelial_Cancer_nonMDS,UCNM,Steroid hormone biosynthesis,96
+Urothelial,Cancer,nonMDS,Urothelial_Cancer_nonMDS,UCNM,Streptomycin biosynthesis,3
+Urothelial,Cancer,nonMDS,Urothelial_Cancer_nonMDS,UCNM,Styrene degradation,3
+Urothelial,Cancer,nonMDS,Urothelial_Cancer_nonMDS,UCNM,Sulfur metabolism,6
+Urothelial,Cancer,nonMDS,Urothelial_Cancer_nonMDS,UCNM,Synthesis and degradation of ketone bodies,5
+Urothelial,Cancer,nonMDS,Urothelial_Cancer_nonMDS,UCNM,Taurine and hypotaurine metabolism,11
+Urothelial,Cancer,nonMDS,Urothelial_Cancer_nonMDS,UCNM,Terpenoid backbone biosynthesis,19
+Urothelial,Cancer,nonMDS,Urothelial_Cancer_nonMDS,UCNM,Thiamine metabolism,9
+Urothelial,Cancer,nonMDS,Urothelial_Cancer_nonMDS,UCNM,Toluene degradation,93
+Urothelial,Cancer,nonMDS,Urothelial_Cancer_nonMDS,UCNM,"Tropane, piperidine and pyridine alkaloid biosynthesis",27
+Urothelial,Cancer,nonMDS,Urothelial_Cancer_nonMDS,UCNM,Tryptophan metabolism,295
+Urothelial,Cancer,nonMDS,Urothelial_Cancer_nonMDS,UCNM,Tyrosine metabolism,81
+Urothelial,Cancer,nonMDS,Urothelial_Cancer_nonMDS,UCNM,Ubiquinone and other terpenoid-quinone biosynthesis,5
+Urothelial,Cancer,nonMDS,Urothelial_Cancer_nonMDS,UCNM,"Valine, leucine and isoleucine biosynthesis",3
+Urothelial,Cancer,nonMDS,Urothelial_Cancer_nonMDS,UCNM,"Valine, leucine and isoleucine degradation",321
+Urothelial,Cancer,nonMDS,Urothelial_Cancer_nonMDS,UCNM,Various types of N-glycan biosynthesis,29
+Urothelial,Cancer,nonMDS,Urothelial_Cancer_nonMDS,UCNM,Vitamin B6 metabolism,6
+Urothelial,Healthy,MDS,Urothelial_Healthy_MDS,UHM,Aflatoxin biosynthesis,1
+Urothelial,Healthy,MDS,Urothelial_Healthy_MDS,UHM,"Alanine, aspartate and glutamate metabolism",14
+Urothelial,Healthy,MDS,Urothelial_Healthy_MDS,UHM,alpha-Linolenic acid metabolism,21
+Urothelial,Healthy,MDS,Urothelial_Healthy_MDS,UHM,Amino sugar and nucleotide sugar metabolism,31
+Urothelial,Healthy,MDS,Urothelial_Healthy_MDS,UHM,Aminobenzoate degradation,5
+Urothelial,Healthy,MDS,Urothelial_Healthy_MDS,UHM,Arachidonic acid metabolism,20
+Urothelial,Healthy,MDS,Urothelial_Healthy_MDS,UHM,Arginine and proline metabolism,21
+Urothelial,Healthy,MDS,Urothelial_Healthy_MDS,UHM,Arginine biosynthesis,7
+Urothelial,Healthy,MDS,Urothelial_Healthy_MDS,UHM,Ascorbate and aldarate metabolism,4
+Urothelial,Healthy,MDS,Urothelial_Healthy_MDS,UHM,Benzoate degradation,14
+Urothelial,Healthy,MDS,Urothelial_Healthy_MDS,UHM,beta-Alanine metabolism,25
+Urothelial,Healthy,MDS,Urothelial_Healthy_MDS,UHM,Betalain biosynthesis,9
+Urothelial,Healthy,MDS,Urothelial_Healthy_MDS,UHM,Biosynthesis of antibiotics,145
+Urothelial,Healthy,MDS,Urothelial_Healthy_MDS,UHM,Biosynthesis of secondary metabolites,233
+Urothelial,Healthy,MDS,Urothelial_Healthy_MDS,UHM,Biosynthesis of unsaturated fatty acids,26
+Urothelial,Healthy,MDS,Urothelial_Healthy_MDS,UHM,Biotin metabolism,2
+Urothelial,Healthy,MDS,Urothelial_Healthy_MDS,UHM,Brassinosteroid biosynthesis,3
+Urothelial,Healthy,MDS,Urothelial_Healthy_MDS,UHM,Butanoate metabolism,15
+Urothelial,Healthy,MDS,Urothelial_Healthy_MDS,UHM,C5-Branched dibasic acid metabolism,1
+Urothelial,Healthy,MDS,Urothelial_Healthy_MDS,UHM,Caffeine metabolism,2
+Urothelial,Healthy,MDS,Urothelial_Healthy_MDS,UHM,Caprolactam degradation,8
+Urothelial,Healthy,MDS,Urothelial_Healthy_MDS,UHM,Carbon fixation in photosynthetic organisms,17
+Urothelial,Healthy,MDS,Urothelial_Healthy_MDS,UHM,Carbon fixation pathways in prokaryotes,27
+Urothelial,Healthy,MDS,Urothelial_Healthy_MDS,UHM,Chloroalkane and chloroalkene degradation,5
+Urothelial,Healthy,MDS,Urothelial_Healthy_MDS,UHM,Citrate cycle (TCA cycle),30
+Urothelial,Healthy,MDS,Urothelial_Healthy_MDS,UHM,"Cutin, suberine and wax biosynthesis",1
+Urothelial,Healthy,MDS,Urothelial_Healthy_MDS,UHM,Cyanoamino acid metabolism,2
+Urothelial,Healthy,MDS,Urothelial_Healthy_MDS,UHM,Cysteine and methionine metabolism,17
+Urothelial,Healthy,MDS,Urothelial_Healthy_MDS,UHM,D-Glutamine and D-glutamate metabolism,1
+Urothelial,Healthy,MDS,Urothelial_Healthy_MDS,UHM,Drug metabolism - cytochrome P450,30
+Urothelial,Healthy,MDS,Urothelial_Healthy_MDS,UHM,Drug metabolism - other enzymes,59
+Urothelial,Healthy,MDS,Urothelial_Healthy_MDS,UHM,Ether lipid metabolism,11
+Urothelial,Healthy,MDS,Urothelial_Healthy_MDS,UHM,Ethylbenzene degradation,7
+Urothelial,Healthy,MDS,Urothelial_Healthy_MDS,UHM,Fatty acid biosynthesis,19
+Urothelial,Healthy,MDS,Urothelial_Healthy_MDS,UHM,Fatty acid degradation,48
+Urothelial,Healthy,MDS,Urothelial_Healthy_MDS,UHM,Fatty acid elongation,23
+Urothelial,Healthy,MDS,Urothelial_Healthy_MDS,UHM,Flavone and flavonol biosynthesis,1
+Urothelial,Healthy,MDS,Urothelial_Healthy_MDS,UHM,Folate biosynthesis,21
+Urothelial,Healthy,MDS,Urothelial_Healthy_MDS,UHM,Fructose and mannose metabolism,25
+Urothelial,Healthy,MDS,Urothelial_Healthy_MDS,UHM,Galactose metabolism,32
+Urothelial,Healthy,MDS,Urothelial_Healthy_MDS,UHM,Geraniol degradation,12
+Urothelial,Healthy,MDS,Urothelial_Healthy_MDS,UHM,Glutathione metabolism,42
+Urothelial,Healthy,MDS,Urothelial_Healthy_MDS,UHM,Glycerolipid metabolism,20
+Urothelial,Healthy,MDS,Urothelial_Healthy_MDS,UHM,Glycerophospholipid metabolism,24
+Urothelial,Healthy,MDS,Urothelial_Healthy_MDS,UHM,"Glycine, serine and threonine metabolism",25
+Urothelial,Healthy,MDS,Urothelial_Healthy_MDS,UHM,Glycolysis / Gluconeogenesis,62
+Urothelial,Healthy,MDS,Urothelial_Healthy_MDS,UHM,Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate,8
+Urothelial,Healthy,MDS,Urothelial_Healthy_MDS,UHM,Glycosaminoglycan biosynthesis - heparan sulfate / heparin,3
+Urothelial,Healthy,MDS,Urothelial_Healthy_MDS,UHM,Glycosaminoglycan biosynthesis - keratan sulfate,4
+Urothelial,Healthy,MDS,Urothelial_Healthy_MDS,UHM,Glycosaminoglycan degradation,14
+Urothelial,Healthy,MDS,Urothelial_Healthy_MDS,UHM,Glycosphingolipid biosynthesis - ganglio series,18
+Urothelial,Healthy,MDS,Urothelial_Healthy_MDS,UHM,Glycosphingolipid biosynthesis - globo and isoglobo series,17
+Urothelial,Healthy,MDS,Urothelial_Healthy_MDS,UHM,Glycosphingolipid biosynthesis - lacto and neolacto series,22
+Urothelial,Healthy,MDS,Urothelial_Healthy_MDS,UHM,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis,1
+Urothelial,Healthy,MDS,Urothelial_Healthy_MDS,UHM,Glyoxylate and dicarboxylate metabolism,23
+Urothelial,Healthy,MDS,Urothelial_Healthy_MDS,UHM,Histidine metabolism,16
+Urothelial,Healthy,MDS,Urothelial_Healthy_MDS,UHM,Inositol phosphate metabolism,30
+Urothelial,Healthy,MDS,Urothelial_Healthy_MDS,UHM,Insect hormone biosynthesis,2
+Urothelial,Healthy,MDS,Urothelial_Healthy_MDS,UHM,Isoquinoline alkaloid biosynthesis,10
+Urothelial,Healthy,MDS,Urothelial_Healthy_MDS,UHM,Limonene and pinene degradation,5
+Urothelial,Healthy,MDS,Urothelial_Healthy_MDS,UHM,Linoleic acid metabolism,4
+Urothelial,Healthy,MDS,Urothelial_Healthy_MDS,UHM,Lysine degradation,20
+Urothelial,Healthy,MDS,Urothelial_Healthy_MDS,UHM,Mannose type O-glycan biosynthesis,5
+Urothelial,Healthy,MDS,Urothelial_Healthy_MDS,UHM,Metabolic pathways,510
+Urothelial,Healthy,MDS,Urothelial_Healthy_MDS,UHM,Metabolism of xenobiotics by cytochrome P450,39
+Urothelial,Healthy,MDS,Urothelial_Healthy_MDS,UHM,Methane metabolism,13
+Urothelial,Healthy,MDS,Urothelial_Healthy_MDS,UHM,Microbial metabolism in diverse environments,133
+Urothelial,Healthy,MDS,Urothelial_Healthy_MDS,UHM,Mucin type O-glycan biosynthesis,5
+Urothelial,Healthy,MDS,Urothelial_Healthy_MDS,UHM,N-Glycan biosynthesis,4
+Urothelial,Healthy,MDS,Urothelial_Healthy_MDS,UHM,Naphthalene degradation,3
+Urothelial,Healthy,MDS,Urothelial_Healthy_MDS,UHM,"Neomycin, kanamycin and gentamicin biosynthesis",15
+Urothelial,Healthy,MDS,Urothelial_Healthy_MDS,UHM,Nicotinate and nicotinamide metabolism,22
+Urothelial,Healthy,MDS,Urothelial_Healthy_MDS,UHM,Nitrogen metabolism,6
+Urothelial,Healthy,MDS,Urothelial_Healthy_MDS,UHM,Novobiocin biosynthesis,4
+Urothelial,Healthy,MDS,Urothelial_Healthy_MDS,UHM,One carbon pool by folate,10
+Urothelial,Healthy,MDS,Urothelial_Healthy_MDS,UHM,Other glycan degradation,12
+Urothelial,Healthy,MDS,Urothelial_Healthy_MDS,UHM,Other types of O-glycan biosynthesis,2
+Urothelial,Healthy,MDS,Urothelial_Healthy_MDS,UHM,Oxidative phosphorylation,5
+Urothelial,Healthy,MDS,Urothelial_Healthy_MDS,UHM,Pantothenate and CoA biosynthesis,6
+Urothelial,Healthy,MDS,Urothelial_Healthy_MDS,UHM,Pentose and glucuronate interconversions,9
+Urothelial,Healthy,MDS,Urothelial_Healthy_MDS,UHM,Pentose phosphate pathway,15
+Urothelial,Healthy,MDS,Urothelial_Healthy_MDS,UHM,Phenylalanine metabolism,24
+Urothelial,Healthy,MDS,Urothelial_Healthy_MDS,UHM,"Phenylalanine, tyrosine and tryptophan biosynthesis",6
+Urothelial,Healthy,MDS,Urothelial_Healthy_MDS,UHM,Phenylpropanoid biosynthesis,4
+Urothelial,Healthy,MDS,Urothelial_Healthy_MDS,UHM,Phosphonate and phosphinate metabolism,2
+Urothelial,Healthy,MDS,Urothelial_Healthy_MDS,UHM,Porphyrin and chlorophyll metabolism,5
+Urothelial,Healthy,MDS,Urothelial_Healthy_MDS,UHM,Primary bile acid biosynthesis,10
+Urothelial,Healthy,MDS,Urothelial_Healthy_MDS,UHM,Propanoate metabolism,22
+Urothelial,Healthy,MDS,Urothelial_Healthy_MDS,UHM,Purine metabolism,93
+Urothelial,Healthy,MDS,Urothelial_Healthy_MDS,UHM,Pyrimidine metabolism,73
+Urothelial,Healthy,MDS,Urothelial_Healthy_MDS,UHM,Pyruvate metabolism,46
+Urothelial,Healthy,MDS,Urothelial_Healthy_MDS,UHM,Retinol metabolism,13
+Urothelial,Healthy,MDS,Urothelial_Healthy_MDS,UHM,Riboflavin metabolism,1
+Urothelial,Healthy,MDS,Urothelial_Healthy_MDS,UHM,Secondary bile acid biosynthesis,3
+Urothelial,Healthy,MDS,Urothelial_Healthy_MDS,UHM,Selenocompound metabolism,1
+Urothelial,Healthy,MDS,Urothelial_Healthy_MDS,UHM,Sphingolipid metabolism,14
+Urothelial,Healthy,MDS,Urothelial_Healthy_MDS,UHM,Starch and sucrose metabolism,27
+Urothelial,Healthy,MDS,Urothelial_Healthy_MDS,UHM,Steroid biosynthesis,3
+Urothelial,Healthy,MDS,Urothelial_Healthy_MDS,UHM,Steroid hormone biosynthesis,21
+Urothelial,Healthy,MDS,Urothelial_Healthy_MDS,UHM,Streptomycin biosynthesis,19
+Urothelial,Healthy,MDS,Urothelial_Healthy_MDS,UHM,Styrene degradation,2
+Urothelial,Healthy,MDS,Urothelial_Healthy_MDS,UHM,Sulfur metabolism,2
+Urothelial,Healthy,MDS,Urothelial_Healthy_MDS,UHM,Synthesis and degradation of ketone bodies,4
+Urothelial,Healthy,MDS,Urothelial_Healthy_MDS,UHM,Taurine and hypotaurine metabolism,9
+Urothelial,Healthy,MDS,Urothelial_Healthy_MDS,UHM,Terpenoid backbone biosynthesis,4
+Urothelial,Healthy,MDS,Urothelial_Healthy_MDS,UHM,Thiamine metabolism,5
+Urothelial,Healthy,MDS,Urothelial_Healthy_MDS,UHM,Toluene degradation,1
+Urothelial,Healthy,MDS,Urothelial_Healthy_MDS,UHM,"Tropane, piperidine and pyridine alkaloid biosynthesis",6
+Urothelial,Healthy,MDS,Urothelial_Healthy_MDS,UHM,Tryptophan metabolism,31
+Urothelial,Healthy,MDS,Urothelial_Healthy_MDS,UHM,Tyrosine metabolism,34
+Urothelial,Healthy,MDS,Urothelial_Healthy_MDS,UHM,Ubiquinone and other terpenoid-quinone biosynthesis,1
+Urothelial,Healthy,MDS,Urothelial_Healthy_MDS,UHM,"Valine, leucine and isoleucine biosynthesis",2
+Urothelial,Healthy,MDS,Urothelial_Healthy_MDS,UHM,"Valine, leucine and isoleucine degradation",28
+Urothelial,Healthy,MDS,Urothelial_Healthy_MDS,UHM,Various types of N-glycan biosynthesis,12
+Urothelial,Healthy,MDS,Urothelial_Healthy_MDS,UHM,Vitamin B6 metabolism,3
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,Acarbose and validamycin biosynthesis,1
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,Aflatoxin biosynthesis,2
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,"Alanine, aspartate and glutamate metabolism",27
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,alpha-Linolenic acid metabolism,292
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,Amino sugar and nucleotide sugar metabolism,82
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,Aminoacyl-tRNA biosynthesis,20
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,Aminobenzoate degradation,156
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,Arachidonic acid metabolism,87
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,Arginine and proline metabolism,83
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,Arginine biosynthesis,10
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,Ascorbate and aldarate metabolism,28
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,Benzoate degradation,346
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,beta-Alanine metabolism,245
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,Betalain biosynthesis,15
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,Biosynthesis of ansamycins,2
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,Biosynthesis of antibiotics,605
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,Biosynthesis of secondary metabolites,1095
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,Biosynthesis of unsaturated fatty acids,363
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,Biosynthesis of vancomycin group antibiotics,1
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,Biotin metabolism,33
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,Butanoate metabolism,251
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,C5-Branched dibasic acid metabolism,4
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,Caffeine metabolism,43
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,Caprolactam degradation,243
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,Carbapenem biosynthesis,2
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,Carbon fixation in photosynthetic organisms,11
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,Carbon fixation pathways in prokaryotes,262
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,Chloroalkane and chloroalkene degradation,28
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,Citrate cycle (TCA cycle),24
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,"Cutin, suberine and wax biosynthesis",3
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,Cyanoamino acid metabolism,8
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,Cysteine and methionine metabolism,37
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,D-Alanine metabolism,1
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,D-Arginine and D-ornithine metabolism,1
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,D-Glutamine and D-glutamate metabolism,4
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,Drug metabolism - cytochrome P450,117
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,Drug metabolism - other enzymes,78
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,Ether lipid metabolism,26
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,Ethylbenzene degradation,110
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,Fatty acid biosynthesis,211
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,Fatty acid degradation,956
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,Fatty acid elongation,676
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,Flavone and flavonol biosynthesis,7
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,Folate biosynthesis,84
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,Fructose and mannose metabolism,29
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,Galactose metabolism,59
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,Geraniol degradation,343
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,Glucosinolate biosynthesis,3
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,Glutathione metabolism,47
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,Glycerolipid metabolism,137
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,Glycerophospholipid metabolism,110
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,"Glycine, serine and threonine metabolism",81
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,Glycolysis / Gluconeogenesis,72
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate,24
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,Glycosaminoglycan biosynthesis - heparan sulfate / heparin,26
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,Glycosaminoglycan biosynthesis - keratan sulfate,10
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,Glycosaminoglycan degradation,170
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,Glycosphingolipid biosynthesis - ganglio series,110
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,Glycosphingolipid biosynthesis - globo and isoglobo series,87
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,Glycosphingolipid biosynthesis - lacto and neolacto series,43
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis,3
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,Glyoxylate and dicarboxylate metabolism,25
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,Histidine metabolism,74
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,Inositol phosphate metabolism,29
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,Insect hormone biosynthesis,16
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,Isoquinoline alkaloid biosynthesis,50
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,Limonene and pinene degradation,131
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,Linoleic acid metabolism,47
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,Lipoic acid metabolism,5
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,Lysine biosynthesis,5
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,Lysine degradation,274
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,Mannose type O-glycan biosynthesis,5
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,Metabolic pathways,2328
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,Metabolism of xenobiotics by cytochrome P450,124
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,Methane metabolism,21
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,Microbial metabolism in diverse environments,554
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,Monobactam biosynthesis,2
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,Mucin type O-glycan biosynthesis,11
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,N-Glycan biosynthesis,45
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,Naphthalene degradation,10
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,Nicotinate and nicotinamide metabolism,27
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,Nitrogen metabolism,3
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,Novobiocin biosynthesis,8
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,One carbon pool by folate,26
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,Other glycan degradation,134
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,Other types of O-glycan biosynthesis,2
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,Oxidative phosphorylation,2
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,Pantothenate and CoA biosynthesis,18
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,Pentose and glucuronate interconversions,40
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,Pentose phosphate pathway,19
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,Phenylalanine metabolism,186
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,"Phenylalanine, tyrosine and tryptophan biosynthesis",10
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,Phenylpropanoid biosynthesis,13
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,Phosphonate and phosphinate metabolism,7
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,Polyketide sugar unit biosynthesis,1
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,Porphyrin and chlorophyll metabolism,33
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,Primary bile acid biosynthesis,50
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,Propanoate metabolism,215
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,Purine metabolism,71
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,Pyrimidine metabolism,57
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,Pyruvate metabolism,38
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,Retinol metabolism,72
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,Riboflavin metabolism,7
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,Secondary bile acid biosynthesis,6
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,Selenocompound metabolism,10
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,Sesquiterpenoid and triterpenoid biosynthesis,2
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,Sphingolipid metabolism,105
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,Starch and sucrose metabolism,27
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,Steroid biosynthesis,147
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,Steroid degradation,1
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,Steroid hormone biosynthesis,108
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,Streptomycin biosynthesis,4
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,Styrene degradation,3
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,Sulfur metabolism,5
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,Synthesis and degradation of ketone bodies,5
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,Taurine and hypotaurine metabolism,12
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,Terpenoid backbone biosynthesis,21
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,Thiamine metabolism,11
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,Toluene degradation,118
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,"Tropane, piperidine and pyridine alkaloid biosynthesis",31
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,Tryptophan metabolism,359
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,Tyrosine metabolism,98
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,Ubiquinone and other terpenoid-quinone biosynthesis,10
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,"Valine, leucine and isoleucine biosynthesis",6
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,"Valine, leucine and isoleucine degradation",452
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,Various types of N-glycan biosynthesis,93
+Urothelial,Healthy,nonMDS,Urothelial_Healthy_nonMDS,UHNM,Vitamin B6 metabolism,14
